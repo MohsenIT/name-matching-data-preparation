@@ -1,0 +1,50 @@
+---
+title: "بخش اول) تطبیق اسامی"
+author: "محسن"
+date: "اسفند ۱۳۹۶  "
+output: html_notebook
+params:
+  IS.WRITE.OBJECT.CSV.OUTPUT: TRUE
+  IS.WRITE.NEO4J.OUTPUT: TRUE
+  
+---
+<style>
+
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRTitr, tahoma;
+}
+p, ol, li, ul, table {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRNazanin, tahoma;
+  text-align: justify;
+  text-justify: kashida;
+}
+td, th, header {
+  text-align: center !important;
+  vertical-align: middle;
+}
+
+tr:nth-child(odd) {
+   background-color: #f2f2f2
+}
+
+</style>
+ 
+ 
+###1- بررسی اشکالات تایپی برای ایجاد فینگرپرینت
+برای این که بفهمیم چه فینگرپرینتی برای تبدیل اسامی استفاده کنیم باید اشتباهات تایپی را تحلیل کنیم. در این بخش به بررسی اشکالات تایپی در این پایگاه داده می پردازیم.
+```{r}
+tmp <- merge(edge_dt[type == 'RESID_REF'], edge_dt[type == 'RESID_REF', .(cnt_resid_names = .N), by=from_val], all=FALSE) [cnt_resid_names > 1]
+
+t <- node_dt[label=='TOKEN'][['val']]
+phonic_comp <- data.table(token=t, statcan=statcan(t), soundex=soundex(t), rogerroot=rogerroot(t)) [order(token)]
+# fwrite(phonic_comp, file = '../out/phonic_comp.csv')
+remove(tmp,t)
+```
+
+
+
+
+والسلام
+

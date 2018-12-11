@@ -1,0 +1,584 @@
+arantza diaz de ilarraza == a. diaz-ilarraza
+arantza diaz de ilarraza sanchez == a. diaz-ilarraza
+arthur evans jr. == a. evens jr.
+ganesh sittampalam == a. g. sittampalam
+abhay kanhere == a. kanhare
+akkihebba l. ananda == a. l. ananda
+alexandros matsikis == a. matsiki
+andres perez-uribe == a. perez-uribe
+aart blokhuis == aart blockhuis
+alhinandan jain == abhinandan jain
+avi ziv == abraham ziv
+antonios thanailakis == adonios thanailakis
+a. perez-uribe == adres perez-uribe
+andres perez-uribe == adres perez-uribe
+agnieszka dardzinska == agnieszka dardziska
+akkihebbal l. ananda == akkihebba l. ananda
+alan f. backwell == alan f. blackwell
+alessandro barabesi == alessandro barbesi
+alex alete == alex aleta
+alexandru nicolau == alex nicolau
+alexander a. sawchuck == alexander a. sawchuk
+j. alison noble == alison noble
+almerico murli == almericop murli
+alok n. choudhary == alok chourdary
+alon y. halevy == alon y. levy
+aluizio f. r. araujo == aluzio f. r. araujo
+aluizio f. r. araujo == aluzio f. r. araujo
+amr elmasry == amo elmasry
+ana arruarte lasa == ana arruarte arruarte
+a. b. martinez prieto == ana belen martinez prieto
+anand rangarajan == anan rangarajan
+angelos michalas == angelos mihalas
+anirudh devgan == anirudh devgana
+anne-marie croteau == anne-marie croteaul
+anneliese amschler andrews == anneliese amscher andrews
+anthony k. h. tung == anthony k. h. tong
+antonio de oliveira == antonio a. f. oliveira
+antonio marti vicente santonja == antonio marti
+aoying zhou == aoying zhous
+ari moesriami barmawi == ari musriami barmawi
+arkady b. zaslavsky == arkady zaslasvky
+arne k. sandovik == arne k. sandvik
+arne k. sanvik == arne k. sandvik
+arne k. sandovik == arne k. sanvik
+arr-mien chou == arr-ming chou
+ashley bush == ashely bush
+attila gyenesei == attlila gyenesei
+abraham silberschatz == avi silberschatz
+bipin c. desai == b. c. desal
+brian d. o. anderson == b. d. o. anderson
+burton ma == b. ma
+e. mazer == b. mazer
+emmanuel mazer == b. mazer
+b. vijayakumar == b. vijaykumar
+b. w. jordan jr. == b. w. fordan jr.
+baibua zheng == baihua zheng
+bala kalyanasundaram == bala kalayansundaram
+feng tao == barry tao
+benjamim r. de menezes == benjamin rodrigues de menezes
+bernadette dorizzi == bernadette doizzi
+k. bernhard schiefer == berni schiefer
+bertrand thirion == bertrand thierion
+bijan sayyarrodsari == bijan sayyarodsari
+bikramjit banerjee == bikramit banerjee
+r. a. day == bob day
+bogdan tanasa == bogdan tanas
+lee boon peng == boon peng lee
+r. brent gallupe == brent gallupe
+brian van voorst == brian vanvoorst
+l. bruce richmond == bruce richmond
+chin-chen chang == c. c. chang
+celia fonseca guerra == c. fonseca guerra
+chu-hsing lin == c. h. lin
+chu min li == c. m. li
+nigel c. steele == c. steele
+nigel steele == c. steele
+chun wai liew == c. w. liew
+chin-wang tao == c. w. tao
+carole delporte-gallet == carole delport-gallet
+changning huang == chang-ning huang
+charles d. hansen == charles l. hansen
+andrew chi-sing leung == chi sing leung
+andrew chi-sing leung == chi-sing leung
+chin-chen hui == chih chen hui
+ch. brechbuehler == christian brechbuhler
+claus brabrand == claus braband
+constantin virgil negoita == constant virgil negoita
+cristina d. murta == cristina s. murta
+grzegorz protaziuk == crzegorz protaziuk
+david a. edwards == d. a. edwards
+d. g. vorobyev == d. g. vorobiev
+d. v. vorobiev == d. g. vorobiev
+d. v. vorobiev == d. g. vorobyev
+d. muthiayen == d. muthiaye
+deawoo chung == daewoo chung
+david l. wilson == dale l. wilson
+daniel herman == daniel hermann
+dominique laurent == daniel laurent
+daniel pak-kong lun == daniel pak-kong lu
+daniele beauquier == daniele beauquire
+l. darrell whitley == darrell whitley
+j. david kirkpatrick == david g. kirkpatrick
+david p. gilliam == david p. gilliarn
+dimitrios gunopulos == dimitrios gunopoulos
+qin ding == din ding
+din ding == ding qin
+dongsoo han == dong-soo han
+douglas r. vogel == doug r. vogel
+duren che == dunren che
+roy dz-ching ju == dz-ching ju
+egor s. sogomonyan == e. s. sogomonjan
+edgar korner == edgar koerner
+seyed ghassem miremadi == ejlali ghassem miremadi
+e. grimson == eric grimason
+w. eric l. grimson == eric grimason
+eric grimason == eric grimson
+w. eric l. grimson == eric grimson
+erik hagersten == erik hagerstern
+ewa malesinska == ewa malesiska
+fawzi albalooshi == f. al-balooshi
+fernando alvarez garcia == f. alvarez garcia
+filip de turck == f. deturck
+gianfranco lamperti == f. lamperti
+furio honsell == fabio honsell
+fengzhu sun == fengzhu su
+ion-florin talos == florin talos
+francisco reverbel == francisco reverbell
+francisco fernandez de vega == francisco v. fernandez
+frank m. candocia == frand m. candocia
+frank d. francone == frank f. francone
+frank a. smadja == frank z. smadja
+alfred l. brown == fred brown
+frederick wu == fred wu
+fabio alessi == furio alessi
+gerson g. h. cavalheiro == g. cavalheiro
+g. jaske == g. jakse
+g. m. martin == g. p. martin
+geok see ng == g. s. ng
+a. gill waters == g. waters
+gabriele sonnenberger == gabi sonnenberger
+gabor szekely == gabor sekely
+garrison w. cottrell == garry cottrell
+p. geoffrey lowney == geoff lowney
+georges g. e. gielen == geoges gielen
+georges gielen == geoges gielen
+george a. constantinidis == george a. constantinides
+george neville-neil == george neville-nei
+gerhard heyer == gerd heyer
+g. zimmermann == gerhard zimmerman
+gerhard zimmermann == gerhard zimmerman
+gianluca moro == gianfranco moro
+qiang shen == giang shen
+giuseppen patane == giuseppe patane
+giuseppe patane == giuseppen patane
+nicu goga == goga nicolae
+graham a. jullien == graham a. julien
+graham j. russell == graham j. russel
+graham russell == graham j. russel
+gregory calbert == greg calbert
+gro bjerknes == gro bjerkness
+gro bjerknes == gros bjerknes
+guoliang chen == guo-liang chen
+d. h. du == h. c. du
+david hung-chang du == h. c. du
+s. h. yen == h. c. yen
+johann h. schlichter == h. schlichter
+hua xiong wang == h. wang
+huo yan chen == h. y. chen
+h.-w. straudte == h.-w. staudte
+s. hamid nawab == hamid nawab
+han-suh koo == han-shuh koo
+d. m. h. walker == hank walker
+hannes hogni vilhjalmsson == hannes hoge vilhjalmsson
+harry scarborough == harry scarbrough
+heinrich hussmann == heinrich hussman
+h.-j. huang == hejiao huang
+heon-chang yu == heonchang yu
+herbert kuchen == hert kuchen
+heath a. james == heth a. james
+hideyuki mitsuhasi == hideyuki mitsuhashi
+h. omatsu == hironobu ohmatsu
+hodong yoo == ho-dong yoo
+ka kit hoi == hoi ka kit
+hsi-chuan chen == hsi-chung chen
+huaxiong wang == hua xiong wang
+huberta kritzenberger == hubera kritzenberger
+hung hai bui == hung hai bu
+hua su == hus su
+ickjai lee == i. lee
+ian goldberg == ian galdberg
+igor velbitskiy == igor velbitskiyi
+i. ledovskikh == ilya ledovskih
+reginald l. lagendijk == inald lagendijk
+ismail khriss == isil khriss
+ibrahim kolcu == ismail kolcu
+alber figueras israel munoz == israel munoz
+itsujiro arita == itsujirou arita
+giuseppe cattaneo == iuseppe cattaneo
+izak benbasat == izak banbasat
+john b. moore == j. b. moore
+jozsef bekesi == j. besi
+jean-jacques levy == j. j. levy
+jing jiang == j. jiang
+roger hartley == j. roger hartley
+jason s. j. chen == j. s. j. chen
+jeng-shyang pan == j. s. pan
+jizhou sun == j. sun
+sun jizhou == j. sun
+j. w. h. daniel == j. w. danial
+jeng-shyang pan == j.-s. pan
+jacques vandenbulcke == jacques vendenbulcke
+james allen fill == james a. fill
+janos murvai == jamps murvai
+henryk jan komorowski == jan komorowski
+ian warren == jan warren
+jannik fritsch == jannik fitsch
+javier ruiz-del-solar == javier juiz-del-solar
+xavier molero == javier molero
+a. jefferson offutt == jeff offutt
+jennifer preece == jenny preece
+jens-uwe moller == jens-uwe moeller
+joey y. lin == jeoy y. lin
+jean-pierre jessel == jessel jean-pierre
+f. jesus sanchez == jesus sanchez
+j. huang == jiandong huang
+ji-ye mao == jiye mao
+johann gro?schadl == johann cro?schadl
+john c. shepherdson == john c. sheperdson
+john a. carroll == john carroll
+john ioannidis == john ioannides
+john slanley == john slaney
+john k. slaney == john slanley
+johnathan p. moore == johnathan moore
+jonathan p. moore == johnathan moore
+jonathan glick == jonathan glic
+jos j. m. trienekens == jos trienekens
+jose a. carrillo de la plata == jose a. carrillo
+jose m. pena sanchez == jose m. pen sanchez
+jose orlando pereira == jose pereira
+jose m. bernabeu-auban == josep bernabeu
+j. m. de la rosa == josep lluis de la rosa
+josh fisher == joseph a. fisher
+jef wijsen == jozef wijsen
+juzhen dong == ju-zhen dong
+juergen rilling == juergen rillin
+y. v. ponomarenko == julia v. ponomarenko
+junfeng qi == jungfeng qi
+jun-ichi fukumoto == junichi fukumoto
+jussara m. almeida == jussara a. almeida
+jussara a. almeida == jussara m. de almeida
+ki hang kim == k. h. kim
+vijayan k. asari == k. vijayan asari
+k. sikkel == kaas sikkel
+klaas sikkel == kaas sikkel
+karl-erwin gro?pietsch == karl-erwin grosspietsch
+kartik mohanram == kartik mohanramy
+katharina langkau == katharina langkav
+keh-jeng chang == keb-jeng chang
+keith e. mathias == keith w. mathias
+ken-ichi kanatani == kenich kanatani
+ken-ichi kanatani == kenichi kanatani
+khalil shihab == khalil shihah
+klaus radermacher == klaus rademacher
+kaas sikkel == klaus sikkel
+konstantinos ergazakis == kostas ergazakis
+konstantinos karnezis == kostas karnezis
+kulathur s. rajasethupathy == kulathur s. rajasethupathyy
+kuo-liang chung == kuo-lian chung
+laureano gonzalez-vega == l. gonzalez
+luiz paula lima jr. == l. lima
+l. perez-vidat == l. perez-vidal
+lluis perez-vidal == l. perez-vidat
+r. lyndon while == l. while
+l. zhao == lan zhao
+laurent elghaoui == laurent e. ghaoui
+laurent el ghaoui == laurent elghaoui
+david davis == lawrence davis
+leonid smalov == leon smalov
+lenore blum == leonore blum
+leonard j. bass == leornard j. bass
+lishan kang == li-shan kang
+nevin lianwen zhang == lianwen zhang
+li minglu == liming lu
+minglu li == liming lu
+liongyu tu == liong-yu tu
+luciano silva == lociano silva
+louis scheffer == lou scheffer
+lukasz skorwider == luasz skorwider
+lu chun == luchun
+luigi troiano == luigi troian
+luis parrilla == luis parilla
+r. lyndon while == lyndon while
+m. dasygenis == m. dasigenis
+matthew e. j. wood == m. e. j. wood
+mark van den brand == m. g. j. van den brand
+mehmet kivanc mihcak == m. kwanc mihcak
+maozhen li == m. li
+morgan m. shepherd == m. m. shepherd
+noriyuki moriyama == m. moriyama
+maurizio m. munafo == m. munafo
+morgan m. shepherd == m. shepherd
+mohd yazid saman == m. y. mohd-saman
+madeleine bates == madeline bates
+magdalena d. bugajska == magda bugajska
+xiaoyan cheng == maggie xiaoyan cheng
+mahendran velauthapillai == mahe velauthapillai
+m. kalyanakrishnam == mahesh kalyanakrishnan
+muhammad hussain == malik zawwar hussain
+manju hegde == manju hedge
+manju v. hegde == manju hedge
+manuela montangero == manuela montagero
+marc-pierrot desseilligny == marc pierrot-deseilligny
+marc pierrot deseilligny == marc-pierrot desseilligny
+marcio oyamad == marcio oyamada
+mario koppen == marco koppen
+maria j. avedillo == maria j. avedilo
+maria milosavljevic == maria milsavljevic
+maria a. perez == maria perez
+marie-luise schneider == marie-louise schneider
+marilena vendittelli == marilena venidttelli
+mark addison == mark addsion
+j. mark keil == mark keil
+markus stra?er == markus strasser
+marta patino-martinez == marta patinno-martinez
+martin s. roth == martin a. roth
+matthias middendorf == martin middendorf
+martti mantyla == martti manyla
+matthias muscholl == matthias muschol
+a. arango == mauricio arango
+maurizio morisio == maurizio morisi
+maxime brown == maxine d. brown
+chunyan miao == miao chun yan
+miao chun yan == miao chunyan
+michael d. meyers == michael d. myers
+michael gossel == michael goessel
+michael schwanz == michael schanz
+michael schottner == michael schoettner
+miguel delgano == miguel delgado
+miguel loez diaz == miguel lopez-diaz
+ming c. lin == ming lin
+mohamed fayed == mohamed fayad
+myoungchurl kim == myoungchul kim
+myungchul kim == myoungchul kim
+myungchul kim == myoungchurl kim
+nicu goga == n. goga
+nuno horta == n. hort
+s. kutti == n. s. kutti
+victor m. jimenez == n. victor jimenez
+u. nagaraj shenoy == nagaraj shenoy
+nahid shahmehri == nahid shamehri
+joao f. g. de freitas == nando de freitas
+natasha f. noy == natalya fridman noy
+natasa jonoska == natawa jonoska
+necip fazil ayan == necip fazl ayan
+eduardo fernandez == ngel eduardo fernandez
+nick lendris == nick d. dendris
+niclas wahllof == niclas wahlloef
+nicolae goga == nicu goga
+raquel o. prates == oliveira raquel prates
+olivia g. frangoso diaz == olivia g. fragoso d.
+oltea mihaela herescu == oltea milhaela herescu
+osamu mizunu == osamu mizuno
+otavio larsen == otavio larsern
+pascal felber == p. a. fleber
+pierre-jacques courtois == p. j. courois
+pankaj chauhan == pankay chauhan
+paolo giusto == paolo guisto
+parosh aziz abdulla == parosh abdula
+t. p. martin == patrick martin
+t. patrick martin == patrick t. martin
+paul e. kearny == paul e. kearney
+paul m. b. vitanyi == paul m. b. vitany
+pawel zielinski == pawe zieliski
+pedro f. felzenszwalb == pedro felzenswalb
+pedro felzenszwalb == pedro felzenswalb
+peter norin == peter nordin
+peter struss == peter stru?
+peter l. williams == peter williams
+philip scott == philip j. scott
+philippe jacquet == philippe pacquet
+pietro g. morasso == pierto morasso
+pietro morasso == pierto morasso
+porfidio hernandez == portfidio hernandez
+predrag knezevic == prefrag knezevic
+m. pritista == printista printista
+prithviraj banerjee == prith banerjee
+quan m. zhu == q. m. zhu
+quingqing zhou == q. zhou
+quanyuan wu == quan yuan wu
+qing li == quing li
+qinglong hu == quinglong hu
+quinlong hu == quinglong hu
+qinglong hu == quinlong hu
+qunsheng peng == qun-sheng peng
+qutaibah m. malluhi == qutaia m. malluhi
+qutaia m. malluhi == qutaibah malluhi
+robert a. day == r. a. day
+brent gallupe == r. b. gallupe
+r. brent gallupe == r. b. gallupe
+ron mcfadyen == r. g. mcfadyden
+ron mcfayden == r. g. mcfadyden
+richard h. r. hahnloser == r. hahnloser
+rajeev kumar == r. kumar
+rekha r. thomas == r. r. thomas
+j. uribe == r. uribe
+bob zmud == r. w. zmud
+robert w. zmud == r. w. zmud
+rachid el azouzi == rachid el azouz
+rafal latkowski == rafa latkowski
+raimo p. hamalainen == raimo p. hamaainen
+rainer burkhard == rainer burkard
+rainer e. burkard == rainer burkhard
+rajkiran gottumukkal == rajkiran gottumukkala
+ramjee p. swaminathan == ram swaminathan
+rama akkiraju == rama akkijaru
+ramazan savas aygun == ramazan savas aygu
+rastislav kralovic == ratislav kralovic
+ravishankar k. iyer == ravi iyer
+ravi janardan == ravi janardane
+ravishankar k. iyer == ravi r. iyer
+yuhan cai == raymond t. ng
+renato demori == renato de mori
+rene banares-alcantara == rene bananres-alcantara
+richard h. granger == richard granger jr.
+richard p. gabiel == richard p. gabriel
+robert davidson == robert davison
+robert e. strom == robert e. storm
+robert davidson == robert m. davison
+roger kilian-kehr == roger kilian-kehler
+koji okada == roji okada
+roy j. byrd == ron j. byrd
+ron mcfadyen == ron mcfayden
+rudiger oehlmann == ruediger ohlemann
+russell h. taylor == russell taylor
+robert j. bobrow == rusty bobrow
+ryutaro kakinuma == ryutaro kakimura
+burak gokturk == s. b. gokturk
+shyhtsun felix wu == s. felix wu
+simon l. peyton jones == s. l. payton jones
+simon l. peyton-jones == s. l. payton jones
+richard s. l. wu == s. l. wu
+s. mansoor sarwar == s. m. sarwa
+shyr-shen yu == s. s. yu
+shiuh-pyng shieh == s. w. shieh
+sachin s. sapatnekar == sachin sapatneker
+saeed m. chaudhry == saeed m. chaudry
+sakti prammanik == sakti pramanik
+o. sam nakagawa == sam nakagawa
+san murugesan == san murugusan
+sang yong han == sang-yong hang
+sang-yong han == sang-yong hang
+sang-yong hang == sang-young han
+sangkyu rho == sangjyu rho
+sang yong han == sangyong han
+sang-yong han == sangyong han
+sang-yong hang == sangyong han
+sang-young han == sangyong han
+simon s. y. shim == sangyup shim
+sara tucci piergiovanni == sara tucci pergiovanni
+s. n. mukherjee == satyen mukherjee
+s. f. tang == sau-fun tang
+seong-jin ahn == seongjin ahn
+sergei l. bezrukov == sergej l. bezrukov
+sergei prigarin == sergej prigarin
+sergey plaksin == sergey plaskin
+seung ho cho == seungho cho
+seung-in noh == seungin noh
+shai wiseman == shai wisemann
+shang-zhi sun == shanf-zhi sun
+shangzhi sun == shanf-zhi sun
+shangzhi sun == shang-zhi sun
+shooying liu == shaoying liu
+sefeng chen == shenfeng chen
+shi-ming huang == shi-ming huan
+shingo takada == shinga takada
+shuichiro yamamoto == shuichiroh yamamoto
+shu-yun le == shuyun le
+tolety siva perraju == siva perraju tolety
+clarisse sieckenius de souza == slarisse sieckenius de souza
+soo-youn oh == soo-young oh
+stanislav g. sedukhin == stanislaw sedukhin
+stanislav sedukhin == stanislaw sedukhin
+slawomir t. wierzchon == stawomir t. wierzchon
+stephan schulz == stephan schultz
+stehpanie lindsay == stephanie lindsey
+stephen g. linkman == stephen g. linkmann
+h. c. yen == steve h.-c. yen
+sung-mo kang == steve kang
+shih-wei liao == steve s. w. liao
+steve martin == steven m. martin
+sam yuan sung == sung sam yuan
+sun-soon park == sung-soon park
+suprateek sarker == superateek sarker
+tong heng lee == t. h. lee
+tieniu tan == t. n. tan
+patrick martin == t. patrick martin
+theodora a. varvarigou == t. varvargou
+tsong yueh chen == t. y. chen
+tien-yien li == t. y. li
+tahsin kure == tahsin m. kurc
+taisheng chang == tai-sheng chang
+barry tao == tao feng
+graham cormode == theodore johnson
+thilo pionteck == thilo piontek
+torsten schaub == thomas schaub
+tianping chen == tian-ping chen
+laurence tianruo yang == tianruo yang
+tien-tsin wong == tien-tsi wong
+tjark vredeveld == tjark vredevel
+tomas tichy == tomaa tichy
+tomi janhunen == tomi jahunen
+c. a. r. hoare == tony hoare
+toshio suji == toshio tsuji
+toyoaki nishida == toyaki nishida
+tsung-chih lin == tsunbg-chih lin
+tushar m. gorodia == tushar m. goradia
+tuyan v. nguyen == tuyen v. nguyen
+uwe meyer-base == u. meyer-baese
+ulrike thomas == u. thomas
+ulrich bohnacker == uli bohnacker
+ulrich nageldinger == ulrich nadeldinger
+ulrich pferschy == ulrich pferchy
+b. g. mertzios == v. mertzios
+vicente orjale == vicente orjales
+victor de la luz == victor delaluz
+hicham g. elmongui == vinayak deshpande
+vicente casares giner == vincente casares giner
+vicenc almenar-terre == vivenc almenar-terre
+viviane torres da silva == viviane torres
+vladan devedzic == vladan devedic
+vladimir g. deineko == vladimir g. deuineko
+vladimir kvasnika == vladimir kvasnicka
+vladimir kvasnicka == vladimir kvasnika
+vlado dancik == vlado dancek
+vladdimir levin == vlassimir levin
+vladimir levin == vlassimir levin
+william c. miller == w. c. miller
+e. grimson == w. eric l. grimson
+wenjun zhang == w. j. zhang
+won yong kim == w. y. kim
+wen chien liu == w.-c. liu
+weesiong ng == wee siong ng
+weihong zhang == weixong zhang
+wenju lin == wenju liu
+william m. wels == william m. wells
+william m. wells iii == william m. wels
+william wells == william m. wels
+winfried e. kuhnhauser == winfried w. kuhnhauser
+wolfgang polak == wolf polak
+w. y. kim == won yong kin
+quan yuan wu == wu quanyuan
+xin chen == x. chen
+sheldon x.-d. tan == x.-d. sheldon tan
+xiaodong gu == xiao-dong gu
+xiaofei xu == xiao-fei xu
+shelley xq. zhang == xiaoqin zhang
+shelley xq. zhang == xiaoqin zhang
+x. wang == xinyuan wang
+xiaolin wu == xioalin wu
+xose r. fernandez vidal == xose r. fdez-vidal
+xose r. fdez-vidal == xose r. fernandez-vidal
+yong-bin kim == y. b. kim
+yan huang == y. huang
+yukinori matsumoto == y. matsumoto
+yusoff zaharin == y. zaharin
+yadong gui == ya-dong gui
+yan zhang == yan zhang ii
+yang jun == yang jung
+yasunari takagi == yasunar takagi
+chai kiat yeo == yeo chai kiat
+yin-feng xu == yinfeng xu
+ying the tsai == ying teh tsai
+yoan j. pinzon == yoan pinzon ardila
+joseph gil == yossi gil
+yusuke ichikawa == yusuke ichikawaa
+elizabeth sweedyk == z. sweedyk
+zonghuan wu == z. wu
+zijian zhou == z. zhou
+y. zaharin == zaharin yusoff
+zhaoqian chen == zhao-qian chen
+zhao-hui yu == zhaohui yu
+zhiyong liu == zhi-yong liu
+zhuoan jiao == zhouan jiao
+zoltan furedi == zoltan fured

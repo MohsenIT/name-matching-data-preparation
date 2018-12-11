@@ -1,0 +1,4944 @@
+id:ID	val:string	label:LABEL	weight:int
+1	10	RID	13
+2	20	RID	1
+3	30	RID	1
+4	40	RID	2
+5	50	RID	1
+6	60	RID	1
+7	70	RID	5
+8	80	RID	1
+9	90	RID	5
+10	100	RID	1
+11	110	RID	1
+12	120	RID	1
+13	130	RID	1
+14	140	RID	2
+15	150	RID	1
+16	160	RID	1
+17	170	RID	1
+18	180	RID	2
+19	190	RID	1
+20	200	RID	7
+21	210	RID	1
+22	220	RID	4
+23	230	RID	2
+24	240	RID	2
+25	250	RID	1
+26	260	RID	6
+27	270	RID	1
+28	280	RID	9
+29	300	RID	1
+30	310	RID	5
+31	320	RID	1
+32	330	RID	1
+33	340	RID	1
+34	350	RID	1
+35	360	RID	1
+36	370	RID	1
+37	380	RID	21
+38	390	RID	1
+39	400	RID	1
+40	410	RID	14
+41	420	RID	2
+42	430	RID	4
+43	440	RID	1
+44	450	RID	1
+45	460	RID	1
+46	470	RID	5
+47	480	RID	1
+48	490	RID	2
+49	500	RID	4
+50	510	RID	5
+51	520	RID	1
+52	530	RID	3
+53	540	RID	2
+54	550	RID	1
+55	560	RID	6
+56	570	RID	1
+57	580	RID	1
+58	590	RID	6
+59	600	RID	4
+60	610	RID	1
+61	620	RID	1
+62	630	RID	10
+63	640	RID	2
+64	650	RID	1
+65	660	RID	1
+66	670	RID	1
+67	680	RID	1
+68	690	RID	3
+69	700	RID	1
+70	710	RID	1
+71	720	RID	7
+72	730	RID	1
+73	740	RID	1
+74	750	RID	1
+75	760	RID	2
+76	770	RID	2
+77	780	RID	1
+78	790	RID	1
+79	800	RID	12
+80	810	RID	1
+81	820	RID	1
+82	830	RID	1
+83	840	RID	1
+84	850	RID	1
+85	860	RID	1
+86	870	RID	1
+87	880	RID	1
+88	890	RID	1
+89	900	RID	1
+90	910	RID	1
+91	920	RID	3
+92	930	RID	1
+93	940	RID	1
+94	950	RID	1
+95	960	RID	1
+96	970	RID	1
+97	980	RID	1
+98	990	RID	3
+99	1000	RID	1
+100	1010	RID	1
+101	1020	RID	1
+102	1030	RID	11
+103	1040	RID	1
+104	1050	RID	1
+105	1060	RID	1
+106	1070	RID	1
+107	1080	RID	3
+108	1090	RID	1
+109	1100	RID	2
+110	1110	RID	3
+111	1120	RID	1
+112	1130	RID	2
+113	1140	RID	1
+114	1150	RID	1
+115	1160	RID	2
+116	1170	RID	9
+117	1180	RID	4
+118	1190	RID	1
+119	1200	RID	6
+120	1210	RID	1
+121	1220	RID	4
+122	1240	RID	4
+123	1250	RID	1
+124	1260	RID	1
+125	1270	RID	1
+126	1280	RID	1
+127	1290	RID	1
+128	1300	RID	1
+129	1310	RID	1
+130	1320	RID	1
+131	1330	RID	1
+132	1340	RID	1
+133	1350	RID	1
+134	1360	RID	1
+135	1370	RID	1
+136	1380	RID	2
+137	1390	RID	15
+138	1400	RID	1
+139	1410	RID	5
+140	1430	RID	1
+141	1440	RID	1
+142	1450	RID	1
+143	1460	RID	1
+144	1470	RID	1
+145	1480	RID	2
+146	1490	RID	2
+147	1500	RID	2
+148	1510	RID	3
+149	1520	RID	3
+150	1530	RID	1
+151	1540	RID	2
+152	1550	RID	1
+153	1560	RID	1
+154	1570	RID	3
+155	1580	RID	2
+156	1590	RID	1
+157	1600	RID	2
+158	1610	RID	2
+159	1620	RID	1
+160	1630	RID	1
+161	1640	RID	1
+162	1650	RID	1
+163	1660	RID	1
+164	1670	RID	1
+165	1680	RID	1
+166	1690	RID	3
+167	1700	RID	1
+168	1710	RID	8
+169	1720	RID	3
+170	1730	RID	1
+171	1740	RID	1
+172	1750	RID	1
+173	1760	RID	1
+174	1770	RID	1
+175	1780	RID	1
+176	1790	RID	1
+177	1800	RID	10
+178	1810	RID	1
+179	1820	RID	1
+180	1830	RID	2
+181	1840	RID	4
+182	1850	RID	1
+183	1860	RID	2
+184	1870	RID	1
+185	1880	RID	1
+186	1890	RID	10
+187	1900	RID	1
+188	1910	RID	7
+189	1920	RID	1
+190	1930	RID	1
+191	1940	RID	4
+192	1950	RID	3
+193	1960	RID	3
+194	1970	RID	1
+195	1980	RID	1
+196	1990	RID	3
+197	2000	RID	1
+198	2010	RID	1
+199	2020	RID	2
+200	2030	RID	1
+201	2040	RID	22
+202	2060	RID	2
+203	2070	RID	2
+204	2080	RID	4
+205	2090	RID	2
+206	2100	RID	1
+207	2110	RID	1
+208	2120	RID	1
+209	2130	RID	1
+210	2140	RID	3
+211	2150	RID	1
+212	2160	RID	3
+213	2170	RID	1
+214	2180	RID	2
+215	2190	RID	2
+216	2200	RID	1
+217	2210	RID	2
+218	2220	RID	9
+219	2230	RID	1
+220	2240	RID	2
+221	2250	RID	1
+222	2260	RID	3
+223	2270	RID	2
+224	2280	RID	1
+225	2290	RID	3
+226	2300	RID	2
+227	2310	RID	2
+228	2320	RID	1
+229	2330	RID	1
+230	2340	RID	8
+231	2350	RID	2
+232	2360	RID	1
+233	2370	RID	1
+234	2380	RID	3
+235	2390	RID	5
+236	2400	RID	1
+237	2410	RID	1
+238	2420	RID	4
+239	2430	RID	3
+240	2440	RID	9
+241	2450	RID	1
+242	2460	RID	1
+243	2470	RID	1
+244	2480	RID	1
+245	2490	RID	1
+246	2500	RID	1
+247	2510	RID	1
+248	2520	RID	1
+249	2530	RID	1
+250	2540	RID	4
+251	2550	RID	1
+252	2560	RID	1
+253	2570	RID	5
+254	2580	RID	2
+255	2590	RID	6
+256	2600	RID	1
+257	2610	RID	1
+258	2620	RID	1
+259	2630	RID	1
+260	2640	RID	1
+261	2650	RID	8
+262	2660	RID	1
+263	2670	RID	6
+264	2680	RID	1
+265	2690	RID	1
+266	2700	RID	3
+267	2710	RID	6
+268	2720	RID	2
+269	2730	RID	7
+270	2740	RID	11
+271	2760	RID	1
+272	2770	RID	1
+273	2780	RID	1
+274	2790	RID	7
+275	2800	RID	1
+276	2810	RID	1
+277	2820	RID	1
+278	2830	RID	1
+279	2840	RID	2
+280	2850	RID	1
+281	2860	RID	2
+282	2870	RID	1
+283	2880	RID	8
+284	2890	RID	1
+285	2900	RID	1
+286	2910	RID	1
+287	2920	RID	2
+288	2930	RID	2
+289	2940	RID	5
+290	2960	RID	1
+291	2970	RID	1
+292	2980	RID	1
+293	2990	RID	2
+294	3010	RID	1
+295	3020	RID	5
+296	3030	RID	28
+297	3040	RID	3
+298	3050	RID	1
+299	3060	RID	2
+300	3070	RID	2
+301	3080	RID	1
+302	3090	RID	1
+303	3100	RID	3
+304	3110	RID	1
+305	3120	RID	12
+306	3130	RID	1
+307	3140	RID	8
+308	3150	RID	2
+309	3160	RID	10
+310	3170	RID	1
+311	3180	RID	1
+312	3190	RID	1
+313	3200	RID	1
+314	3210	RID	1
+315	3220	RID	1
+316	3230	RID	2
+317	3240	RID	2
+318	3250	RID	1
+319	3260	RID	1
+320	3270	RID	1
+321	3280	RID	1
+322	3290	RID	1
+323	3300	RID	1
+324	3310	RID	3
+325	3320	RID	2
+326	3330	RID	2
+327	3340	RID	1
+328	3350	RID	7
+329	3360	RID	5
+330	3370	RID	1
+331	3380	RID	1
+332	3390	RID	2
+333	3400	RID	1
+334	3410	RID	4
+335	3420	RID	1
+336	3430	RID	6
+337	3440	RID	1
+338	3450	RID	5
+339	3470	RID	1
+340	3480	RID	1
+341	3490	RID	1
+342	3500	RID	1
+343	3510	RID	1
+344	3520	RID	2
+345	3530	RID	1
+346	3540	RID	10
+347	3550	RID	1
+348	3560	RID	1
+349	3570	RID	1
+350	3580	RID	1
+351	3590	RID	3
+352	3600	RID	1
+353	3610	RID	6
+354	3620	RID	1
+355	3630	RID	1
+356	3640	RID	1
+357	3650	RID	4
+358	3660	RID	5
+359	3670	RID	2
+360	3680	RID	1
+361	3690	RID	1
+362	3700	RID	3
+363	3710	RID	1
+364	3720	RID	5
+365	3730	RID	1
+366	3740	RID	5
+367	3750	RID	2
+368	3760	RID	1
+369	3770	RID	1
+370	3780	RID	1
+371	3790	RID	1
+372	3800	RID	1
+373	3810	RID	1
+374	3820	RID	1
+375	3830	RID	2
+376	3840	RID	1
+377	3850	RID	1
+378	3860	RID	1
+379	3870	RID	1
+380	3880	RID	2
+381	3890	RID	1
+382	3900	RID	1
+383	3910	RID	1
+384	3920	RID	1
+385	3930	RID	1
+386	3940	RID	1
+387	3950	RID	1
+388	3960	RID	8
+389	3970	RID	3
+390	3980	RID	1
+391	3990	RID	4
+392	4000	RID	1
+393	4010	RID	1
+394	4020	RID	1
+395	4030	RID	1
+396	4040	RID	1
+397	4050	RID	1
+398	4060	RID	1
+399	4070	RID	2
+400	4080	RID	1
+401	4090	RID	1
+402	4100	RID	1
+403	4110	RID	1
+404	4120	RID	10
+405	4130	RID	2
+406	4140	RID	1
+407	4150	RID	3
+408	4160	RID	1
+409	4170	RID	6
+410	4180	RID	2
+411	4190	RID	1
+412	4200	RID	2
+413	4210	RID	5
+414	4220	RID	1
+415	4230	RID	1
+416	4240	RID	2
+417	4250	RID	1
+418	4260	RID	2
+419	4270	RID	1
+420	4280	RID	1
+421	4290	RID	5
+422	4300	RID	1
+423	4310	RID	1
+424	4320	RID	2
+425	4330	RID	2
+426	4340	RID	1
+427	4350	RID	5
+428	4360	RID	2
+429	4370	RID	1
+430	4380	RID	1
+431	4390	RID	1
+432	4400	RID	1
+433	4410	RID	10
+434	4420	RID	1
+435	4430	RID	1
+436	4440	RID	1
+437	4450	RID	1
+438	4460	RID	1
+439	4470	RID	1
+440	4480	RID	4
+441	4490	RID	1
+442	4500	RID	1
+443	4510	RID	2
+444	4520	RID	1
+445	4530	RID	1
+446	4540	RID	2
+447	4550	RID	1
+448	4560	RID	1
+449	4570	RID	3
+450	4580	RID	21
+451	4590	RID	1
+452	4600	RID	1
+453	4610	RID	5
+454	4620	RID	1
+455	4630	RID	1
+456	4640	RID	1
+457	4650	RID	1
+458	4660	RID	1
+459	4670	RID	1
+460	4680	RID	1
+461	4690	RID	1
+462	4700	RID	1
+463	4710	RID	1
+464	4720	RID	1
+465	4730	RID	1
+466	4740	RID	1
+467	4750	RID	1
+468	4760	RID	1
+469	4770	RID	2
+470	4780	RID	10
+471	4790	RID	1
+472	4800	RID	1
+473	4810	RID	4
+474	4820	RID	1
+475	4830	RID	1
+476	4840	RID	2
+477	4850	RID	1
+478	4860	RID	1
+479	4870	RID	9
+480	4880	RID	1
+481	4890	RID	1
+482	4900	RID	1
+483	4910	RID	2
+484	4920	RID	3
+485	4930	RID	4
+486	4940	RID	1
+487	4950	RID	1
+488	4960	RID	1
+489	4970	RID	10
+490	4980	RID	1
+491	4990	RID	1
+492	5000	RID	21
+493	5030	RID	1
+494	5040	RID	1
+495	5050	RID	1
+496	5060	RID	1
+497	5070	RID	2
+498	5080	RID	4
+499	5090	RID	2
+500	5100	RID	4
+501	5110	RID	1
+502	5120	RID	2
+503	5130	RID	3
+504	5140	RID	1
+505	5150	RID	6
+506	5160	RID	1
+507	5170	RID	2
+508	5180	RID	1
+509	5190	RID	1
+510	5200	RID	2
+511	5210	RID	1
+512	5220	RID	1
+513	5230	RID	1
+514	5240	RID	1
+515	5250	RID	2
+516	5260	RID	1
+517	5270	RID	7
+518	5280	RID	1
+519	5290	RID	1
+520	5300	RID	1
+521	5310	RID	1
+522	5320	RID	7
+523	5330	RID	1
+524	5340	RID	1
+525	5350	RID	1
+526	5360	RID	1
+527	5370	RID	2
+528	5380	RID	1
+529	5390	RID	2
+530	5400	RID	1
+531	5410	RID	3
+532	5420	RID	1
+533	5430	RID	2
+534	5440	RID	12
+535	5450	RID	3
+536	5460	RID	1
+537	5470	RID	14
+538	5480	RID	1
+539	5490	RID	1
+540	5500	RID	1
+541	5510	RID	2
+542	5520	RID	2
+543	5530	RID	1
+544	5540	RID	6
+545	5550	RID	5
+546	5560	RID	2
+547	5570	RID	1
+548	5580	RID	2
+549	5590	RID	1
+550	5600	RID	2
+551	5610	RID	1
+552	5620	RID	2
+553	5630	RID	2
+554	5640	RID	3
+555	5650	RID	3
+556	5660	RID	1
+557	5670	RID	1
+558	5680	RID	3
+559	5690	RID	1
+560	5700	RID	1
+561	5710	RID	5
+562	5720	RID	1
+563	5730	RID	1
+564	5740	RID	4
+565	5750	RID	1
+566	5760	RID	2
+567	5770	RID	7
+568	5780	RID	6
+569	5790	RID	2
+570	5800	RID	1
+571	5810	RID	4
+572	5820	RID	1
+573	5825	RID	1
+574	5830	RID	2
+575	5835	RID	1
+576	5840	RID	1
+577	5850	RID	2
+578	5860	RID	1
+579	5870	RID	2
+580	5880	RID	1
+581	5890	RID	1
+582	5900	RID	1
+583	5910	RID	1
+584	5920	RID	4
+585	5930	RID	1
+586	5940	RID	7
+587	5950	RID	4
+588	5960	RID	3
+589	5970	RID	3
+590	5980	RID	2
+591	5990	RID	6
+592	6000	RID	1
+593	6010	RID	1
+594	6020	RID	1
+595	6030	RID	1
+596	6040	RID	1
+597	6050	RID	1
+598	6060	RID	1
+599	6070	RID	1
+600	6080	RID	1
+601	6090	RID	2
+602	6100	RID	1
+603	6110	RID	11
+604	6120	RID	3
+605	6130	RID	1
+606	6140	RID	44
+607	6150	RID	5
+608	6160	RID	2
+609	6170	RID	1
+610	6180	RID	18
+611	6200	RID	2
+612	6210	RID	2
+613	6220	RID	2
+614	6240	RID	2
+615	6260	RID	2
+616	6270	RID	1
+617	6280	RID	1
+618	6290	RID	3
+619	6300	RID	4
+620	6310	RID	1
+621	6320	RID	1
+622	6330	RID	1
+623	6340	RID	3
+624	6350	RID	1
+625	6360	RID	3
+626	6370	RID	6
+627	6380	RID	1
+628	6390	RID	1
+629	6400	RID	1
+630	6410	RID	23
+631	6420	RID	28
+632	6440	RID	4
+633	6450	RID	1
+634	6460	RID	1
+635	6470	RID	2
+636	6480	RID	1
+637	6490	RID	9
+638	6500	RID	1
+639	6510	RID	1
+640	6520	RID	1
+641	6530	RID	1
+642	6540	RID	2
+643	6550	RID	9
+644	6570	RID	2
+645	6580	RID	2
+646	6590	RID	7
+647	6600	RID	1
+648	6610	RID	5
+649	6620	RID	1
+650	6630	RID	1
+651	6640	RID	1
+652	6650	RID	1
+653	6660	RID	2
+654	6670	RID	4
+655	6680	RID	1
+656	6690	RID	1
+657	6700	RID	2
+658	6710	RID	8
+659	6720	RID	1
+660	6730	RID	2
+661	6740	RID	4
+662	6750	RID	1
+663	6760	RID	2
+664	6770	RID	1
+665	6780	RID	1
+666	6790	RID	1
+667	6800	RID	1
+668	6810	RID	10
+669	6820	RID	1
+670	6830	RID	1
+671	6840	RID	1
+672	6850	RID	1
+673	6860	RID	2
+674	6870	RID	1
+675	6880	RID	1
+676	6890	RID	1
+677	6900	RID	8
+678	6910	RID	4
+679	6920	RID	1
+680	6930	RID	1
+681	6940	RID	1
+682	6950	RID	6
+683	6960	RID	1
+684	6970	RID	4
+685	6980	RID	1
+686	6990	RID	2
+687	7000	RID	1
+688	7020	RID	11
+689	7030	RID	2
+690	7040	RID	1
+691	7050	RID	5
+692	7060	RID	1
+693	7070	RID	1
+694	7080	RID	2
+695	7090	RID	1
+696	7100	RID	5
+697	7110	RID	30
+698	7120	RID	6
+699	7150	RID	1
+700	7160	RID	1
+701	7170	RID	1
+702	7180	RID	1
+703	7190	RID	2
+704	7200	RID	1
+705	7210	RID	3
+706	7220	RID	4
+707	7230	RID	1
+708	7240	RID	1
+709	7250	RID	1
+710	7260	RID	1
+711	7270	RID	1
+712	7280	RID	1
+713	7290	RID	1
+714	7300	RID	1
+715	7310	RID	1
+716	7320	RID	1
+717	7330	RID	1
+718	7340	RID	1
+719	7350	RID	1
+720	7360	RID	7
+721	7370	RID	7
+722	7380	RID	1
+723	7390	RID	2
+724	7400	RID	1
+725	7410	RID	2
+726	7420	RID	1
+727	7430	RID	2
+728	7440	RID	2
+729	7450	RID	1
+730	7460	RID	1
+731	7470	RID	1
+732	7480	RID	1
+733	7490	RID	3
+734	7500	RID	1
+735	7510	RID	19
+736	7520	RID	6
+737	7530	RID	1
+738	7540	RID	1
+739	7550	RID	1
+740	7560	RID	3
+741	7570	RID	5
+742	7580	RID	4
+743	7590	RID	1
+744	7600	RID	1
+745	7610	RID	2
+746	7620	RID	1
+747	7630	RID	2
+748	7640	RID	1
+749	7650	RID	1
+750	7660	RID	2
+751	7670	RID	1
+752	7680	RID	1
+753	7690	RID	1
+754	7700	RID	2
+755	7710	RID	1
+756	7720	RID	2
+757	7730	RID	1
+758	7740	RID	1
+759	7750	RID	1
+760	7760	RID	1
+761	7770	RID	1
+762	7780	RID	1
+763	7790	RID	3
+764	7800	RID	1
+765	7810	RID	7
+766	7820	RID	7
+767	7830	RID	2
+768	7850	RID	1
+769	7860	RID	2
+770	7870	RID	2
+771	7880	RID	2
+772	7890	RID	3
+773	7900	RID	27
+774	7910	RID	8
+775	7920	RID	1
+776	7930	RID	1
+777	7940	RID	5
+778	7950	RID	2
+779	7960	RID	6
+780	7970	RID	1
+781	7980	RID	3
+782	7990	RID	1
+783	8000	RID	1
+784	8010	RID	3
+785	8020	RID	1
+786	8030	RID	1
+787	8040	RID	2
+788	8050	RID	5
+789	8060	RID	1
+790	8070	RID	4
+791	8080	RID	1
+792	8090	RID	1
+793	8100	RID	1
+794	8110	RID	1
+795	8120	RID	2
+796	8130	RID	7
+797	8140	RID	1
+798	8150	RID	3
+799	8160	RID	1
+800	8170	RID	1
+801	8180	RID	4
+802	8190	RID	1
+803	8200	RID	2
+804	8210	RID	1
+805	8220	RID	2
+806	8230	RID	1
+807	8240	RID	5
+808	8250	RID	1
+809	8260	RID	1
+810	8270	RID	4
+811	8280	RID	5
+812	8300	RID	1
+813	8310	RID	1
+814	8320	RID	1
+815	8330	RID	1
+816	8340	RID	1
+817	8350	RID	3
+818	8360	RID	1
+819	8390	RID	1
+820	8400	RID	2
+821	8410	RID	1
+822	8420	RID	1
+823	8430	RID	1
+824	8440	RID	3
+825	8450	RID	1
+826	8460	RID	1
+827	8470	RID	1
+828	8480	RID	4
+829	8490	RID	3
+830	8500	RID	1
+831	8510	RID	6
+832	8520	RID	1
+833	8530	RID	1
+834	8540	RID	3
+835	8550	RID	1
+836	8560	RID	2
+837	8570	RID	3
+838	8580	RID	1
+839	8590	RID	1
+840	8600	RID	2
+841	8610	RID	9
+842	8630	RID	1
+843	8640	RID	3
+844	8650	RID	1
+845	8660	RID	1
+846	8670	RID	1
+847	8680	RID	1
+848	8690	RID	6
+849	8700	RID	1
+850	8710	RID	2
+851	8720	RID	1
+852	8730	RID	1
+853	8750	RID	1
+854	8760	RID	1
+855	8770	RID	5
+856	8780	RID	2
+857	8790	RID	2
+858	8800	RID	1
+859	8810	RID	1
+860	8820	RID	1
+861	8830	RID	1
+862	8840	RID	1
+863	8850	RID	2
+864	8860	RID	3
+865	8870	RID	1
+866	8880	RID	4
+867	8890	RID	2
+868	8900	RID	1
+869	8910	RID	1
+870	8920	RID	1
+871	8930	RID	1
+872	8940	RID	1
+873	8950	RID	1
+874	8960	RID	1
+875	8970	RID	7
+876	8980	RID	3
+877	8990	RID	2
+878	9000	RID	1
+879	9010	RID	4
+880	9020	RID	1
+881	9030	RID	1
+882	9040	RID	1
+883	9050	RID	1
+884	9060	RID	7
+885	9070	RID	1
+886	9080	RID	2
+887	9090	RID	2
+888	9100	RID	3
+889	9110	RID	1
+890	9120	RID	2
+891	9130	RID	1
+892	9140	RID	10
+893	9150	RID	1
+894	9160	RID	1
+895	9170	RID	1
+896	9180	RID	1
+897	9190	RID	1
+898	9200	RID	1
+899	9210	RID	1
+900	9220	RID	18
+901	9230	RID	1
+902	9240	RID	2
+903	9250	RID	1
+904	9260	RID	1
+905	9270	RID	2
+906	9280	RID	1
+907	9290	RID	1
+908	9300	RID	1
+909	9310	RID	3
+910	9320	RID	2
+911	9330	RID	8
+912	9340	RID	1
+913	9350	RID	1
+914	9360	RID	3
+915	9370	RID	1
+916	9380	RID	1
+917	9390	RID	1
+918	9400	RID	4
+919	9410	RID	1
+920	9420	RID	1
+921	9430	RID	1
+922	9440	RID	1
+923	9450	RID	1
+924	9460	RID	1
+925	9470	RID	1
+926	9480	RID	1
+927	9490	RID	1
+928	9500	RID	2
+929	9510	RID	1
+930	9520	RID	1
+931	9530	RID	1
+932	9540	RID	3
+933	9550	RID	8
+934	9560	RID	1
+935	9570	RID	1
+936	9580	RID	1
+937	9590	RID	2
+938	9600	RID	2
+939	9610	RID	1
+940	9620	RID	4
+941	9640	RID	1
+942	9650	RID	3
+943	9660	RID	7
+944	9670	RID	1
+945	9680	RID	2
+946	9690	RID	1
+947	9700	RID	2
+948	9710	RID	16
+949	9720	RID	1
+950	9730	RID	1
+951	9740	RID	1
+952	9750	RID	1
+953	9760	RID	1
+954	9770	RID	2
+955	9780	RID	1
+956	9790	RID	2
+957	9810	RID	1
+958	9815	RID	7
+959	9820	RID	1
+960	9823	RID	3
+961	9825	RID	1
+962	9830	RID	1
+963	9840	RID	4
+964	9850	RID	2
+965	9860	RID	2
+966	9870	RID	3
+967	9880	RID	1
+968	9890	RID	1
+969	9900	RID	2
+970	9920	RID	1
+971	9925	RID	1
+972	9930	RID	1
+973	9940	RID	1
+974	9950	RID	1
+975	9960	RID	22
+976	9980	RID	1
+977	9990	RID	1
+978	10000	RID	2
+979	10010	RID	1
+980	10020	RID	1
+981	10030	RID	3
+982	10040	RID	1
+983	10050	RID	1
+984	10060	RID	1
+985	10070	RID	1
+986	10080	RID	1
+987	10090	RID	4
+988	10100	RID	1
+989	10110	RID	1
+990	10120	RID	1
+991	10130	RID	1
+992	10140	RID	2
+993	10150	RID	2
+994	10160	RID	1
+995	10170	RID	1
+996	10180	RID	1
+997	10190	RID	22
+998	10200	RID	1
+999	10210	RID	1
+1000	10220	RID	4
+1001	10230	RID	1
+1002	10240	RID	1
+1003	10250	RID	1
+1004	10260	RID	1
+1005	10270	RID	3
+1006	10280	RID	1
+1007	10290	RID	1
+1008	10300	RID	4
+1009	10310	RID	3
+1010	10320	RID	19
+1011	10340	RID	1
+1012	10350	RID	1
+1013	10360	RID	1
+1014	10370	RID	2
+1015	10380	RID	1
+1016	10390	RID	3
+1017	10400	RID	1
+1018	10410	RID	1
+1019	10420	RID	11
+1020	10430	RID	3
+1021	10440	RID	1
+1022	10450	RID	1
+1023	10460	RID	2
+1024	10470	RID	2
+1025	10480	RID	2
+1026	10490	RID	1
+1027	10500	RID	2
+1028	10520	RID	1
+1029	10530	RID	1
+1030	10540	RID	1
+1031	10550	RID	1
+1032	10560	RID	6
+1033	10570	RID	1
+1034	10580	RID	1
+1035	10590	RID	1
+1036	10600	RID	1
+1037	10610	RID	1
+1038	10620	RID	9
+1039	10630	RID	2
+1040	10640	RID	5
+1041	10650	RID	10
+1042	10660	RID	1
+1043	10670	RID	2
+1044	10680	RID	1
+1045	10690	RID	1
+1046	10700	RID	1
+1047	10710	RID	2
+1048	10720	RID	1
+1049	10730	RID	1
+1050	10740	RID	1
+1051	10750	RID	1
+1052	10760	RID	2
+1053	10770	RID	1
+1054	10780	RID	1
+1055	10790	RID	1
+1056	10800	RID	1
+1057	10810	RID	2
+1058	10820	RID	1
+1059	10830	RID	1
+1060	10840	RID	4
+1061	10850	RID	1
+1062	10860	RID	3
+1063	10870	RID	2
+1064	10880	RID	2
+1065	10890	RID	1
+1066	10900	RID	1
+1067	10910	RID	1
+1068	10920	RID	4
+1069	10930	RID	2
+1070	10940	RID	1
+1071	10950	RID	1
+1072	10960	RID	2
+1073	10970	RID	1
+1074	10980	RID	1
+1075	10990	RID	3
+1076	11000	RID	1
+1077	11010	RID	1
+1078	11020	RID	25
+1079	11030	RID	1
+1080	11040	RID	1
+1081	11050	RID	1
+1082	11060	RID	2
+1083	11080	RID	1
+1084	11090	RID	7
+1085	11100	RID	1
+1086	11110	RID	2
+1087	11120	RID	1
+1088	11130	RID	1
+1089	11140	RID	4
+1090	11150	RID	1
+1091	11160	RID	1
+1092	11170	RID	1
+1093	11180	RID	1
+1094	11190	RID	1
+1095	11200	RID	33
+1096	11210	RID	2
+1097	11220	RID	2
+1098	11230	RID	1
+1099	11240	RID	1
+1100	11250	RID	23
+1101	11260	RID	8
+1102	11270	RID	1
+1103	11280	RID	1
+1104	11290	RID	2
+1105	11300	RID	1
+1106	11310	RID	1
+1107	11320	RID	1
+1108	11330	RID	1
+1109	11340	RID	4
+1110	11350	RID	7
+1111	11360	RID	7
+1112	11370	RID	1
+1113	11380	RID	2
+1114	11390	RID	1
+1115	11400	RID	1
+1116	11410	RID	1
+1117	11420	RID	2
+1118	11430	RID	1
+1119	11440	RID	1
+1120	11450	RID	2
+1121	11460	RID	2
+1122	11470	RID	3
+1123	11480	RID	4
+1124	11490	RID	1
+1125	11500	RID	1
+1126	11510	RID	2
+1127	11520	RID	2
+1128	11530	RID	1
+1129	11540	RID	1
+1130	11550	RID	1
+1131	11560	RID	1
+1132	11570	RID	1
+1133	11580	RID	1
+1134	11590	RID	1
+1135	11600	RID	1
+1136	11610	RID	2
+1137	11620	RID	1
+1138	11630	RID	2
+1139	11640	RID	1
+1140	11650	RID	2
+1141	11660	RID	2
+1142	11670	RID	2
+1143	11680	RID	1
+1144	11690	RID	1
+1145	11700	RID	1
+1146	11710	RID	1
+1147	11720	RID	1
+1148	11730	RID	1
+1149	11740	RID	3
+1150	11750	RID	6
+1151	11760	RID	1
+1152	11770	RID	7
+1153	11780	RID	1
+1154	11790	RID	3
+1155	11800	RID	1
+1156	11810	RID	3
+1157	11820	RID	1
+1158	11830	RID	1
+1159	11840	RID	1
+1160	agnar aamodt	REF	3
+1161	a aamodt	REF	1
+1162	a. aamodt	REF	9
+1163	a. l. abbott	REF	1
+1164	m. r. abbott	REF	1
+1165	h. abdi	REF	2
+1166	s. abu-hakima	REF	1
+1167	m. acheroy	REF	1
+1168	d. h. ackley	REF	2
+1169	david h. ackley	REF	2
+1170	d. ackley	REF	1
+1171	s. adali	REF	1
+1172	d. w. aha	REF	4
+1173	aha d.w.	REF	1
+1174	t. ahmed	REF	1
+1175	r. ahn	REF	1
+1176	n. ahuja	REF	1
+1177	v. ajjanagadde	REF	1
+1178	r. aleliunas	REF	1
+1179	romas aleliunas	REF	1
+1180	j.j. alfares	REF	1
+1181	p. alfeld	REF	1
+1182	b.p allen	REF	1
+1183	j. allen	REF	1
+1184	james f. allen	REF	1
+1185	r. alonso	REF	1
+1186	r. alpert	REF	6
+1187	richard alpert	REF	1
+1188	h. alshawi	REF	1
+1189	k. k. al-taha	REF	4
+1190	k.-d. althoff	REF	2
+1191	s. amarel	REF	2
+1192	r. anbil	REF	1
+1193	c. w. anderson	REF	2
+1194	c. anderson	REF	4
+1195	a. angern	REF	1
+1196	antonisse	REF	1
+1197	jim  antonisse	REF	1
+1198	j. antonisse	REF	3
+1199	h. j. antonisse	REF	1
+1200	jim antonisse	REF	2
+1201	j antonisse	REF	1
+1202	arto anttila	REF	1
+1203	y. anzai	REF	3
+1204	yuichiro anzai	REF	2
+1205	j.n. aparcio	REF	1
+1206	j. l. arcos	REF	1
+1207	michael arent	REF	1
+1208	s. arikawa	REF	1
+1209	e. armengol	REF	1
+1210	j. r. arvo	REF	1
+1211	m. asada	REF	15
+1212	minoru asada	REF	6
+1213	h. asama	REF	1
+1214	j. aseltine	REF	1
+1215	c.g. atkeson	REF	1
+1216	c. g. atkeson	REF	11
+1217	christopher g. atkeson	REF	1
+1218	c. atkeson	REF	1
+1219	e. auriol	REF	2
+1220	p. avesani	REF	3
+1221	paolo avesani	REF	1
+1222	a.j. ayer	REF	1
+1223	flavio s. azevedo	REF	1
+1224	babuska r.	REF	1
+1225	fahiem bacchus	REF	2
+1226	f. bacchus	REF	3
+1227	c. backstrom	REF	1
+1228	a. baddeley	REF	2
+1229	r. bagnara	REF	4
+1230	l.c. baird	REF	2
+1231	l. c. baird	REF	3
+1232	a. b. baker	REF	1
+1233	m. b. balachandran	REF	1
+1234	m. balachandran	REF	1
+1235	m. b. balachandran,	REF	1
+1236	e. balas	REF	2
+1237	j.m. baldwin	REF	1
+1238	dana h. ballard	REF	2
+1239	d. h. ballard	REF	3
+1240	ballard d.	REF	1
+1241	shumeet baluja	REF	1
+1242	t. banchoff	REF	1
+1243	m. garca de la banda	REF	5
+1244	r. l. bankert	REF	3
+1245	bankert r.l.	REF	1
+1246	a.r. barron	REF	1
+1247	r.l. barron	REF	1
+1248	barto a.g.	REF	1
+1249	a. barto	REF	2
+1250	a.g. barto	REF	2
+1251	a. g. barto	REF	4
+1252	a. g barto	REF	1
+1253	j. barwise	REF	1
+1254	jon barwise	REF	1
+1255	anindya basu	REF	1
+1256	b. battaile	REF	1
+1257	b. bauer	REF	1
+1258	m. bauer	REF	1
+1259	s. bayerl	REF	3
+1260	c. beck	REF	1
+1261	s. becker	REF	1
+1262	p. van beek	REF	5
+1263	peter van beek	REF	2
+1264	b. bell	REF	1
+1265	p.c. bell	REF	1
+1266	s. bell	REF	1
+1267	h. benbrahim	REF	2
+1268	b. bennett	REF	2
+1269	kristin p. bennett	REF	1
+1270	bereiter c	REF	1
+1271	h. r. berenji	REF	4
+1272	h. berenji	REF	6
+1273	h.r. berenji	REF	2
+1274	h. berghuis	REF	1
+1275	r. bergmann	REF	1
+1276	d. berleant	REF	1
+1277	m. bern	REF	1
+1278	berns k.	REF	1
+1279	d. bertsekas.	REF	1
+1280	c. bessiere	REF	1
+1281	s. betge-brezetz	REF	1
+1282	r. j. beun	REF	1
+1283	d. beymer	REF	1
+1284	b. bhattacharya	REF	1
+1285	w. bibel	REF	3
+1286	michael bieber	REF	1
+1287	angelos bilas	REF	1
+1288	thomas o. binford	REF	1
+1289	lawrence birnbaum	REF	1
+1290	r. bisio	REF	1
+1291	s. bistarelli	REF	1
+1292	a. blake	REF	3
+1293	d. blasco	REF	1
+1294	w. w. bledsoe	REF	1
+1295	b. bloom	REF	1
+1296	matthias a. blumrich	REF	2
+1297	matthias blumrich	REF	2
+1298	m. blumrich	REF	7
+1299	b. boguraev	REF	1
+1300	p. bonissone	REF	1
+1301	c. r. booth	REF	1
+1302	t. borghuis	REF	1
+1303	a. borgida	REF	2
+1304	alex borgida	REF	1
+1305	a. borning	REF	1
+1306	s. bose	REF	2
+1307	d. boulanger	REF	3
+1308	g. bouma	REF	1
+1309	didier bourigault	REF	2
+1310	craig boutilier	REF	1
+1311	kevin bowyer	REF	1
+1312	g. e. p. box	REF	2
+1313	j. a. boyan	REF	7
+1314	j. boyan	REF	1
+1315	j.a. boyan	REF	1
+1316	r. brachman	REF	1
+1317	ronald j. brachman	REF	1
+1318	r. j. brachman	REF	2
+1319	g. bradshaw	REF	1
+1320	s.j. bradtke	REF	1
+1321	s. j bradtke	REF	1
+1322	s. j. bradtke	REF	4
+1323	m. braeuer	REF	1
+1324	g. brajinik	REF	1
+1325	g. brajnik	REF	3
+1326	karl branting	REF	3
+1327	k branting	REF	1
+1328	p. brazdil	REF	1
+1329	m. r. brent	REF	1
+1330	j. bresina	REF	1
+1331	gerhard brewka	REF	1
+1332	p. brezillon	REF	1
+1333	j. c. brigham	REF	1
+1334	a. brink	REF	1
+1335	k. h.brink	REF	1
+1336	e. briscoe	REF	1
+1337	k brner	REF	1
+1338	jr. f. p. brooks	REF	1
+1339	p. s. brouwer	REF	1
+1340	b. brown	REF	1
+1341	r. brunelli	REF	2
+1342	m. bruynooghe	REF	15
+1343	u. bub	REF	1
+1344	b. g. buchanan	REF	2
+1345	g. b. buchanan	REF	1
+1346	b.g. buchanan	REF	1
+1347	b. buchanan	REF	1
+1348	m. buchanan	REF	1
+1349	vineet buch	REF	1
+1350	buijtenen w.m.	REF	1
+1351	h bunke	REF	1
+1352	h. bunt	REF	1
+1353	hans-jurgen burckert	REF	1
+1354	h.-j. burckert	REF	1
+1355	g. burel	REF	2
+1356	burke e. k.	REF	2
+1357	m.c. burl	REF	3
+1358	mark h. burstein	REF	1
+1359	m burstein	REF	1
+1360	burstein m. h.	REF	1
+1361	p.j. burt	REF	1
+1362	r. byrd	REF	1
+1363	roy byrd	REF	1
+1364	y. byun	REF	1
+1365	j. cagan	REF	1
+1366	t. cain	REF	3
+1367	paul r. calder.	REF	1
+1368	p. calder.	REF	1
+1369	c. caldwell	REF	1
+1370	y cao	REF	1
+1371	y. cao	REF	1
+1372	d. carel	REF	2
+1373	m. p. d. carmo	REF	1
+1374	carro	REF	1
+1375	d. carter	REF	1
+1376	t. a. cartwright	REF	1
+1377	e. catmull	REF	1
+1378	g. celniker	REF	1
+1379	s. ceri	REF	1
+1380	b. chandrasekaran	REF	3
+1381	c. chang	REF	1
+1382	d. chapman	REF	6
+1383	david j. chapman	REF	1
+1384	david chapman	REF	1
+1385	b. le charlier	REF	3
+1386	r. chatila	REF	1
+1387	b. cheng	REF	1
+1388	h. chen	REF	1
+1389	c. chiang	REF	1
+1390	a. chien	REF	1
+1391	d. n. chin	REF	1
+1392	chouraqui e.	REF	1
+1393	lonnie chrisman	REF	3
+1394	l. chrisman	REF	7
+1395	h. chung	REF	1
+1396	eugene c. ciccarelli	REF	1
+1397	p. cichosz	REF	2
+1398	r. cipolla	REF	4
+1399	d. j. clancy	REF	1
+1400	e. v. clark	REF	1
+1401	eve v. clark	REF	1
+1402	herbert h. clark	REF	1
+1403	p. clark	REF	1
+1404	jeffery a. clouse	REF	1
+1405	j. clouse	REF	6
+1406	j.a. clouse	REF	2
+1407	j. a. clouse	REF	1
+1408	helen g. cobb	REF	1
+1409	m. codish	REF	7
+1410	l. a. codispoti	REF	1
+1411	c. codognet	REF	1
+1412	p. codognet	REF	4
+1413	j. cohen	REF	3
+1414	p.r. cohen	REF	1
+1415	philip r. cohen,	REF	1
+1416	philip r. cohen	REF	1
+1417	robin cohen	REF	1
+1418	william w. cohen	REF	1
+1419	a. g. cohn	REF	3
+1420	h. cohn	REF	1
+1421	gregg collins	REF	1
+1422	robert j. collins	REF	2
+1423	m. colombetti	REF	1
+1424	j. connell	REF	18
+1425	j. connel	REF	1
+1426	jonathan connell	REF	3
+1427	m. l. connolly	REF	2
+1428	n. conruyt	REF	2
+1429	s. e. conry	REF	3
+1430	susan e. conry	REF	1
+1431	s. coombs	REF	2
+1432	t.f. cootes	REF	1
+1433	r. coppock	REF	1
+1434	t. h. cormen	REF	1
+1435	g. cornuejols	REF	1
+1436	m. - m. corsini	REF	3
+1437	s. costantini	REF	1
+1438	g.w. cottrell	REF	2
+1439	g. cottrell	REF	1
+1440	d. d. cowan	REF	1
+1441	m t cox	REF	1
+1442	m. t. cox	REF	1
+1443	r. d. coyne	REF	1
+1444	r.d. coyne	REF	1
+1445	l. craig	REF	1
+1446	j. m. crawford	REF	1
+1447	j.m. crawford	REF	1
+1448	crites r.h.	REF	1
+1449	r. crites	REF	2
+1450	r.h. crites	REF	1
+1451	r. h. crites	REF	5
+1452	r. crouch	REF	1
+1453	j. l. crowley	REF	1
+1454	j. crowley	REF	1
+1455	j. p. crutchfield	REF	1
+1456	z. cui	REF	3
+1457	david culler	REF	2
+1458	p. cunningham	REF	1
+1459	b. dambrosio	REF	2
+1460	dambrosio	REF	1
+1461	j.w.m. van dam	REF	2
+1462	r. g. dandrade	REF	2
+1463	g.b. dantzig	REF	1
+1464	3. francoise darses	REF	1
+1465	r. das	REF	8
+1466	s. davies	REF	2
+1467	t.r. davies	REF	1
+1468	c. o. davis	REF	1
+1469	l. davis	REF	3
+1470	p. dayan	REF	5
+1471	j. dean	REF	1
+1472	n. dean	REF	1
+1473	t. dean	REF	2
+1474	thomas dean	REF	2
+1475	s. k. debray	REF	3
+1476	r. dechter	REF	9
+1477	k.a. deffenbacher	REF	1
+1478	guillaume deffuant	REF	1
+1479	a. delcher	REF	1
+1480	g. m. t. deleuterio	REF	1
+1481	j. p. delgrande	REF	1
+1482	sven delmas	REF	1
+1483	yves demazeau	REF	1
+1484	richard a. demillo	REF	1
+1485	e demonchaux	REF	1
+1486	m. denecker	REF	4
+1487	e. den os	REF	1
+1488	l. dent	REF	1
+1489	l. de raedt	REF	4
+1490	t. d. derose	REF	1
+1491	t. derose	REF	1
+1492	t. g. dietterich	REF	4
+1493	t. dietterich	REF	2
+1494	b. digney	REF	1
+1495	m. dincbas	REF	1
+1496	s. dittrich	REF	1
+1497	d. p. dobkin	REF	1
+1498	m. dobson	REF	1
+1499	s. dominic	REF	8
+1500	abbe don	REF	1
+1501	dorigo m.	REF	1
+1502	m. dorigo	REF	5
+1503	s. dorward	REF	1
+1504	s. doshita	REF	1
+1505	j. doyle	REF	3
+1506	d. draper	REF	6
+1507	n. r. draper.	REF	1
+1508	n. r. draper	REF	1
+1509	m. drummond	REF	5
+1510	mark drummond	REF	2
+1511	cezary dubnicki	REF	3
+1512	cezary dubnick	REF	1
+1513	c. dubnicki	REF	7
+1514	d. duchamp	REF	1
+1515	t. duchamp	REF	1
+1516	m. duff	REF	1
+1517	v. dumortier	REF	7
+1518	j. duncan	REF	1
+1519	c.r. dyer	REF	1
+1520	m. e. dyer	REF	1
+1521	n. dyn	REF	1
+1522	s. edelman	REF	2
+1523	h. edelsbrunner	REF	1
+1524	p. edwards	REF	1
+1525	p.; edwards	REF	1
+1526	o. egeland	REF	1
+1527	m. egenhofer	REF	3
+1528	m. j. egenhofer	REF	4
+1529	m.j. egenhofer	REF	1
+1530	thorsten von eicken	REF	1
+1531	andreas eisele	REF	1
+1532	g. eisenhauer	REF	1
+1533	j. elgot-drapkin	REF	2
+1534	elliman d. g.	REF	2
+1535	g. l. elliot	REF	2
+1536	g. elliot	REF	2
+1537	g. elliott	REF	1
+1538	elmroth t.	REF	1
+1539	r. emery	REF	1
+1540	i. endo	REF	1
+1541	s. l. epstein	REF	2
+1542	f. espinoza	REF	1
+1543	d. etherington	REF	3
+1544	d. w. etherington	REF	1
+1545	david w. etherington	REF	1
+1546	o. etzioni	REF	19
+1547	oren etzioni	REF	9
+1548	stephanie everett	REF	2
+1549	s. everett	REF	1
+1550	m. facello	REF	1
+1551	m. falaschi	REF	2
+1552	f. fallside	REF	2
+1553	h. fan	REF	1
+1554	h. fargier	REF	1
+1555	a. farquhar	REF	2
+1556	adam farquhar	REF	1
+1557	steven feiner	REF	1
+1558	edward w. felten	REF	3
+1559	edward felten	REF	2
+1560	e. felten	REF	7
+1561	c.-n. fiechter	REF	1
+1562	r. fikes	REF	7
+1563	r. e. fikes	REF	1
+1564	g. fil	REF	2
+1565	timothy w. finin	REF	1
+1566	t. finin	REF	9
+1567	j.; fink	REF	1
+1568	g. fischer	REF	1
+1569	d. fisher	REF	1
+1570	m. l. fisher	REF	1
+1571	l. fissore	REF	1
+1572	n. flann	REF	1
+1573	d. foley	REF	2
+1574	k. forbus	REF	1
+1575	kenneth forbus	REF	1
+1576	roger ford	REF	1
+1577	d. a. forsyth	REF	1
+1578	fotland d.	REF	1
+1579	a. fournier	REF	1
+1580	b. fox	REF	1
+1581	s. fox	REF	1
+1582	a. u. frank	REF	2
+1583	a. u frank	REF	1
+1584	j. a. franklin	REF	2
+1585	c. w. fraser	REF	2
+1586	michael freed	REF	1
+1587	c. freksa	REF	7
+1588	eugene c. freuder	REF	1
+1589	e. freuder	REF	3
+1590	e. c. freuder	REF	1
+1591	s.m. freundschuh	REF	1
+1592	r. fritzson	REF	1
+1593	b. fronhofer	REF	2
+1594	p. fu	REF	1
+1595	d. gabbay	REF	4
+1596	m. gabbrielli	REF	1
+1597	b.r. gaines	REF	6
+1598	b. gamback	REF	1
+1599	l.m. gambardella	REF	1
+1600	l. m. gambardella	REF	4
+1601	m. j. garca de la banda garca	REF	1
+1602	m. garey	REF	1
+1603	j. gaschnig	REF	1
+1604	l. gasser	REF	1
+1605	j. gecsei	REF	1
+1606	e. gelman	REF	1
+1607	m. genesereth	REF	2
+1608	i. p. gent	REF	1
+1609	michael p. georgeff	REF	5
+1610	m. georgeff	REF	2
+1611	m.p. georgeff	REF	2
+1612	m. p. georgeff	REF	1
+1613	alfonso gerevini	REF	1
+1614	j. s. gero	REF	1
+1615	i. gershkoff	REF	1
+1616	j. gettys	REF	1
+1617	aditya k. ghose	REF	3
+1618	k. ghosh	REF	1
+1619	r. giacobazzi	REF	6
+1620	p. giblin	REF	1
+1621	k. d. gibson	REF	1
+1622	v.p. gilbert	REF	1
+1623	d. gillies	REF	4
+1624	m. ginsberg	REF	2
+1625	matthew l. ginsberg	REF	1
+1626	matthew ginsberg	REF	2
+1627	f. girosi	REF	1
+1628	girosi f.	REF	1
+1629	stein gjessing	REF	1
+1630	c. globig	REF	1
+1631	f. glover	REF	3
+1632	r. godin	REF	1
+1633	randy goebel	REF	4
+1634	r. goebel	REF	1
+1635	d. e. goldberg	REF	1
+1636	k. golden	REF	4
+1637	keith golden	REF	1
+1638	a. r. golding	REF	2
+1639	r.g. golledge	REF	1
+1640	martin c. golumbic	REF	1
+1641	c. m. goral	REF	1
+1642	g. j. gordon	REF	1
+1643	hans peter graf	REF	1
+1644	d. p. w. graham	REF	1
+1645	j. grant	REF	1
+1646	s. a. grant	REF	2
+1647	d. p. greenberg	REF	1
+1648	c. l. green	REF	1
+1649	j. gregory	REF	1
+1650	m. grimnes	REF	1
+1651	w. e. l. grimson	REF	2
+1652	a. v. groenink	REF	1
+1653	w. gropp	REF	1
+1654	b. grosof	REF	1
+1655	k. gross	REF	1
+1656	the qualitative reasoning group	REF	1
+1657	adam grove	REF	1
+1658	c. grover	REF	1
+1659	t. r. gruber	REF	2
+1660	t. gruber	REF	6
+1661	h.-w. guesgen	REF	3
+1662	g.; guida	REF	1
+1663	gullapalli v.	REF	1
+1664	v. gullapalli	REF	3
+1665	a. s. gunawan	REF	1
+1666	v. gupta	REF	1
+1667	john gurney	REF	1
+1668	ouzden guur-ali	REF	1
+1669	e. haber	REF	1
+1670	p. haddawy	REF	1
+1671	p. a. hadfield	REF	1
+1672	u. hahn	REF	2
+1673	dan halperin	REF	1
+1674	joseph y. halpern	REF	1
+1675	p. halverson	REF	1
+1676	k. hammond	REF	1
+1677	s. hanks	REF	9
+1678	steven hanks	REF	1
+1679	d. r. hanson	REF	2
+1680	othar hansson	REF	1
+1681	m. hanus	REF	3
+1682	m. haraguchi	REF	1
+1683	r. m. haralick	REF	3
+1684	r. haralick	REF	3
+1685	m. e. harmon	REF	1
+1686	mance e. harmon	REF	1
+1687	p. harmon	REF	1
+1688	j. s. harper	REF	2
+1689	m. p. harper	REF	5
+1690	e. harslem	REF	1
+1691	koen van der hauw	REF	1
+1692	r. hayes	REF	2
+1693	p. hebert	REF	1
+1694	matthias heger	REF	1
+1695	m. heger	REF	1
+1696	juha heikkila	REF	1
+1697	h.-w. hein	REF	1
+1698	r. a. helzerman	REF	5
+1699	r. hempel	REF	1
+1700	d. hennessy	REF	1
+1701	j. hennessy	REF	1
+1702	j. l. hennessy	REF	1
+1703	dana s. henry	REF	2
+1704	p. van hentenryck	REF	2
+1705	m. hermenegildo	REF	5
+1706	d. hernandez	REF	2
+1707	j. hewitt	REF	1
+1708	a. heydon	REF	1
+1709	k. hfifik	REF	1
+1710	d. hinkle	REF	1
+1711	g. e. hinton	REF	5
+1712	geoffrey e. hinton	REF	1
+1713	g. hinton	REF	4
+1714	k. hiraki	REF	1
+1715	haym hirsh	REF	1
+1716	s. hochreiter	REF	1
+1717	karl hoernig	REF	1
+1718	h.hoffmann	REF	1
+1719	r. hogarth	REF	1
+1720	t. hogg	REF	4
+1721	j. hohle	REF	1
+1722	n. j. hollinghurst	REF	1
+1723	p. w. hollis	REF	2
+1724	k. j. holyoak	REF	1
+1725	t.m. hong	REF	1
+1726	h.-c. hoppe	REF	1
+1727	h. hoppe	REF	1
+1728	h. horacek	REF	1
+1729	horswill i.	REF	1
+1730	e. j. horvitz	REF	1
+1731	eric j. horvitz	REF	2
+1732	k. hosoda	REF	15
+1733	koh hosoda	REF	6
+1734	r. houghton	REF	1
+1735	housos e.	REF	1
+1736	c. howson	REF	4
+1737	colin howson	REF	1
+1738	s. i. hruska	REF	1
+1739	t.s. huang	REF	1
+1740	e. hudlicka	REF	1
+1741	b. humphreys	REF	1
+1742	g.w. humphreys	REF	1
+1743	m. humphrys	REF	1
+1744	c. huser	REF	1
+1745	m. hutchinson	REF	1
+1746	ilg w.	REF	1
+1747	j. - l. imbert	REF	1
+1748	f.f. ingrand	REF	1
+1749	c. irby	REF	1
+1750	k. isbister	REF	1
+1751	m. ishii	REF	1
+1752	b. ives	REF	1
+1753	s. s. iyengar	REF	2
+1754	t. jaakkola	REF	7
+1755	tommi jaakkola	REF	3
+1756	w. k. jackson	REF	1
+1757	b. e. jacobs	REF	1
+1758	j. jaffar	REF	4
+1759	r. jagadeesan	REF	1
+1760	a. jain	REF	1
+1761	r. jain	REF	2
+1762	david v. james	REF	1
+1763	c. z. janikow	REF	1
+1764	g. janssens	REF	9
+1765	k p jantke	REF	1
+1766	harri jappinen	REF	1
+1767	t. jiang	REF	1
+1768	christopher f. joerg	REF	2
+1769	m. s. john	REF	1
+1770	m. st . john	REF	1
+1771	m. f. st . john	REF	2
+1772	mark d. johnston	REF	1
+1773	m. johnston	REF	3
+1774	v.s. johnston	REF	1
+1775	g jomier	REF	1
+1776	c. v. jones	REF	1
+1777	m. i. jordan	REF	5
+1778	m. jordan	REF	1
+1779	m.i. jordan	REF	1
+1780	michael i. jordan	REF	3
+1781	j. jourdan	REF	1
+1782	e. jungert	REF	1
+1783	leslie pack kaelbling	REF	4
+1784	l. p. kaelbling	REF	12
+1785	l. kaelbling	REF	3
+1786	l. p. kaelbing	REF	1
+1787	leslie p. kaebling	REF	1
+1788	gunnel kaellgren	REF	1
+1789	h. kaetsu	REF	1
+1790	k. kahn	REF	1
+1791	m.s. kamel	REF	1
+1792	t. kanade	REF	1
+1793	takeo kanade	REF	1
+1794	k. kanazawa	REF	2
+1795	keiji kanazawa	REF	2
+1796	i. kanter	REF	2
+1797	kaplan r. m.	REF	1
+1798	kaplan rm	REF	2
+1799	kaplan r.m.	REF	1
+1800	fred karlsson	REF	1
+1801	s. kasif	REF	2
+1802	michael kass	REF	1
+1803	m kass	REF	2
+1804	h. katsuno	REF	1
+1805	henry a. kautz	REF	2
+1806	h. kautz	REF	2
+1807	h.a. kautz	REF	1
+1808	henry kautz	REF	1
+1809	alan kay	REF	1
+1810	j. keane.	REF	2
+1811	m. t. keane	REF	1
+1812	s. sathya keerthi	REF	1
+1813	d. keller	REF	2
+1814	g. m. kellermann	REF	1
+1815	c. kellogg	REF	1
+1816	a. kelly	REF	1
+1817	r. kelly	REF	1
+1818	r. kerber	REF	2
+1819	yaakov kerner	REF	1
+1820	p. khedkar	REF	7
+1821	r. kimball	REF	1
+1822	d.-w. kim	REF	1
+1823	j. kim	REF	1
+1824	c. & kindermann	REF	1
+1825	j. j. king	REF	5
+1826	jonathan j. king	REF	1
+1827	jonathan jay king	REF	1
+1828	r. king	REF	1
+1829	p. kirkpatrick	REF	1
+1830	jak kirman	REF	1
+1831	j. de kleer	REF	1
+1832	m. klenner	REF	2
+1833	hans v. kliestretzow	REF	1
+1834	a. h. klopf	REF	2
+1835	tomoko koda	REF	1
+1836	sven koenig	REF	1
+1837	s. koenig	REF	2
+1838	k. koile	REF	1
+1839	d. koller	REF	1
+1840	daphne koller	REF	1
+1841	j. kolodner	REF	6
+1842	j. l. kolodner	REF	4
+1843	janet l. kolodner	REF	2
+1844	l. i. kontothanassis	REF	3
+1845	h. korth	REF	1
+1846	r kozierok	REF	2
+1847	r. kozierok	REF	7
+1848	kozierok r.	REF	1
+1849	robyn kozierok	REF	1
+1850	robin kozierok	REF	2
+1851	kozierok r	REF	1
+1852	s. kraus	REF	1
+1853	kristee kreitman	REF	1
+1854	e. krikhaar	REF	1
+1855	m. krogster	REF	2
+1856	b.j.a krose	REF	1
+1857	b.j.a. krose	REF	1
+1858	bruce krulwich	REF	1
+1859	b. j. kuipers	REF	2
+1860	b. kuipers	REF	4
+1861	v. kumar	REF	5
+1862	d. c. kuncicky	REF	2
+1863	d.r. kuokka	REF	1
+1864	f. kurfess	REF	2
+1865	david kurlander	REF	1
+1866	k.n. kutulakos	REF	1
+1867	k. n. kutulakos	REF	1
+1868	k. kuwabara	REF	1
+1869	a.d. kwok	REF	2
+1870	r. c. lacher	REF	1
+1871	r.c. lacher	REF	1
+1872	peter b. ladkin	REF	3
+1873	w. van laer	REF	3
+1874	p. laface	REF	1
+1875	aarno lahtola	REF	1
+1876	philip laird	REF	1
+1877	p. laird	REF	2
+1878	s. e. lander	REF	1
+1879	m. lando	REF	1
+1880	p. langley	REF	5
+1881	j. h. langlois	REF	1
+1882	a. lanitis	REF	1
+1883	amy l. lansky	REF	1
+1884	a. lansky	REF	2
+1885	a.l. lansky	REF	1
+1886	g.a. lanzarone	REF	1
+1887	christian larssen	REF	2
+1888	y. lashkari	REF	4
+1889	yezdi lashkari	REF	3
+1890	j. - l. lassez	REF	4
+1891	j. - l lassez	REF	1
+1892	j.-l. lassez	REF	1
+1893	j.-c. latombe	REF	2
+1894	anthony t. laundrie	REF	1
+1895	b. laurel	REF	4
+1896	m. lauria	REF	1
+1897	n. lavra<=c	REF	1
+1898	c. lawrence	REF	2
+1899	d.b. leake	REF	1
+1900	b. leclaire	REF	1
+1901	y. lecun	REF	2
+1902	j. s. lee	REF	1
+1903	s. lee	REF	2
+1904	john j. leggett	REF	1
+1905	w. lehnert	REF	1
+1906	c. e. leiserson	REF	1
+1907	b. leng	REF	1
+1908	b. lenzmann	REF	4
+1909	tze-yun leong	REF	1
+1910	n. lesh	REF	6
+1911	neal lesh	REF	1
+1912	v. r. lesser	REF	2
+1913	v. lesser	REF	2
+1914	r. letz	REF	3
+1915	t.k. leung	REF	3
+1916	h. j. levesque	REF	2
+1917	g. levi	REF	6
+1918	k. r. levi	REF	1
+1919	d. levin	REF	1
+1920	robert levinson	REF	1
+1921	g.-a. levow	REF	1
+1922	a. y. levy	REF	1
+1923	j. levy	REF	1
+1924	c. lewis	REF	1
+1925	l. lewis	REF	1
+1926	j. liang	REF	1
+1927	henry lieberman	REF	2
+1928	h-y.s. li	REF	1
+1929	kai li.	REF	1
+1930	k. li	REF	7
+1931	kai li	REF	2
+1932	m. li	REF	2
+1933	ming li	REF	1
+1934	d. lindberg	REF	1
+1935	long-ji lin	REF	8
+1936	l.-j. lin	REF	6
+1937	l. lin	REF	12
+1938	l.j. lin	REF	4
+1939	long ji lin	REF	1
+1940	l-j. lin	REF	5
+1941	long-li lin	REF	1
+1942	l-j lin.	REF	1
+1943	l-j lin	REF	1
+1944	longji lin	REF	1
+1945	l. j. lin	REF	2
+1946	lin l.-j.	REF	1
+1947	l lin	REF	1
+1948	g. linoff	REF	4
+1949	gordon linoff	REF	1
+1950	mark a. linton	REF	1
+1951	m. linton	REF	1
+1952	w. lin	REF	1
+1953	m. l. littman	REF	10
+1954	littman m.	REF	1
+1955	m. littman	REF	2
+1956	michael l. littmann	REF	1
+1957	michael l. littman	REF	4
+1958	j. liu	REF	2
+1959	lok tin liu	REF	2
+1960	b. livezy	REF	1
+1961	b. livezey	REF	1
+1962	z. li	REF	2
+1963	m. lounsbery	REF	2
+1964	h. lthi	REF	1
+1965	j. lu	REF	1
+1966	z. - q. luo	REF	3
+1967	a.a. lushnikov	REF	4
+1968	e. lusk	REF	1
+1969	ernst lutz	REF	1
+1970	a. macdonald	REF	1
+1971	d. j. macintosh	REF	2
+1972	douglas j. macintosh	REF	1
+1973	e. w. mackie	REF	1
+1974	a. k. mackworth	REF	3
+1975	r. maclin	REF	6
+1976	o. madani	REF	1
+1977	roger maddux	REF	1
+1978	niel k. madsen	REF	1
+1979	p. maes	REF	13
+1980	maes p.	REF	1
+1981	pattie maes	REF	6
+1982	pattie maes,	REF	1
+1983	maes p	REF	1
+1984	s. mahadevan	REF	23
+1985	mahadevan s.	REF	1
+1986	s. mahedevan	REF	1
+1987	sridhar mahadevan	REF	3
+1988	m. j. maher	REF	1
+1989	m. l. maher	REF	2
+1990	m.l. maher	REF	1
+1991	b. maigret	REF	1
+1992	f. malabocchia	REF	1
+1993	m. manago	REF	2
+1994	dennis w. manchak	REF	1
+1995	mangasarian ol	REF	3
+1996	o. l. mangasarian	REF	3
+1997	o.l. mangasarian	REF	2
+1998	o mangasarian	REF	1
+1999	d. mani	REF	1
+2000	r. mantley	REF	1
+2001	a. marcus	REF	1
+2002	e. m. markman	REF	1
+2003	j marks	REF	1
+2004	joe marks	REF	1
+2005	k. marriott	REF	8
+2006	23 . k. marriott	REF	1
+2007	elaine marsh	REF	2
+2008	richard martin	REF	2
+2009	h. maruyama	REF	7
+2010	m. marx	REF	1
+2011	b. masand	REF	4
+2012	brij masand	REF	1
+2013	vadim maslov	REF	1
+2014	t. g. masters	REF	1
+2015	m. j. mataric	REF	1
+2016	david l. matuszek	REF	1
+2017	f. maurer	REF	2
+2018	maxwell j. t.	REF	1
+2019	maxwell jt	REF	2
+2020	maxwell j.t.	REF	1
+2021	andrew mayer	REF	1
+2022	b. mayoh	REF	1
+2023	k. mcaloon	REF	2
+2024	r. andrew mccallum	REF	4
+2025	r. a. mccallum	REF	4
+2026	b. j. mccarragher	REF	1
+2027	j. mccarthy	REF	2
+2028	j. mcclelland	REF	2
+2029	j. l. mcclelland	REF	2
+2030	b. mccune	REF	1
+2031	d. mcdermott	REF	2
+2032	j. mcdermott	REF	1
+2033	j. mcdonald	REF	1
+2034	d. mcgrath	REF	1
+2035	j. mcguire	REF	1
+2036	donald p. mckay	REF	2
+2037	d. mckay	REF	8
+2038	g. medioni	REF	1
+2039	u. meier	REF	1
+2040	a. meisels	REF	1
+2041	a. mendelzon	REF	1
+2042	malena mesarina	REF	1
+2043	m. mesarina	REF	1
+2044	p. meseguer	REF	1
+2045	b t messmer	REF	1
+2046	j. metcalfe	REF	1
+2047	metral m.	REF	1
+2048	m. metral	REF	3
+2049	m. e. metral	REF	1
+2050	max metral	REF	3
+2051	r. a. meyer	REF	3
+2052	robert a. meyer	REF	1
+2053	g. micca	REF	1
+2054	z. michalewicz	REF	1
+2055	p. de michelis	REF	1
+2056	r. miikkulainen	REF	5
+2057	risto miikkulainen	REF	1
+2058	e. milios	REF	1
+2059	j. del r. millan	REF	4
+2060	m. miller	REF	1
+2061	peter j. millington	REF	1
+2062	p. j. millington	REF	1
+2063	marvin l. minsky	REF	1
+2064	s. minton	REF	10
+2065	steven minton	REF	1
+2066	l. missiaen	REF	2
+2067	d. p. mitchell	REF	1
+2068	t. mitchell	REF	2
+2069	tom m. mitchell	REF	2
+2070	tom mitchell	REF	1
+2071	m. mevenlamp m.	REF	1
+2072	r. mohan	REF	1
+2073	t. mohri	REF	2
+2074	c. monma	REF	1
+2075	ugo montanari	REF	1
+2076	u. montanari	REF	3
+2077	u.montanari	REF	1
+2078	a.w. moore	REF	2
+2079	a. w. moore	REF	23
+2080	andrew w. moore	REF	3
+2081	a. moore	REF	2
+2082	d. e. moriarty	REF	5
+2083	david e. moriarty	REF	1
+2084	y. moses	REF	1
+2085	h. motoda.	REF	1
+2086	moussouris j.	REF	1
+2087	b. mukherjee	REF	1
+2088	p. w. munro	REF	2
+2089	j. m. j. murre	REF	1
+2090	k. musumbu	REF	3
+2091	b. myers	REF	1
+2092	b.a. myers	REF	3
+2093	b. nadel	REF	1
+2094	b. nado	REF	1
+2095	h. h. nagel	REF	1
+2096	m. v. nagendraprasad	REF	1
+2097	y. nakamura	REF	1
+2098	k. nakayama	REF	1
+2099	n. narayanan	REF	1
+2100	m.s. navar,	REF	1
+2101	h. nawab	REF	1
+2102	a. nayeem	REF	1
+2103	m. nayeri	REF	1
+2104	m. neamtu	REF	1
+2105	r. e. neapolitan	REF	1
+2106	b. nebel	REF	5
+2107	bernhard nebel	REF	2
+2108	r. neches	REF	7
+2109	j. nerbonne	REF	1
+2110	c.g. nevill-manning	REF	2
+2111	r. newman	REF	1
+2112	e. l. newport	REF	2
+2113	v. santiba ~ nez	REF	1
+2114	j. t. ngo	REF	1
+2115	j. thomas ngo	REF	1
+2116	s.m. ng	REF	2
+2117	k. d. nguyen	REF	1
+2118	h. nicholas	REF	1
+2119	nicholas negroponte	REF	1
+2120	ann nicholson	REF	1
+2121	r.e. nisbett	REF	3
+2122	t. nishida	REF	1
+2123	s. noda	REF	15
+2124	shoichi noda	REF	4
+2125	d.h. norrie	REF	6
+2126	l. r. novick	REF	1
+2127	a. jefferson offutt	REF	1
+2128	w. ogryczack	REF	1
+2129	anthony ohare	REF	1
+2130	a. ohare	REF	2
+2131	t. ohko	REF	3
+2132	takuya ohko	REF	2
+2133	h. j. ohlbach	REF	4
+2134	stellan ohlsson	REF	1
+2135	d. ok	REF	1
+2136	s. m. omohundro	REF	2
+2137	w.j. ong	REF	1
+2138	r. oppermann	REF	2
+2139	m.w. oram	REF	1
+2140	t. j ording	REF	1
+2141	t. oren	REF	1
+2142	tim oren	REF	1
+2143	g. oriolo	REF	1
+2144	d. orvosh	REF	1
+2145	d. g  ossard	REF	1
+2146	a.j. otoole	REF	2
+2147	m. ouhyoung.	REF	1
+2148	m. overmars.	REF	1
+2149	mark h. overmars	REF	1
+2150	s.l. oviatt	REF	1
+2151	padberg m.	REF	1
+2152	s. pakin	REF	1
+2153	c. palamidessi	REF	1
+2154	a. palmer	REF	1
+2155	p. panangaden	REF	1
+2156	j. - s. pang	REF	3
+2157	g. pask	REF	1
+2158	p. patel-schneider	REF	6
+2159	p. f. patel-schneider	REF	1
+2160	r. patil	REF	6
+2161	r. s. patil	REF	1
+2162	d. patterson	REF	1
+2163	d. a. patterson	REF	1
+2164	maes pattie,	REF	1
+2165	b. patty	REF	1
+2166	j. j. paulos	REF	2
+2167	z. pawlak	REF	1
+2168	zdzislaw pawlak	REF	1
+2169	t. payne	REF	1
+2170	t. r. payne	REF	1
+2171	m. j. pazzani	REF	3
+2172	j. pearl	REF	20
+2173	pearl j.	REF	1
+2174	judea pearl	REF	6
+2175	edwin p.d. pednault	REF	4
+2176	e. p. d. pednault	REF	1
+2177	e.p.d. pednault	REF	1
+2178	e. pednault	REF	2
+2179	c.s. peirce	REF	1
+2180	b. pell	REF	1
+2181	j.s. penberthy	REF	2
+2182	j. penberthy	REF	1
+2183	j. s. penberthy	REF	2
+2184	m. pendrith	REF	1
+2185	m.d. pendrith	REF	1
+2186	alex pentland	REF	2
+2187	a. pentland	REF	4
+2188	l.m. pereira	REF	1
+2189	d. perlis	REF	3
+2190	yongyuth permpoontanalarp	REF	1
+2191	c. perneel	REF	1
+2192	p. perona	REF	3
+2193	d.i. perrett	REF	1
+2194	g. perrot	REF	1
+2195	t.s. perry	REF	2
+2196	dennis perzanowski	REF	3
+2197	d. perzanowski	REF	2
+2198	c. peterson	REF	1
+2199	andrew b. philips	REF	1
+2200	a. b. philips	REF	2
+2201	a. philips	REF	1
+2202	d.b philips	REF	1
+2203	g. m. pianosi	REF	1
+2204	e. piccolo	REF	1
+2205	c. pichet	REF	1
+2206	paul pierce	REF	2
+2207	e plaza	REF	1
+2208	e. plaza	REF	5
+2209	enric plaza	REF	1
+2210	c.r. plott	REF	1
+2211	t. poggio	REF	3
+2212	w. pohl	REF	1
+2213	m.a. pokorny	REF	1
+2214	d. poole	REF	2
+2215	david poole	REF	2
+2216	bruce porter	REF	1
+2217	brian potter	REF	1
+2218	b. potter	REF	1
+2219	r. poulsen	REF	1
+2220	j. prager	REF	1
+2221	john prager	REF	1
+2222	r. w. prager	REF	1
+2223	lorien y. pratt	REF	5
+2224	b. pravin	REF	1
+2225	r. prieto-diaz	REF	1
+2226	a. prince	REF	3
+2227	a. s. prince	REF	1
+2228	p. prosser	REF	5
+2229	kai li. protected	REF	1
+2230	d. psaltis	REF	1
+2231	william pugh	REF	1
+2232	s. pulman	REF	1
+2233	y. qiao	REF	1
+2234	j. quantz	REF	1
+2235	j. r. quinlan	REF	3
+2236	n. rabindra	REF	1
+2237	2. l. de raedt	REF	1
+2238	h. raiffa	REF	1
+2239	o. raiman	REF	2
+2240	r. rajagopalan	REF	1
+2241	a. rajput	REF	1
+2242	h ralambondrainy	REF	1
+2243	d. ralph	REF	3
+2244	v.s. ramachandran	REF	1
+2245	c. r. ramakrishnan	REF	1
+2246	i. v. ramakrishnan	REF	1
+2247	a ram	REF	1
+2248	a. ram	REF	3
+2249	d. a. randell	REF	3
+2250	rangaraj	REF	1
+2251	anand s. rao	REF	4
+2252	a. s. rao	REF	1
+2253	a.s. rao	REF	1
+2254	rajesh p.n. rao	REF	1
+2255	r. ratcliff	REF	1
+2256	a. rauzy	REF	3
+2257	b. ravindran	REF	1
+2258	y. ravin	REF	1
+2259	yael ravin	REF	1
+2260	m. rayner	REF	3
+2261	m. redmond	REF	1
+2262	j. - c. regin	REF	1
+2263	alexander reinefeld	REF	2
+2264	c. riesbeck	REF	2
+2265	c. k. reisbeck	REF	1
+2266	c. k. riesbeck	REF	2
+2267	c. reisbech	REF	4
+2268	g. reiss	REF	1
+2269	raymond reiter	REF	1
+2270	r. reiter	REF	2
+2271	j.-m. renders	REF	1
+2272	j. renz	REF	1
+2273	r.a. rescorla	REF	1
+2274	u. reyle	REF	1
+2275	francesco ricci	REF	3
+2276	f. ricci	REF	3
+2277	j. t. e. richardson	REF	1
+2278	m. richeldi	REF	2
+2279	a.m. richter	REF	1
+2280	j. rickel	REF	1
+2281	g. rinaldi,	REF	1
+2282	m. rinard	REF	1
+2283	mark ring	REF	1
+2284	m. b. ring	REF	4
+2285	r. l. rivest	REF	2
+2286	t. robinson	REF	2
+2287	rogers p.	REF	1
+2288	t. rogers	REF	1
+2289	l. a. roggman	REF	1
+2290	r. rohrig	REF	1
+2291	c. romanzin	REF	1
+2292	p. s. rosenbloom	REF	2
+2293	s. j. rosenschein	REF	2
+2294	s. rosenschein	REF	1
+2295	b.h. ross	REF	1
+2296	f. rossi	REF	4
+2297	m. rossotto	REF	2
+2298	r. ross	REF	1
+2299	d. roth	REF	1
+2300	henry a. rowley	REF	1
+2301	o. e. rssler	REF	1
+2302	h. rulot	REF	1
+2303	d. e. rumelhart	REF	1
+2304	daniel m. russell	REF	1
+2305	s. russell	REF	6
+2306	s.j. russell	REF	1
+2307	r. rymon	REF	3
+2308	d. sabin	REF	2
+2309	e. sacks	REF	1
+2310	s. sage	REF	4
+2311	d. sahlin	REF	1
+2312	gitta salomon	REF	1
+2313	jim sanborn	REF	1
+2314	j. alfredo sanchez	REF	1
+2315	j. sandberg	REF	5
+2316	jonathon sandberg	REF	1
+2317	j. sandberg.	REF	1
+2318	t. w. sandholm	REF	1
+2319	s. sankar	REF	2
+2320	j.c. santamaria	REF	2
+2321	v. saraswat	REF	1
+2322	v. a. saraswat	REF	2
+2323	a. sassano	REF	1
+2324	abdul sattar	REF	2
+2325	m scardamalia	REF	1
+2326	roger schank	REF	1
+2327	r. schank	REF	5
+2328	r. c. schank	REF	1
+2329	r. s. schank	REF	2
+2330	r schank	REF	1
+2331	r. scha	REF	1
+2332	r. w. scheifler	REF	1
+2333	t.c. schelling	REF	1
+2334	k.a. schepsle	REF	1
+2335	h. a. scheraga	REF	1
+2336	t. schiex	REF	1
+2337	j. r. j. schirra	REF	1
+2338	j. schmidhuber	REF	12
+2339	jurgen h. schmidhuber	REF	1
+2340	juergen schmidhuber	REF	1
+2341	jurgen schmidhuber	REF	1
+2342	j. h. schmidhuber.	REF	1
+2343	j. h. schmidhuber	REF	2
+2344	g. n. schmitt	REF	1
+2345	k. schnattinger	REF	2
+2346	f. schneider	REF	1
+2347	schram g.	REF	1
+2348	n. schraudolph	REF	2
+2349	lenhart schubert	REF	1
+2350	r. schumacker	REF	1
+2351	l. l. schumaker	REF	1
+2352	j. schumann	REF	3
+2353	b. schunck	REF	2
+2354	a. schwartz	REF	7
+2355	anton schwartz	REF	1
+2356	d. g. schwartz	REF	1
+2357	u. m. schwuttke	REF	1
+2358	m. l. scott	REF	3
+2359	p. d. scott	REF	1
+2360	r. h.c. seabrook	REF	1
+2361	r. seidel	REF	1
+2362	t. j. sejnowski	REF	2
+2363	terrence j. sejnowski	REF	1
+2364	t. sejnowski	REF	1
+2365	r. c. sekar	REF	1
+2366	b. selman	REF	1
+2367	h. senay	REF	1
+2368	d. e. setliff	REF	1
+2369	glenn shafer	REF	1
+2370	v. l. shalin	REF	1
+2371	ron shamir	REF	1
+2372	m. shanahan	REF	1
+2373	d. shapiro	REF	1
+2374	s. shapiro	REF	1
+2375	stuart c. shapiro	REF	1
+2376	upendra shardanand	REF	1
+2377	r. sharda	REF	1
+2378	m. sharir	REF	1
+2379	l. shastri	REF	3
+2380	jude shavlik	REF	1
+2381	j. w. shavlik	REF	1
+2382	j. shavlik	REF	4
+2383	jude w. shavlik	REF	1
+2384	j.w. shavlik	REF	1
+2385	h.c. shen	REF	1
+2386	shieber s. m.	REF	1
+2387	s. shimojo	REF	1
+2388	y. shin	REF	2
+2389	b. shneiderman	REF	2
+2390	y. shoham	REF	1
+2391	e. h. shortliffe	REF	2
+2392	e. shortliffe	REF	1
+2393	e.h. shortcliffe	REF	1
+2394	jaime simao sichman	REF	1
+2395	g. silverstein	REF	1
+2396	g silverstein	REF	2
+2397	reid g. simmons	REF	1
+2398	r. simmons	REF	4
+2399	r.g. simmons	REF	1
+2400	r. g. simmons	REF	1
+2401	w. simoens	REF	1
+2402	h. a. simon	REF	1
+2403	h. simon	REF	1
+2404	h. simonis	REF	1
+2405	e. simoudis	REF	2
+2406	satinder p. singh	REF	2
+2407	s. singh	REF	4
+2408	s. p. singh	REF	5
+2409	s.p. singh	REF	2
+2410	satinder pal singh	REF	3
+2411	t. sjfiland	REF	1
+2412	d. b. skalak	REF	1
+2413	a. skjellum	REF	1
+2414	s. slade	REF	1
+2415	r. sloan	REF	1
+2416	a. sloman	REF	2
+2417	g. de v. smit	REF	1
+2418	a.f.m. smith	REF	1
+2419	a. smith	REF	1
+2420	b c smith	REF	1
+2421	b. m. smith	REF	6
+2422	b. smith	REF	1
+2423	d. a. smith	REF	1
+2424	david smith	REF	2
+2425	d. smith	REF	1
+2426	d.c. smith	REF	1
+2427	t. e. smith	REF	1
+2428	p. smolensky	REF	4
+2429	gert smolka	REF	1
+2430	g. smolka	REF	1
+2431	b. smyth	REF	2
+2432	h. sondergaard	REF	1
+2433	h. sndergaard	REF	2
+2434	s. soderland	REF	1
+2435	gurindar s. sohi	REF	1
+2436	s. a. solla	REF	2
+2437	o. j. sordalen	REF	1
+2438	r. sosi<=c	REF	1
+2439	r. sproull	REF	1
+2440	s. sripada	REF	1
+2441	r. m. stallman	REF	1
+2442	c. stanfill	REF	17
+2443	c. w. stanfill	REF	2
+2444	stanfill c.	REF	1
+2445	c. stanll	REF	1
+2446	craig stanfill	REF	1
+2447	louise stark	REF	1
+2448	h. van staveren	REF	1
+2449	m. stefik	REF	2
+2450	d. steiger	REF	1
+2451	j. w. stevenson	REF	1
+2452	s.p. stich	REF	3
+2453	r.j. stone	REF	1
+2454	j. storck	REF	1
+2455	c. strauss.	REF	1
+2456	p. stru	REF	1
+2457	p. stuckey	REF	3
+2458	p. j. stuckey	REF	1
+2459	k. studzinski	REF	1
+2460	w. stuetzle.	REF	1
+2461	v.s. subrahmanian	REF	1
+2462	b. suhm	REF	1
+2463	p. sukaviriya	REF	2
+2464	r. sun	REF	2
+2465	a. supalov.	REF	1
+2466	g. j. sussman	REF	1
+2467	i. sutherland	REF	1
+2468	r.s. sutton	REF	5
+2469	r. s. sutton	REF	13
+2470	r. sutton	REF	3
+2471	sutton r. s.	REF	1
+2472	t. suzuki	REF	1
+2473	m. s. swenson	REF	1
+2474	c. szepesvari	REF	4
+2475	p. tadepalli	REF	1
+2476	helen tager-flusberg	REF	1
+2477	c. tait	REF	1
+2478	a. et al. takeuchi	REF	1
+2479	h. tanaka	REF	3
+2480	a. s. tanenbaum	REF	1
+2481	r. tanga	REF	1
+2482	m. tan	REF	2
+2483	ming tan	REF	2
+2484	c. tasso	REF	3
+2485	s. tawaratsumida	REF	11
+2486	sukoya tawaratsumida	REF	3
+2487	s. tawaratumida	REF	4
+2488	sukoya tawaratumida	REF	1
+2489	c.j. taylor	REF	1
+2490	p. thagard	REF	1
+2491	r. a. thaler	REF	1
+2492	c. k. tham	REF	1
+2493	c. tham	REF	1
+2494	j.-m. themlin	REF	1
+2495	c. g. thomas	REF	3
+2496	k. thornber	REF	1
+2497	d. throop	REF	1
+2498	sebastian b. thrun	REF	2
+2499	s.b. thrun	REF	1
+2500	s. thrun	REF	8
+2501	a. tits	REF	3
+2502	t. tomiyama	REF	1
+2503	r. tong	REF	1
+2504	k. e. torrance	REF	2
+2505	c. torras	REF	2
+2506	v. torre	REF	1
+2507	torre v.	REF	1
+2508	g. toussaint	REF	1
+2509	r. traphoener	REF	1
+2510	r. traphner	REF	1
+2511	l. travis	REF	1
+2512	roger traylor	REF	1
+2513	e. tsang	REF	1
+2514	s. tsumoto	REF	1
+2515	matthew turk	REF	2
+2516	m. turk	REF	4
+2517	i. b. turksen	REF	1
+2518	r. turner	REF	1
+2519	a. tversky	REF	1
+2520	b. tversky	REF	1
+2521	e. tyugu	REF	1
+2522	e. uchibe	REF	6
+2523	eiji uchibe	REF	3
+2524	s. ullman	REF	2
+2525	p. urbach	REF	4
+2526	peter urbach	REF	1
+2527	paul e. utgoff	REF	1
+2528	p. utgoff	REF	6
+2529	p.e. utgoff	REF	2
+2530	p. e. utgoff	REF	1
+2531	alvaro del val	REF	1
+2532	d.valentin	REF	1
+2533	d. valentin	REF	1
+2534	kari valkonen	REF	1
+2535	j van baalen	REF	1
+2536	j. vancea	REF	1
+2537	w. van de velde	REF	1
+2538	w van de velde	REF	1
+2539	g van noord	REF	1
+2540	c. van overveld	REF	1
+2541	a. varshney	REF	1
+2542	m. m. veloso	REF	2
+2543	verbruggen h.b.	REF	1
+2544	g. verfaillie	REF	1
+2545	m. s. verma	REF	1
+2546	b. verplank	REF	1
+2547	a. verri	REF	1
+2548	verri a.	REF	1
+2549	laurie vertelney	REF	1
+2550	e. vidal	REF	1
+2551	marc b. vilain	REF	2
+2552	m. vilain	REF	2
+2553	j. vila	REF	1
+2554	p. m. vitanyi	REF	1
+2555	p. vitanyi	REF	1
+2556	paul m. b. vitanyi	REF	1
+2557	john m. vlissides	REF	1
+2558	j. vlissides	REF	1
+2559	j. voelcker	REF	2
+2560	werner vogels	REF	1
+2561	m.-t. vo	REF	1
+2562	atro voutilainen	REF	1
+2563	i. wachsmuth	REF	4
+2564	s. wada	REF	2
+2565	a.r. wagner	REF	1
+2566	g. wahba	REF	1
+2567	a. waibel	REF	2
+2568	a. walker	REF	1
+2569	j. walker	REF	1
+2570	richard j. wallace	REF	1
+2571	r. wallace	REF	2
+2572	william a. wallace	REF	1
+2573	t. walsh	REF	1
+2574	d. waltz	REF	21
+2575	david waltz	REF	2
+2576	waltz d.	REF	1
+2577	d. l. waltz	REF	1
+2578	m. wang	REF	1
+2579	x. wang	REF	1
+2580	c. ward	REF	1
+2581	w. ward	REF	2
+2582	j. warren	REF	1
+2583	kenneth wauchope	REF	3
+2584	k. wauchope	REF	2
+2585	kenneth wauchope,	REF	2
+2586	a. m. waxman	REF	1
+2587	weare r. f.	REF	2
+2588	j. weber	REF	1
+2589	k. weems	REF	1
+2590	e. wefald	REF	4
+2591	a. s. weigend	REF	1
+2592	gerhard wei	REF	1
+2593	g. weiss	REF	1
+2594	r. weiss	REF	1
+2595	s. weiss	REF	1
+2596	dan weld	REF	1
+2597	d. weld	REF	22
+2598	daniel weld	REF	8
+2599	d. weld,	REF	1
+2600	d. s. weld	REF	1
+2601	p. j. werbos	REF	2
+2602	s. wess	REF	2
+2603	s. h. westin	REF	1
+2604	c. m. white	REF	1
+2605	steven d. whitehead	REF	2
+2606	s.d. whitehead	REF	7
+2607	s. d. whitehead	REF	6
+2608	s. whitehead	REF	5
+2609	steven whitehead	REF	2
+2610	whitehead s.	REF	1
+2611	d. whitley	REF	8
+2612	k. y. wichlund	REF	1
+2613	g. wiederhold	REF	1
+2614	m. wiering	REF	1
+2615	m. a. wiering	REF	1
+2616	f. wijnen	REF	1
+2617	robert wilensky	REF	1
+2618	john wilkes	REF	1
+2619	b. williams	REF	1
+2620	c. williams	REF	3
+2621	c. p. williams	REF	1
+2622	m. williamson	REF	6
+2623	michael williamson	REF	1
+2624	r. j. williams	REF	6
+2625	r.j. williams	REF	1
+2626	d.s. wills	REF	1
+2627	r. wilson	REF	2
+2628	t. winkler	REF	1
+2629	w. winsborough	REF	1
+2630	m. winslett	REF	1
+2631	p. h. winston	REF	2
+2632	s. winter	REF	1
+2633	e. j. wisniewski	REF	1
+2634	andrew witkin	REF	1
+2635	a. witkin	REF	1
+2636	i.h. witten	REF	2
+2637	lambert wixson	REF	1
+2638	lambert e. wixson	REF	1
+2639	l. e. wixson	REF	1
+2640	w. wolberg	REF	1
+2641	wolberg wh	REF	1
+2642	w. h. wolberg	REF	1
+2643	w.h. wolberg	REF	1
+2644	a.k.c. wong	REF	1
+2645	j.-r. wu	REF	1
+2646	s. - q. wu	REF	1
+2647	s. - q. wu,	REF	1
+2648	y. wu	REF	2
+2649	k. yamada	REF	1
+2650	b. yandell	REF	1
+2651	g. yang	REF	1
+2652	j. yang	REF	1
+2653	n. yankelovich	REF	1
+2654	m. yan	REF	1
+2655	r. yap	REF	1
+2656	k. yokota	REF	1
+2657	k. b. yoon	REF	1
+2658	k.b. yoon	REF	1
+2659	k. yoshida	REF	1
+2660	chad yoshikawa	REF	2
+2661	h. yoshikawa	REF	1
+2662	m. yoshikawa	REF	2
+2663	s.young	REF	2
+2664	a.l. yuille	REF	2
+2665	x. yu	REF	1
+2666	r. zabih	REF	1
+2667	d. zabowski	REF	1
+2668	wlodek zadrozny	REF	1
+2669	m. zajicek	REF	1
+2670	e. zaoeanella	REF	1
+2671	d. zhang	REF	2
+2672	d. m. zhang	REF	1
+2673	w. zhang	REF	6
+2674	y. zhang	REF	1
+2675	j. zhao	REF	5
+2676	jieyu zhao	REF	2
+2677	z. zhong	REF	1
+2678	j. zhou	REF	3
+2679	s. zilberstein	REF	1
+2680	k. zimmermann	REF	3
+2681	c. b. zoltowski	REF	1
+2682	k. zorychta	REF	1
+2683	j. zytkow	REF	1
+2684	agnar	TKN	3
+2685	aamodt	TKN	13
+2686	a	TKN	232
+2687	l	TKN	169
+2688	abbott	TKN	2
+2689	m	TKN	313
+2690	r	TKN	309
+2691	h	TKN	128
+2692	abdi	TKN	2
+2693	s	TKN	294
+2694	abu	TKN	1
+2695	hakima	TKN	1
+2696	acheroy	TKN	1
+2697	d	TKN	235
+2698	ackley	TKN	5
+2699	david	TKN	17
+2700	adali	TKN	1
+2701	w	TKN	106
+2702	aha	TKN	5
+2703	t	TKN	101
+2704	ahmed	TKN	1
+2705	ahn	TKN	1
+2706	n	TKN	28
+2707	ahuja	TKN	1
+2708	v	TKN	42
+2709	ajjanagadde	TKN	1
+2710	aleliunas	TKN	2
+2711	romas	TKN	1
+2712	j	TKN	354
+2713	alfares	TKN	1
+2714	p	TKN	195
+2715	alfeld	TKN	1
+2716	b	TKN	134
+2717	allen	TKN	3
+2718	james	TKN	2
+2719	f	TKN	38
+2720	alonso	TKN	1
+2721	alpert	TKN	7
+2722	richard	TKN	5
+2723	alshawi	TKN	1
+2724	k	TKN	116
+2725	al	TKN	5
+2726	taha	TKN	4
+2727	althoff	TKN	2
+2728	amarel	TKN	2
+2729	anbil	TKN	1
+2730	c	TKN	166
+2731	anderson	TKN	6
+2732	angern	TKN	1
+2733	antonisse	TKN	9
+2734	jim	TKN	4
+2735	arto	TKN	1
+2736	anttila	TKN	1
+2737	y	TKN	31
+2738	anzai	TKN	5
+2739	yuichiro	TKN	2
+2740	aparcio	TKN	1
+2741	arcos	TKN	1
+2742	michael	TKN	18
+2743	arent	TKN	1
+2744	arikawa	TKN	1
+2745	e	TKN	117
+2746	armengol	TKN	1
+2747	arvo	TKN	1
+2748	asada	TKN	21
+2749	minoru	TKN	6
+2750	asama	TKN	1
+2751	aseltine	TKN	1
+2752	g	TKN	133
+2753	atkeson	TKN	14
+2754	christopher	TKN	3
+2755	auriol	TKN	2
+2756	avesani	TKN	4
+2757	paolo	TKN	1
+2758	ayer	TKN	1
+2759	flavio	TKN	1
+2760	azevedo	TKN	1
+2761	babuska	TKN	1
+2762	fahiem	TKN	2
+2763	bacchus	TKN	5
+2764	backstrom	TKN	1
+2765	baddeley	TKN	2
+2766	bagnara	TKN	4
+2767	baird	TKN	5
+2768	baker	TKN	1
+2769	balachandran	TKN	3
+2770	balas	TKN	2
+2771	baldwin	TKN	1
+2772	dana	TKN	4
+2773	ballard	TKN	6
+2774	shumeet	TKN	1
+2775	baluja	TKN	1
+2776	banchoff	TKN	1
+2777	garca	TKN	7
+2778	de	TKN	16
+2779	la	TKN	6
+2780	banda	TKN	6
+2781	bankert	TKN	4
+2782	barron	TKN	2
+2783	barto	TKN	10
+2784	barwise	TKN	2
+2785	jon	TKN	1
+2786	anindya	TKN	1
+2787	basu	TKN	1
+2788	battaile	TKN	1
+2789	bauer	TKN	2
+2790	bayerl	TKN	3
+2791	beck	TKN	1
+2792	becker	TKN	1
+2793	van	TKN	21
+2794	beek	TKN	7
+2795	peter	TKN	8
+2796	bell	TKN	3
+2797	benbrahim	TKN	2
+2798	bennett	TKN	3
+2799	kristin	TKN	1
+2800	bereiter	TKN	1
+2801	berenji	TKN	12
+2802	berghuis	TKN	1
+2803	bergmann	TKN	1
+2804	berleant	TKN	1
+2805	bern	TKN	1
+2806	berns	TKN	1
+2807	bertsekas	TKN	1
+2808	bessiere	TKN	1
+2809	betge	TKN	1
+2810	brezetz	TKN	1
+2811	beun	TKN	1
+2812	beymer	TKN	1
+2813	bhattacharya	TKN	1
+2814	bibel	TKN	3
+2815	bieber	TKN	1
+2816	angelos	TKN	1
+2817	bilas	TKN	1
+2818	thomas	TKN	7
+2819	o	TKN	33
+2820	binford	TKN	1
+2821	lawrence	TKN	3
+2822	birnbaum	TKN	1
+2823	bisio	TKN	1
+2824	bistarelli	TKN	1
+2825	blake	TKN	3
+2826	blasco	TKN	1
+2827	bledsoe	TKN	1
+2828	bloom	TKN	1
+2829	matthias	TKN	5
+2830	blumrich	TKN	11
+2831	boguraev	TKN	1
+2832	bonissone	TKN	1
+2833	booth	TKN	1
+2834	borghuis	TKN	1
+2835	borgida	TKN	3
+2836	alex	TKN	3
+2837	borning	TKN	1
+2838	bose	TKN	2
+2839	boulanger	TKN	3
+2840	bouma	TKN	1
+2841	didier	TKN	2
+2842	bourigault	TKN	2
+2843	craig	TKN	3
+2844	boutilier	TKN	1
+2845	kevin	TKN	1
+2846	bowyer	TKN	1
+2847	box	TKN	2
+2848	boyan	TKN	9
+2849	brachman	TKN	4
+2850	ronald	TKN	1
+2851	bradshaw	TKN	1
+2852	bradtke	TKN	6
+2853	braeuer	TKN	1
+2854	brajinik	TKN	1
+2855	brajnik	TKN	3
+2856	karl	TKN	4
+2857	branting	TKN	4
+2858	brazdil	TKN	1
+2859	brent	TKN	1
+2860	bresina	TKN	1
+2861	gerhard	TKN	2
+2862	brewka	TKN	1
+2863	brezillon	TKN	1
+2864	brigham	TKN	1
+2865	brink	TKN	2
+2866	briscoe	TKN	1
+2867	brner	TKN	1
+2868	jr	TKN	1
+2869	brooks	TKN	1
+2870	brouwer	TKN	1
+2871	brown	TKN	1
+2872	brunelli	TKN	2
+2873	bruynooghe	TKN	15
+2874	u	TKN	13
+2875	bub	TKN	1
+2876	buchanan	TKN	6
+2877	vineet	TKN	1
+2878	buch	TKN	1
+2879	buijtenen	TKN	1
+2880	bunke	TKN	1
+2881	bunt	TKN	1
+2882	hans	TKN	3
+2883	jurgen	TKN	3
+2884	burckert	TKN	2
+2885	burel	TKN	2
+2886	burke	TKN	2
+2887	burl	TKN	3
+2888	mark	TKN	7
+2889	burstein	TKN	3
+2890	burt	TKN	1
+2891	byrd	TKN	2
+2892	roy	TKN	1
+2893	byun	TKN	1
+2894	cagan	TKN	1
+2895	cain	TKN	3
+2896	paul	TKN	5
+2897	calder	TKN	2
+2898	caldwell	TKN	1
+2899	cao	TKN	2
+2900	carel	TKN	2
+2901	carmo	TKN	1
+2902	carro	TKN	1
+2903	carter	TKN	1
+2904	cartwright	TKN	1
+2905	catmull	TKN	1
+2906	celniker	TKN	1
+2907	ceri	TKN	1
+2908	chandrasekaran	TKN	3
+2909	chang	TKN	1
+2910	chapman	TKN	8
+2911	le	TKN	3
+2912	charlier	TKN	3
+2913	chatila	TKN	1
+2914	cheng	TKN	1
+2915	chen	TKN	1
+2916	chiang	TKN	1
+2917	chien	TKN	1
+2918	chin	TKN	1
+2919	chouraqui	TKN	1
+2920	lonnie	TKN	3
+2921	chrisman	TKN	10
+2922	chung	TKN	1
+2923	eugene	TKN	2
+2924	ciccarelli	TKN	1
+2925	cichosz	TKN	2
+2926	cipolla	TKN	4
+2927	clancy	TKN	1
+2928	clark	TKN	4
+2929	eve	TKN	1
+2930	herbert	TKN	1
+2931	jeffery	TKN	1
+2932	clouse	TKN	10
+2933	helen	TKN	2
+2934	cobb	TKN	1
+2935	codish	TKN	7
+2936	codispoti	TKN	1
+2937	codognet	TKN	5
+2938	cohen	TKN	8
+2939	philip	TKN	3
+2940	robin	TKN	3
+2941	william	TKN	3
+2942	cohn	TKN	4
+2943	gregg	TKN	1
+2944	collins	TKN	3
+2945	robert	TKN	5
+2946	colombetti	TKN	1
+2947	connell	TKN	21
+2948	connel	TKN	1
+2949	jonathan	TKN	5
+2950	connolly	TKN	2
+2951	conruyt	TKN	2
+2952	conry	TKN	4
+2953	susan	TKN	1
+2954	coombs	TKN	2
+2955	cootes	TKN	1
+2956	coppock	TKN	1
+2957	cormen	TKN	1
+2958	cornuejols	TKN	1
+2959	corsini	TKN	3
+2960	costantini	TKN	1
+2961	cottrell	TKN	3
+2962	cowan	TKN	1
+2963	cox	TKN	2
+2964	coyne	TKN	2
+2965	crawford	TKN	2
+2966	crites	TKN	9
+2967	crouch	TKN	1
+2968	crowley	TKN	2
+2969	crutchfield	TKN	1
+2970	z	TKN	12
+2971	cui	TKN	3
+2972	culler	TKN	2
+2973	cunningham	TKN	1
+2974	dambrosio	TKN	3
+2975	dam	TKN	2
+2976	dandrade	TKN	2
+2977	dantzig	TKN	1
+2978	francoise	TKN	1
+2979	darses	TKN	1
+2980	das	TKN	8
+2981	davies	TKN	3
+2982	davis	TKN	4
+2983	dayan	TKN	5
+2984	dean	TKN	6
+2985	debray	TKN	3
+2986	dechter	TKN	9
+2987	deffenbacher	TKN	1
+2988	guillaume	TKN	1
+2989	deffuant	TKN	1
+2990	delcher	TKN	1
+2991	deleuterio	TKN	1
+2992	delgrande	TKN	1
+2993	sven	TKN	2
+2994	delmas	TKN	1
+2995	yves	TKN	1
+2996	demazeau	TKN	1
+2997	demillo	TKN	1
+2998	demonchaux	TKN	1
+2999	denecker	TKN	4
+3000	den	TKN	1
+3001	os	TKN	1
+3002	dent	TKN	1
+3003	raedt	TKN	5
+3004	derose	TKN	2
+3005	dietterich	TKN	6
+3006	digney	TKN	1
+3007	dincbas	TKN	1
+3008	dittrich	TKN	1
+3009	dobkin	TKN	1
+3010	dobson	TKN	1
+3011	dominic	TKN	8
+3012	abbe	TKN	1
+3013	don	TKN	1
+3014	dorigo	TKN	6
+3015	dorward	TKN	1
+3016	doshita	TKN	1
+3017	doyle	TKN	3
+3018	draper	TKN	8
+3019	drummond	TKN	7
+3020	cezary	TKN	4
+3021	dubnicki	TKN	10
+3022	dubnick	TKN	1
+3023	duchamp	TKN	2
+3024	duff	TKN	1
+3025	dumortier	TKN	7
+3026	duncan	TKN	1
+3027	dyer	TKN	2
+3028	dyn	TKN	1
+3029	edelman	TKN	2
+3030	edelsbrunner	TKN	1
+3031	edwards	TKN	2
+3032	egeland	TKN	1
+3033	egenhofer	TKN	8
+3034	thorsten	TKN	1
+3035	von	TKN	1
+3036	eicken	TKN	1
+3037	andreas	TKN	1
+3038	eisele	TKN	1
+3039	eisenhauer	TKN	1
+3040	elgot	TKN	2
+3041	drapkin	TKN	2
+3042	elliman	TKN	2
+3043	elliot	TKN	4
+3044	elliott	TKN	1
+3045	elmroth	TKN	1
+3046	emery	TKN	1
+3047	i	TKN	29
+3048	endo	TKN	1
+3049	epstein	TKN	2
+3050	espinoza	TKN	1
+3051	etherington	TKN	5
+3052	etzioni	TKN	28
+3053	oren	TKN	11
+3054	stephanie	TKN	2
+3055	everett	TKN	3
+3056	facello	TKN	1
+3057	falaschi	TKN	2
+3058	fallside	TKN	2
+3059	fan	TKN	1
+3060	fargier	TKN	1
+3061	farquhar	TKN	3
+3062	adam	TKN	2
+3063	steven	TKN	7
+3064	feiner	TKN	1
+3065	edward	TKN	5
+3066	felten	TKN	12
+3067	fiechter	TKN	1
+3068	fikes	TKN	8
+3069	fil	TKN	2
+3070	timothy	TKN	1
+3071	finin	TKN	10
+3072	fink	TKN	1
+3073	fischer	TKN	1
+3074	fisher	TKN	2
+3075	fissore	TKN	1
+3076	flann	TKN	1
+3077	foley	TKN	2
+3078	forbus	TKN	2
+3079	kenneth	TKN	6
+3080	roger	TKN	4
+3081	ford	TKN	1
+3082	forsyth	TKN	1
+3083	fotland	TKN	1
+3084	fournier	TKN	1
+3085	fox	TKN	2
+3086	frank	TKN	3
+3087	franklin	TKN	2
+3088	fraser	TKN	2
+3089	freed	TKN	1
+3090	freksa	TKN	7
+3091	freuder	TKN	5
+3092	freundschuh	TKN	1
+3093	fritzson	TKN	1
+3094	fronhofer	TKN	2
+3095	fu	TKN	1
+3096	gabbay	TKN	4
+3097	gabbrielli	TKN	1
+3098	gaines	TKN	6
+3099	gamback	TKN	1
+3100	gambardella	TKN	5
+3101	garey	TKN	1
+3102	gaschnig	TKN	1
+3103	gasser	TKN	1
+3104	gecsei	TKN	1
+3105	gelman	TKN	1
+3106	genesereth	TKN	2
+3107	gent	TKN	1
+3108	georgeff	TKN	10
+3109	alfonso	TKN	1
+3110	gerevini	TKN	1
+3111	gero	TKN	1
+3112	gershkoff	TKN	1
+3113	gettys	TKN	1
+3114	aditya	TKN	3
+3115	ghose	TKN	3
+3116	ghosh	TKN	1
+3117	giacobazzi	TKN	6
+3118	giblin	TKN	1
+3119	gibson	TKN	1
+3120	gilbert	TKN	1
+3121	gillies	TKN	4
+3122	ginsberg	TKN	5
+3123	matthew	TKN	5
+3124	girosi	TKN	2
+3125	stein	TKN	1
+3126	gjessing	TKN	1
+3127	globig	TKN	1
+3128	glover	TKN	3
+3129	godin	TKN	1
+3130	randy	TKN	4
+3131	goebel	TKN	5
+3132	goldberg	TKN	1
+3133	golden	TKN	5
+3134	keith	TKN	1
+3135	golding	TKN	2
+3136	golledge	TKN	1
+3137	martin	TKN	3
+3138	golumbic	TKN	1
+3139	goral	TKN	1
+3140	gordon	TKN	2
+3141	graf	TKN	1
+3142	graham	TKN	1
+3143	grant	TKN	3
+3144	greenberg	TKN	1
+3145	green	TKN	1
+3146	gregory	TKN	1
+3147	grimnes	TKN	1
+3148	grimson	TKN	2
+3149	groenink	TKN	1
+3150	gropp	TKN	1
+3151	grosof	TKN	1
+3152	gross	TKN	1
+3153	the	TKN	1
+3154	qualitative	TKN	1
+3155	reasoning	TKN	1
+3156	group	TKN	1
+3157	grove	TKN	1
+3158	grover	TKN	1
+3159	gruber	TKN	8
+3160	guesgen	TKN	3
+3161	guida	TKN	1
+3162	gullapalli	TKN	4
+3163	gunawan	TKN	1
+3164	gupta	TKN	1
+3165	john	TKN	9
+3166	gurney	TKN	1
+3167	ouzden	TKN	1
+3168	guur	TKN	1
+3169	ali	TKN	1
+3170	haber	TKN	1
+3171	haddawy	TKN	1
+3172	hadfield	TKN	1
+3173	hahn	TKN	2
+3174	dan	TKN	2
+3175	halperin	TKN	1
+3176	joseph	TKN	1
+3177	halpern	TKN	1
+3178	halverson	TKN	1
+3179	hammond	TKN	1
+3180	hanks	TKN	10
+3181	hanson	TKN	2
+3182	othar	TKN	1
+3183	hansson	TKN	1
+3184	hanus	TKN	3
+3185	haraguchi	TKN	1
+3186	haralick	TKN	6
+3187	harmon	TKN	3
+3188	mance	TKN	1
+3189	harper	TKN	7
+3190	harslem	TKN	1
+3191	koen	TKN	1
+3192	der	TKN	1
+3193	hauw	TKN	1
+3194	hayes	TKN	2
+3195	hebert	TKN	1
+3196	heger	TKN	2
+3197	juha	TKN	1
+3198	heikkila	TKN	1
+3199	hein	TKN	1
+3200	helzerman	TKN	5
+3201	hempel	TKN	1
+3202	hennessy	TKN	3
+3203	henry	TKN	8
+3204	hentenryck	TKN	2
+3205	hermenegildo	TKN	5
+3206	hernandez	TKN	2
+3207	hewitt	TKN	1
+3208	heydon	TKN	1
+3209	hfifik	TKN	1
+3210	hinkle	TKN	1
+3211	hinton	TKN	10
+3212	geoffrey	TKN	1
+3213	hiraki	TKN	1
+3214	haym	TKN	1
+3215	hirsh	TKN	1
+3216	hochreiter	TKN	1
+3217	hoernig	TKN	1
+3218	hoffmann	TKN	1
+3219	hogarth	TKN	1
+3220	hogg	TKN	4
+3221	hohle	TKN	1
+3222	hollinghurst	TKN	1
+3223	hollis	TKN	2
+3224	holyoak	TKN	1
+3225	hong	TKN	1
+3226	hoppe	TKN	2
+3227	horacek	TKN	1
+3228	horswill	TKN	1
+3229	horvitz	TKN	3
+3230	eric	TKN	2
+3231	hosoda	TKN	21
+3232	koh	TKN	6
+3233	houghton	TKN	1
+3234	housos	TKN	1
+3235	howson	TKN	5
+3236	colin	TKN	1
+3237	hruska	TKN	1
+3238	huang	TKN	1
+3239	hudlicka	TKN	1
+3240	humphreys	TKN	2
+3241	humphrys	TKN	1
+3242	huser	TKN	1
+3243	hutchinson	TKN	1
+3244	ilg	TKN	1
+3245	imbert	TKN	1
+3246	ingrand	TKN	1
+3247	irby	TKN	1
+3248	isbister	TKN	1
+3249	ishii	TKN	1
+3250	ives	TKN	1
+3251	iyengar	TKN	2
+3252	jaakkola	TKN	10
+3253	tommi	TKN	3
+3254	jackson	TKN	1
+3255	jacobs	TKN	1
+3256	jaffar	TKN	4
+3257	jagadeesan	TKN	1
+3258	jain	TKN	3
+3259	janikow	TKN	1
+3260	janssens	TKN	9
+3261	jantke	TKN	1
+3262	harri	TKN	1
+3263	jappinen	TKN	1
+3264	jiang	TKN	1
+3265	joerg	TKN	2
+3266	st	TKN	3
+3267	johnston	TKN	5
+3268	jomier	TKN	1
+3269	jones	TKN	1
+3270	jordan	TKN	10
+3271	jourdan	TKN	1
+3272	jungert	TKN	1
+3273	leslie	TKN	5
+3274	pack	TKN	4
+3275	kaelbling	TKN	19
+3276	kaelbing	TKN	1
+3277	kaebling	TKN	1
+3278	gunnel	TKN	1
+3279	kaellgren	TKN	1
+3280	kaetsu	TKN	1
+3281	kahn	TKN	1
+3282	kamel	TKN	1
+3283	kanade	TKN	2
+3284	takeo	TKN	1
+3285	kanazawa	TKN	4
+3286	keiji	TKN	2
+3287	kanter	TKN	2
+3288	kaplan	TKN	4
+3289	rm	TKN	2
+3290	fred	TKN	1
+3291	karlsson	TKN	1
+3292	kasif	TKN	2
+3293	kass	TKN	3
+3294	katsuno	TKN	1
+3295	kautz	TKN	6
+3296	alan	TKN	1
+3297	kay	TKN	1
+3298	keane	TKN	3
+3299	sathya	TKN	1
+3300	keerthi	TKN	1
+3301	keller	TKN	2
+3302	kellermann	TKN	1
+3303	kellogg	TKN	1
+3304	kelly	TKN	2
+3305	kerber	TKN	2
+3306	yaakov	TKN	1
+3307	kerner	TKN	1
+3308	khedkar	TKN	7
+3309	kimball	TKN	1
+3310	kim	TKN	2
+3311	kindermann	TKN	1
+3312	king	TKN	8
+3313	jay	TKN	1
+3314	kirkpatrick	TKN	1
+3315	jak	TKN	1
+3316	kirman	TKN	1
+3317	kleer	TKN	1
+3318	klenner	TKN	2
+3319	kliestretzow	TKN	1
+3320	klopf	TKN	2
+3321	tomoko	TKN	1
+3322	koda	TKN	1
+3323	koenig	TKN	3
+3324	koile	TKN	1
+3325	koller	TKN	2
+3326	daphne	TKN	1
+3327	kolodner	TKN	12
+3328	janet	TKN	2
+3329	kontothanassis	TKN	3
+3330	korth	TKN	1
+3331	kozierok	TKN	14
+3332	robyn	TKN	1
+3333	kraus	TKN	1
+3334	kristee	TKN	1
+3335	kreitman	TKN	1
+3336	krikhaar	TKN	1
+3337	krogster	TKN	2
+3338	krose	TKN	2
+3339	bruce	TKN	2
+3340	krulwich	TKN	1
+3341	kuipers	TKN	6
+3342	kumar	TKN	5
+3343	kuncicky	TKN	2
+3344	kuokka	TKN	1
+3345	kurfess	TKN	2
+3346	kurlander	TKN	1
+3347	kutulakos	TKN	2
+3348	kuwabara	TKN	1
+3349	kwok	TKN	2
+3350	lacher	TKN	2
+3351	ladkin	TKN	3
+3352	laer	TKN	3
+3353	laface	TKN	1
+3354	aarno	TKN	1
+3355	lahtola	TKN	1
+3356	laird	TKN	3
+3357	lander	TKN	1
+3358	lando	TKN	1
+3359	langley	TKN	5
+3360	langlois	TKN	1
+3361	lanitis	TKN	1
+3362	amy	TKN	1
+3363	lansky	TKN	4
+3364	lanzarone	TKN	1
+3365	christian	TKN	2
+3366	larssen	TKN	2
+3367	lashkari	TKN	7
+3368	yezdi	TKN	3
+3369	lassez	TKN	6
+3370	latombe	TKN	2
+3371	anthony	TKN	2
+3372	laundrie	TKN	1
+3373	laurel	TKN	4
+3374	lauria	TKN	1
+3375	lavra	TKN	1
+3376	leake	TKN	1
+3377	leclaire	TKN	1
+3378	lecun	TKN	2
+3379	lee	TKN	3
+3380	leggett	TKN	1
+3381	lehnert	TKN	1
+3382	leiserson	TKN	1
+3383	leng	TKN	1
+3384	lenzmann	TKN	4
+3385	tze	TKN	1
+3386	yun	TKN	1
+3387	leong	TKN	1
+3388	lesh	TKN	7
+3389	neal	TKN	1
+3390	lesser	TKN	4
+3391	letz	TKN	3
+3392	leung	TKN	3
+3393	levesque	TKN	2
+3394	levi	TKN	7
+3395	levin	TKN	1
+3396	levinson	TKN	1
+3397	levow	TKN	1
+3398	levy	TKN	2
+3399	lewis	TKN	2
+3400	liang	TKN	1
+3401	lieberman	TKN	2
+3402	li	TKN	18
+3403	kai	TKN	4
+3404	ming	TKN	3
+3405	lindberg	TKN	1
+3406	long	TKN	10
+3407	ji	TKN	9
+3408	lin	TKN	45
+3409	longji	TKN	1
+3410	linoff	TKN	5
+3411	linton	TKN	2
+3412	littman	TKN	17
+3413	littmann	TKN	1
+3414	liu	TKN	4
+3415	lok	TKN	2
+3416	tin	TKN	2
+3417	livezy	TKN	1
+3418	livezey	TKN	1
+3419	lounsbery	TKN	2
+3420	lthi	TKN	1
+3421	lu	TKN	1
+3422	q	TKN	5
+3423	luo	TKN	3
+3424	lushnikov	TKN	4
+3425	lusk	TKN	1
+3426	ernst	TKN	1
+3427	lutz	TKN	1
+3428	macdonald	TKN	1
+3429	macintosh	TKN	3
+3430	douglas	TKN	1
+3431	mackie	TKN	1
+3432	mackworth	TKN	3
+3433	maclin	TKN	6
+3434	madani	TKN	1
+3435	maddux	TKN	1
+3436	niel	TKN	1
+3437	madsen	TKN	1
+3438	maes	TKN	23
+3439	pattie	TKN	8
+3440	mahadevan	TKN	27
+3441	mahedevan	TKN	1
+3442	sridhar	TKN	3
+3443	maher	TKN	4
+3444	maigret	TKN	1
+3445	malabocchia	TKN	1
+3446	manago	TKN	2
+3447	dennis	TKN	4
+3448	manchak	TKN	1
+3449	mangasarian	TKN	9
+3450	ol	TKN	3
+3451	mani	TKN	1
+3452	mantley	TKN	1
+3453	marcus	TKN	1
+3454	markman	TKN	1
+3455	marks	TKN	2
+3456	joe	TKN	1
+3457	marriott	TKN	9
+3458	elaine	TKN	2
+3459	marsh	TKN	2
+3460	maruyama	TKN	7
+3461	marx	TKN	1
+3462	masand	TKN	5
+3463	brij	TKN	1
+3464	vadim	TKN	1
+3465	maslov	TKN	1
+3466	masters	TKN	1
+3467	mataric	TKN	1
+3468	matuszek	TKN	1
+3469	maurer	TKN	2
+3470	maxwell	TKN	4
+3471	jt	TKN	2
+3472	andrew	TKN	10
+3473	mayer	TKN	1
+3474	mayoh	TKN	1
+3475	mcaloon	TKN	2
+3476	mccallum	TKN	8
+3477	mccarragher	TKN	1
+3478	mccarthy	TKN	2
+3479	mcclelland	TKN	4
+3480	mccune	TKN	1
+3481	mcdermott	TKN	3
+3482	mcdonald	TKN	1
+3483	mcgrath	TKN	1
+3484	mcguire	TKN	1
+3485	donald	TKN	2
+3486	mckay	TKN	10
+3487	medioni	TKN	1
+3488	meier	TKN	1
+3489	meisels	TKN	1
+3490	mendelzon	TKN	1
+3491	malena	TKN	1
+3492	mesarina	TKN	2
+3493	meseguer	TKN	1
+3494	messmer	TKN	1
+3495	metcalfe	TKN	1
+3496	metral	TKN	8
+3497	max	TKN	3
+3498	meyer	TKN	4
+3499	micca	TKN	1
+3500	michalewicz	TKN	1
+3501	michelis	TKN	1
+3502	miikkulainen	TKN	6
+3503	risto	TKN	1
+3504	milios	TKN	1
+3505	del	TKN	5
+3506	millan	TKN	4
+3507	miller	TKN	1
+3508	millington	TKN	2
+3509	marvin	TKN	1
+3510	minsky	TKN	1
+3511	minton	TKN	11
+3512	missiaen	TKN	2
+3513	mitchell	TKN	6
+3514	tom	TKN	3
+3515	mevenlamp	TKN	1
+3516	mohan	TKN	1
+3517	mohri	TKN	2
+3518	monma	TKN	1
+3519	ugo	TKN	1
+3520	montanari	TKN	5
+3521	moore	TKN	30
+3522	moriarty	TKN	6
+3523	moses	TKN	1
+3524	motoda	TKN	1
+3525	moussouris	TKN	1
+3526	mukherjee	TKN	1
+3527	munro	TKN	2
+3528	murre	TKN	1
+3529	musumbu	TKN	3
+3530	myers	TKN	4
+3531	nadel	TKN	1
+3532	nado	TKN	1
+3533	nagel	TKN	1
+3534	nagendraprasad	TKN	1
+3535	nakamura	TKN	1
+3536	nakayama	TKN	1
+3537	narayanan	TKN	1
+3538	navar	TKN	1
+3539	nawab	TKN	1
+3540	nayeem	TKN	1
+3541	nayeri	TKN	1
+3542	neamtu	TKN	1
+3543	neapolitan	TKN	1
+3544	nebel	TKN	7
+3545	bernhard	TKN	2
+3546	neches	TKN	7
+3547	nerbonne	TKN	1
+3548	nevill	TKN	2
+3549	manning	TKN	2
+3550	newman	TKN	1
+3551	newport	TKN	2
+3552	santiba	TKN	1
+3553	nez	TKN	1
+3554	ngo	TKN	2
+3555	ng	TKN	2
+3556	nguyen	TKN	1
+3557	nicholas	TKN	2
+3558	negroponte	TKN	1
+3559	ann	TKN	1
+3560	nicholson	TKN	1
+3561	nisbett	TKN	3
+3562	nishida	TKN	1
+3563	noda	TKN	19
+3564	shoichi	TKN	4
+3565	norrie	TKN	6
+3566	novick	TKN	1
+3567	jefferson	TKN	1
+3568	offutt	TKN	1
+3569	ogryczack	TKN	1
+3570	ohare	TKN	3
+3571	ohko	TKN	5
+3572	takuya	TKN	2
+3573	ohlbach	TKN	4
+3574	stellan	TKN	1
+3575	ohlsson	TKN	1
+3576	ok	TKN	1
+3577	omohundro	TKN	2
+3578	ong	TKN	1
+3579	oppermann	TKN	2
+3580	oram	TKN	1
+3581	ording	TKN	1
+3582	tim	TKN	1
+3583	oriolo	TKN	1
+3584	orvosh	TKN	1
+3585	ossard	TKN	1
+3586	otoole	TKN	2
+3587	ouhyoung	TKN	1
+3588	overmars	TKN	2
+3589	oviatt	TKN	1
+3590	padberg	TKN	1
+3591	pakin	TKN	1
+3592	palamidessi	TKN	1
+3593	palmer	TKN	1
+3594	panangaden	TKN	1
+3595	pang	TKN	3
+3596	pask	TKN	1
+3597	patel	TKN	7
+3598	schneider	TKN	8
+3599	patil	TKN	7
+3600	patterson	TKN	2
+3601	patty	TKN	1
+3602	paulos	TKN	2
+3603	pawlak	TKN	2
+3604	zdzislaw	TKN	1
+3605	payne	TKN	2
+3606	pazzani	TKN	3
+3607	pearl	TKN	27
+3608	judea	TKN	6
+3609	edwin	TKN	4
+3610	pednault	TKN	8
+3611	peirce	TKN	1
+3612	pell	TKN	1
+3613	penberthy	TKN	5
+3614	pendrith	TKN	2
+3615	pentland	TKN	6
+3616	pereira	TKN	1
+3617	perlis	TKN	3
+3618	yongyuth	TKN	1
+3619	permpoontanalarp	TKN	1
+3620	perneel	TKN	1
+3621	perona	TKN	3
+3622	perrett	TKN	1
+3623	perrot	TKN	1
+3624	perry	TKN	2
+3625	perzanowski	TKN	5
+3626	peterson	TKN	1
+3627	philips	TKN	5
+3628	pianosi	TKN	1
+3629	piccolo	TKN	1
+3630	pichet	TKN	1
+3631	pierce	TKN	2
+3632	plaza	TKN	7
+3633	enric	TKN	1
+3634	plott	TKN	1
+3635	poggio	TKN	3
+3636	pohl	TKN	1
+3637	pokorny	TKN	1
+3638	poole	TKN	4
+3639	porter	TKN	1
+3640	brian	TKN	1
+3641	potter	TKN	2
+3642	poulsen	TKN	1
+3643	prager	TKN	3
+3644	lorien	TKN	5
+3645	pratt	TKN	5
+3646	pravin	TKN	1
+3647	prieto	TKN	1
+3648	diaz	TKN	1
+3649	prince	TKN	4
+3650	prosser	TKN	5
+3651	protected	TKN	1
+3652	psaltis	TKN	1
+3653	pugh	TKN	1
+3654	pulman	TKN	1
+3655	qiao	TKN	1
+3656	quantz	TKN	1
+3657	quinlan	TKN	3
+3658	rabindra	TKN	1
+3659	raiffa	TKN	1
+3660	raiman	TKN	2
+3661	rajagopalan	TKN	1
+3662	rajput	TKN	1
+3663	ralambondrainy	TKN	1
+3664	ralph	TKN	3
+3665	ramachandran	TKN	1
+3666	ramakrishnan	TKN	2
+3667	ram	TKN	4
+3668	randell	TKN	3
+3669	rangaraj	TKN	1
+3670	anand	TKN	4
+3671	rao	TKN	7
+3672	rajesh	TKN	1
+3673	ratcliff	TKN	1
+3674	rauzy	TKN	3
+3675	ravindran	TKN	1
+3676	ravin	TKN	2
+3677	yael	TKN	1
+3678	rayner	TKN	3
+3679	redmond	TKN	1
+3680	regin	TKN	1
+3681	alexander	TKN	2
+3682	reinefeld	TKN	2
+3683	riesbeck	TKN	4
+3684	reisbeck	TKN	1
+3685	reisbech	TKN	4
+3686	reiss	TKN	1
+3687	raymond	TKN	1
+3688	reiter	TKN	3
+3689	renders	TKN	1
+3690	renz	TKN	1
+3691	rescorla	TKN	1
+3692	reyle	TKN	1
+3693	francesco	TKN	3
+3694	ricci	TKN	6
+3695	richardson	TKN	1
+3696	richeldi	TKN	2
+3697	richter	TKN	1
+3698	rickel	TKN	1
+3699	rinaldi	TKN	1
+3700	rinard	TKN	1
+3701	ring	TKN	5
+3702	rivest	TKN	2
+3703	robinson	TKN	2
+3704	rogers	TKN	2
+3705	roggman	TKN	1
+3706	rohrig	TKN	1
+3707	romanzin	TKN	1
+3708	rosenbloom	TKN	2
+3709	rosenschein	TKN	3
+3710	ross	TKN	2
+3711	rossi	TKN	4
+3712	rossotto	TKN	2
+3713	roth	TKN	1
+3714	rowley	TKN	1
+3715	rssler	TKN	1
+3716	rulot	TKN	1
+3717	rumelhart	TKN	1
+3718	daniel	TKN	9
+3719	russell	TKN	8
+3720	rymon	TKN	3
+3721	sabin	TKN	2
+3722	sacks	TKN	1
+3723	sage	TKN	4
+3724	sahlin	TKN	1
+3725	gitta	TKN	1
+3726	salomon	TKN	1
+3727	sanborn	TKN	1
+3728	alfredo	TKN	1
+3729	sanchez	TKN	1
+3730	sandberg	TKN	7
+3731	jonathon	TKN	1
+3732	sandholm	TKN	1
+3733	sankar	TKN	2
+3734	santamaria	TKN	2
+3735	saraswat	TKN	3
+3736	sassano	TKN	1
+3737	abdul	TKN	2
+3738	sattar	TKN	2
+3739	scardamalia	TKN	1
+3740	schank	TKN	10
+3741	scha	TKN	1
+3742	scheifler	TKN	1
+3743	schelling	TKN	1
+3744	schepsle	TKN	1
+3745	scheraga	TKN	1
+3746	schiex	TKN	1
+3747	schirra	TKN	1
+3748	schmidhuber	TKN	18
+3749	juergen	TKN	1
+3750	schmitt	TKN	1
+3751	schnattinger	TKN	2
+3752	schram	TKN	1
+3753	schraudolph	TKN	2
+3754	lenhart	TKN	1
+3755	schubert	TKN	1
+3756	schumacker	TKN	1
+3757	schumaker	TKN	1
+3758	schumann	TKN	3
+3759	schunck	TKN	2
+3760	schwartz	TKN	9
+3761	anton	TKN	1
+3762	schwuttke	TKN	1
+3763	scott	TKN	4
+3764	seabrook	TKN	1
+3765	seidel	TKN	1
+3766	sejnowski	TKN	4
+3767	terrence	TKN	1
+3768	sekar	TKN	1
+3769	selman	TKN	1
+3770	senay	TKN	1
+3771	setliff	TKN	1
+3772	glenn	TKN	1
+3773	shafer	TKN	1
+3774	shalin	TKN	1
+3775	ron	TKN	1
+3776	shamir	TKN	1
+3777	shanahan	TKN	1
+3778	shapiro	TKN	3
+3779	stuart	TKN	1
+3780	upendra	TKN	1
+3781	shardanand	TKN	1
+3782	sharda	TKN	1
+3783	sharir	TKN	1
+3784	shastri	TKN	3
+3785	jude	TKN	2
+3786	shavlik	TKN	8
+3787	shen	TKN	1
+3788	shieber	TKN	1
+3789	shimojo	TKN	1
+3790	shin	TKN	2
+3791	shneiderman	TKN	2
+3792	shoham	TKN	1
+3793	shortliffe	TKN	3
+3794	shortcliffe	TKN	1
+3795	jaime	TKN	1
+3796	simao	TKN	1
+3797	sichman	TKN	1
+3798	silverstein	TKN	3
+3799	reid	TKN	1
+3800	simmons	TKN	7
+3801	simoens	TKN	1
+3802	simon	TKN	2
+3803	simonis	TKN	1
+3804	simoudis	TKN	2
+3805	satinder	TKN	5
+3806	singh	TKN	16
+3807	pal	TKN	3
+3808	sjfiland	TKN	1
+3809	skalak	TKN	1
+3810	skjellum	TKN	1
+3811	slade	TKN	1
+3812	sloan	TKN	1
+3813	sloman	TKN	2
+3814	smit	TKN	1
+3815	smith	TKN	16
+3816	smolensky	TKN	4
+3817	gert	TKN	1
+3818	smolka	TKN	2
+3819	smyth	TKN	2
+3820	sondergaard	TKN	1
+3821	sndergaard	TKN	2
+3822	soderland	TKN	1
+3823	gurindar	TKN	1
+3824	sohi	TKN	1
+3825	solla	TKN	2
+3826	sordalen	TKN	1
+3827	sosi	TKN	1
+3828	sproull	TKN	1
+3829	sripada	TKN	1
+3830	stallman	TKN	1
+3831	stanfill	TKN	21
+3832	stanll	TKN	1
+3833	louise	TKN	1
+3834	stark	TKN	1
+3835	staveren	TKN	1
+3836	stefik	TKN	2
+3837	steiger	TKN	1
+3838	stevenson	TKN	1
+3839	stich	TKN	3
+3840	stone	TKN	1
+3841	storck	TKN	1
+3842	strauss	TKN	1
+3843	stru	TKN	1
+3844	stuckey	TKN	4
+3845	studzinski	TKN	1
+3846	stuetzle	TKN	1
+3847	subrahmanian	TKN	1
+3848	suhm	TKN	1
+3849	sukaviriya	TKN	2
+3850	sun	TKN	2
+3851	supalov	TKN	1
+3852	sussman	TKN	1
+3853	sutherland	TKN	1
+3854	sutton	TKN	22
+3855	suzuki	TKN	1
+3856	swenson	TKN	1
+3857	szepesvari	TKN	4
+3858	tadepalli	TKN	1
+3859	tager	TKN	1
+3860	flusberg	TKN	1
+3861	tait	TKN	1
+3862	et	TKN	1
+3863	takeuchi	TKN	1
+3864	tanaka	TKN	3
+3865	tanenbaum	TKN	1
+3866	tanga	TKN	1
+3867	tan	TKN	4
+3868	tasso	TKN	3
+3869	tawaratsumida	TKN	14
+3870	sukoya	TKN	4
+3871	tawaratumida	TKN	5
+3872	taylor	TKN	1
+3873	thagard	TKN	1
+3874	thaler	TKN	1
+3875	tham	TKN	2
+3876	themlin	TKN	1
+3877	thornber	TKN	1
+3878	throop	TKN	1
+3879	sebastian	TKN	2
+3880	thrun	TKN	11
+3881	tits	TKN	3
+3882	tomiyama	TKN	1
+3883	tong	TKN	1
+3884	torrance	TKN	2
+3885	torras	TKN	2
+3886	torre	TKN	2
+3887	toussaint	TKN	1
+3888	traphoener	TKN	1
+3889	traphner	TKN	1
+3890	travis	TKN	1
+3891	traylor	TKN	1
+3892	tsang	TKN	1
+3893	tsumoto	TKN	1
+3894	turk	TKN	6
+3895	turksen	TKN	1
+3896	turner	TKN	1
+3897	tversky	TKN	2
+3898	tyugu	TKN	1
+3899	uchibe	TKN	9
+3900	eiji	TKN	3
+3901	ullman	TKN	2
+3902	urbach	TKN	5
+3903	utgoff	TKN	10
+3904	alvaro	TKN	1
+3905	val	TKN	1
+3906	valentin	TKN	2
+3907	kari	TKN	1
+3908	valkonen	TKN	1
+3909	baalen	TKN	1
+3910	vancea	TKN	1
+3911	velde	TKN	2
+3912	noord	TKN	1
+3913	overveld	TKN	1
+3914	varshney	TKN	1
+3915	veloso	TKN	2
+3916	verbruggen	TKN	1
+3917	verfaillie	TKN	1
+3918	verma	TKN	1
+3919	verplank	TKN	1
+3920	verri	TKN	2
+3921	laurie	TKN	1
+3922	vertelney	TKN	1
+3923	vidal	TKN	1
+3924	marc	TKN	2
+3925	vilain	TKN	4
+3926	vila	TKN	1
+3927	vitanyi	TKN	3
+3928	vlissides	TKN	2
+3929	voelcker	TKN	2
+3930	werner	TKN	1
+3931	vogels	TKN	1
+3932	vo	TKN	1
+3933	atro	TKN	1
+3934	voutilainen	TKN	1
+3935	wachsmuth	TKN	4
+3936	wada	TKN	2
+3937	wagner	TKN	1
+3938	wahba	TKN	1
+3939	waibel	TKN	2
+3940	walker	TKN	2
+3941	wallace	TKN	4
+3942	walsh	TKN	1
+3943	waltz	TKN	25
+3944	wang	TKN	2
+3945	x	TKN	2
+3946	ward	TKN	3
+3947	warren	TKN	1
+3948	wauchope	TKN	7
+3949	waxman	TKN	1
+3950	weare	TKN	2
+3951	weber	TKN	1
+3952	weems	TKN	1
+3953	wefald	TKN	4
+3954	weigend	TKN	1
+3955	wei	TKN	1
+3956	weiss	TKN	3
+3957	weld	TKN	33
+3958	werbos	TKN	2
+3959	wess	TKN	2
+3960	westin	TKN	1
+3961	white	TKN	1
+3962	whitehead	TKN	23
+3963	whitley	TKN	8
+3964	wichlund	TKN	1
+3965	wiederhold	TKN	1
+3966	wiering	TKN	2
+3967	wijnen	TKN	1
+3968	wilensky	TKN	1
+3969	wilkes	TKN	1
+3970	williams	TKN	12
+3971	williamson	TKN	7
+3972	wills	TKN	1
+3973	wilson	TKN	2
+3974	winkler	TKN	1
+3975	winsborough	TKN	1
+3976	winslett	TKN	1
+3977	winston	TKN	2
+3978	winter	TKN	1
+3979	wisniewski	TKN	1
+3980	witkin	TKN	2
+3981	witten	TKN	2
+3982	lambert	TKN	2
+3983	wixson	TKN	3
+3984	wolberg	TKN	4
+3985	wh	TKN	1
+3986	wong	TKN	1
+3987	wu	TKN	5
+3988	yamada	TKN	1
+3989	yandell	TKN	1
+3990	yang	TKN	2
+3991	yankelovich	TKN	1
+3992	yan	TKN	1
+3993	yap	TKN	1
+3994	yokota	TKN	1
+3995	yoon	TKN	2
+3996	yoshida	TKN	1
+3997	chad	TKN	2
+3998	yoshikawa	TKN	5
+3999	young	TKN	2
+4000	yuille	TKN	2
+4001	yu	TKN	1
+4002	zabih	TKN	1
+4003	zabowski	TKN	1
+4004	wlodek	TKN	1
+4005	zadrozny	TKN	1
+4006	zajicek	TKN	1
+4007	zaoeanella	TKN	1
+4008	zhang	TKN	10
+4009	zhao	TKN	7
+4010	jieyu	TKN	2
+4011	zhong	TKN	1
+4012	zhou	TKN	3
+4013	zilberstein	TKN	1
+4014	zimmermann	TKN	3
+4015	zoltowski	TKN	1
+4016	zorychta	TKN	1
+4017	zytkow	TKN	1
+4018	A256	SIM	3
+4019	A530	SIM	14
+4020	A	SIM	232
+4021	L	SIM	169
+4022	A130	SIM	4
+4023	M	SIM	313
+4024	R	SIM	309
+4025	H	SIM	128
+4026	S	SIM	294
+4027	A100	SIM	2
+4028	H250	SIM	6
+4029	A260	SIM	1
+4030	D	SIM	235
+4031	A240	SIM	5
+4032	D130	SIM	17
+4033	A340	SIM	1
+4034	W	SIM	106
+4035	A000	SIM	5
+4036	T	SIM	101
+4037	A500	SIM	3
+4038	N	SIM	28
+4039	A200	SIM	1
+4040	V	SIM	42
+4041	A252	SIM	1
+4042	A445	SIM	2
+4043	R520	SIM	7
+4044	J	SIM	354
+4045	A416	SIM	10
+4046	P	SIM	195
+4047	A414	SIM	1
+4048	B	SIM	134
+4049	A450	SIM	4
+4050	J520	SIM	5
+4051	F	SIM	38
+4052	A452	SIM	1
+4053	R263	SIM	6
+4054	A420	SIM	4
+4055	K	SIM	116
+4056	A400	SIM	6
+4057	T000	SIM	5
+4058	A431	SIM	2
+4059	A564	SIM	2
+4060	A514	SIM	1
+4061	C	SIM	166
+4062	A536	SIM	17
+4063	A526	SIM	1
+4064	A535	SIM	12
+4065	J500	SIM	18
+4066	A630	SIM	1
+4067	A534	SIM	1
+4068	Y	SIM	31
+4069	A520	SIM	5
+4070	Y260	SIM	2
+4071	A162	SIM	1
+4072	A622	SIM	1
+4073	M240	SIM	22
+4074	A653	SIM	1
+4075	A620	SIM	1
+4076	E	SIM	117
+4077	A655	SIM	1
+4078	A610	SIM	1
+4079	A230	SIM	21
+4080	M560	SIM	8
+4081	A250	SIM	1
+4082	A243	SIM	1
+4083	G	SIM	133
+4084	A322	SIM	14
+4085	C623	SIM	5
+4086	A640	SIM	2
+4087	A125	SIM	4
+4088	P400	SIM	15
+4089	A600	SIM	1
+4090	F410	SIM	1
+4091	A213	SIM	1
+4092	B120	SIM	1
+4093	F500	SIM	3
+4094	B220	SIM	5
+4095	B236	SIM	2
+4096	B340	SIM	3
+4097	B256	SIM	4
+4098	B630	SIM	18
+4099	B260	SIM	3
+4100	B425	SIM	3
+4101	B420	SIM	8
+4102	B435	SIM	1
+4103	D500	SIM	22
+4104	B463	SIM	6
+4105	S530	SIM	21
+4106	B521	SIM	1
+4107	G620	SIM	11
+4108	D000	SIM	16
+4109	L000	SIM	38
+4110	B530	SIM	10
+4111	B526	SIM	4
+4112	B650	SIM	5
+4113	B620	SIM	10
+4114	A553	SIM	5
+4115	B200	SIM	15
+4116	B600	SIM	3
+4117	B640	SIM	8
+4118	V500	SIM	22
+4119	P360	SIM	10
+4120	B400	SIM	3
+4121	B516	SIM	3
+4122	K623	SIM	4
+4123	B636	SIM	1
+4124	B652	SIM	30
+4125	B622	SIM	2
+4126	B625	SIM	11
+4127	B645	SIM	1
+4128	B632	SIM	8
+4129	B320	SIM	1
+4130	B623	SIM	8
+4131	B500	SIM	12
+4132	B560	SIM	1
+4133	B326	SIM	1
+4134	B140	SIM	3
+4135	B160	SIM	1
+4136	A524	SIM	1
+4137	T520	SIM	13
+4138	O	SIM	33
+4139	L652	SIM	3
+4140	B651	SIM	1
+4141	B432	SIM	1
+4142	B450	SIM	2
+4143	M320	SIM	6
+4144	B456	SIM	11
+4145	B261	SIM	1
+4146	B525	SIM	1
+4147	B300	SIM	1
+4148	B655	SIM	1
+4149	B452	SIM	3
+4150	D360	SIM	2
+4151	B624	SIM	3
+4152	C620	SIM	5
+4153	B346	SIM	1
+4154	K150	SIM	1
+4155	R543	SIM	2
+4156	B660	SIM	2
+4157	K640	SIM	4
+4158	B653	SIM	5
+4159	G663	SIM	2
+4160	B656	SIM	3
+4161	J600	SIM	1
+4162	B654	SIM	2
+4163	U	SIM	13
+4164	B100	SIM	1
+4165	B255	SIM	6
+4166	V530	SIM	1
+4167	B235	SIM	1
+4168	B520	SIM	1
+4169	H520	SIM	21
+4170	J625	SIM	4
+4171	B626	SIM	2
+4172	M620	SIM	18
+4173	R000	SIM	8
+4174	C250	SIM	1
+4175	C500	SIM	21
+4176	C436	SIM	2
+4177	C434	SIM	1
+4178	C000	SIM	5
+4179	C640	SIM	4
+4180	C650	SIM	1
+4181	C600	SIM	2
+4182	C636	SIM	2
+4183	C354	SIM	1
+4184	C452	SIM	5
+4185	C536	SIM	3
+4186	C520	SIM	4
+4187	C155	SIM	8
+4188	C646	SIM	3
+4189	C340	SIM	1
+4190	L500	SIM	48
+4191	C625	SIM	13
+4192	E250	SIM	3
+4193	C264	SIM	1
+4194	C220	SIM	2
+4195	C140	SIM	4
+4196	C462	SIM	4
+4197	E100	SIM	1
+4198	H616	SIM	8
+4199	J160	SIM	5
+4200	C420	SIM	10
+4201	H450	SIM	2
+4202	C100	SIM	1
+4203	C320	SIM	8
+4204	C321	SIM	1
+4205	C325	SIM	5
+4206	P410	SIM	3
+4207	R150	SIM	6
+4208	W450	SIM	3
+4209	R163	SIM	5
+4210	C451	SIM	1
+4211	C540	SIM	24
+4212	J535	SIM	6
+4213	C563	SIM	2
+4214	C560	SIM	4
+4215	S250	SIM	2
+4216	C512	SIM	2
+4217	C120	SIM	1
+4218	C655	SIM	1
+4219	C652	SIM	1
+4220	C235	SIM	1
+4221	C364	SIM	3
+4222	C200	SIM	2
+4223	C616	SIM	2
+4224	C632	SIM	10
+4225	Z	SIM	12
+4226	C460	SIM	2
+4227	C552	SIM	1
+4228	D516	SIM	3
+4229	D536	SIM	2
+4230	D532	SIM	1
+4231	F652	SIM	9
+4232	D622	SIM	1
+4233	D200	SIM	9
+4234	D120	SIM	7
+4235	D160	SIM	3
+4236	D236	SIM	9
+4237	D151	SIM	1
+4238	G450	SIM	2
+4239	D153	SIM	1
+4240	D426	SIM	2
+4241	D436	SIM	1
+4242	S150	SIM	4
+4243	D452	SIM	1
+4244	Y120	SIM	1
+4245	D520	SIM	5
+4246	D540	SIM	10
+4247	D552	SIM	9
+4248	D526	SIM	4
+4249	O200	SIM	7
+4250	D530	SIM	1
+4251	R300	SIM	7
+4252	D620	SIM	8
+4253	D362	SIM	7
+4254	D250	SIM	1
+4255	D521	SIM	1
+4256	D125	SIM	2
+4257	D663	SIM	1
+4258	D230	SIM	1
+4259	D400	SIM	8
+4260	D616	SIM	8
+4261	D655	SIM	7
+4262	C260	SIM	4
+4263	D152	SIM	11
+4264	D251	SIM	2
+4265	D100	SIM	1
+4266	D563	SIM	7
+4267	D525	SIM	1
+4268	D600	SIM	3
+4269	E345	SIM	2
+4270	E342	SIM	1
+4271	E363	SIM	7
+4272	E245	SIM	1
+4273	E251	SIM	8
+4274	T623	SIM	1
+4275	E240	SIM	1
+4276	E256	SIM	1
+4277	E423	SIM	2
+4278	D612	SIM	2
+4279	E455	SIM	2
+4280	E430	SIM	5
+4281	E456	SIM	1
+4282	E560	SIM	1
+4283	I	SIM	29
+4284	E530	SIM	1
+4285	E123	SIM	2
+4286	E215	SIM	1
+4287	E365	SIM	5
+4288	E325	SIM	28
+4289	O650	SIM	12
+4290	S315	SIM	10
+4291	E163	SIM	3
+4292	F240	SIM	1
+4293	F420	SIM	2
+4294	F423	SIM	2
+4295	F626	SIM	6
+4296	A350	SIM	2
+4297	F560	SIM	1
+4298	F435	SIM	12
+4299	F236	SIM	1
+4300	F220	SIM	8
+4301	F400	SIM	4
+4302	T530	SIM	1
+4303	F550	SIM	10
+4304	F520	SIM	1
+4305	F260	SIM	4
+4306	F450	SIM	1
+4307	F612	SIM	2
+4308	K530	SIM	8
+4309	R260	SIM	4
+4310	F630	SIM	3
+4311	F623	SIM	1
+4312	F345	SIM	1
+4313	F656	SIM	1
+4314	F200	SIM	2
+4315	F620	SIM	7
+4316	F636	SIM	5
+4317	F653	SIM	1
+4318	F632	SIM	1
+4319	F651	SIM	2
+4320	F000	SIM	1
+4321	G100	SIM	4
+4322	G164	SIM	1
+4323	G520	SIM	6
+4324	G512	SIM	1
+4325	G516	SIM	5
+4326	G600	SIM	3
+4327	G252	SIM	2
+4328	G260	SIM	1
+4329	G200	SIM	5
+4330	G455	SIM	1
+4331	G526	SIM	2
+4332	G530	SIM	1
+4333	G621	SIM	12
+4334	A415	SIM	1
+4335	G615	SIM	1
+4336	G320	SIM	1
+4337	A330	SIM	3
+4338	G212	SIM	6
+4339	G145	SIM	1
+4340	G125	SIM	1
+4341	G416	SIM	4
+4342	G420	SIM	4
+4343	G521	SIM	5
+4344	M300	SIM	5
+4345	S350	SIM	24
+4346	G412	SIM	1
+4347	G350	SIM	1
+4348	R530	SIM	4
+4349	G140	SIM	5
+4350	G431	SIM	1
+4351	G435	SIM	7
+4352	K300	SIM	2
+4353	G432	SIM	1
+4354	M635	SIM	3
+4355	G451	SIM	1
+4356	G640	SIM	1
+4357	G635	SIM	2
+4358	G610	SIM	4
+4359	G650	SIM	3
+4360	G653	SIM	4
+4361	G651	SIM	1
+4362	G626	SIM	1
+4363	G652	SIM	3
+4364	G655	SIM	1
+4365	Q433	SIM	1
+4366	R255	SIM	2
+4367	G616	SIM	9
+4368	G250	SIM	3
+4369	G300	SIM	2
+4370	G414	SIM	4
+4371	G550	SIM	1
+4372	G130	SIM	1
+4373	O235	SIM	1
+4374	H160	SIM	1
+4375	H300	SIM	2
+4376	H314	SIM	1
+4377	H500	SIM	4
+4378	H416	SIM	3
+4379	J210	SIM	1
+4380	H553	SIM	1
+4381	H525	SIM	3
+4382	O360	SIM	1
+4383	H622	SIM	2
+4384	H642	SIM	6
+4385	H655	SIM	10
+4386	M520	SIM	7
+4387	H624	SIM	2
+4388	K500	SIM	7
+4389	H000	SIM	1
+4390	H200	SIM	6
+4391	H163	SIM	1
+4392	H260	SIM	3
+4393	J000	SIM	14
+4394	H240	SIM	1
+4395	H426	SIM	5
+4396	H514	SIM	1
+4397	H560	SIM	8
+4398	H535	SIM	12
+4399	H350	SIM	1
+4400	H112	SIM	1
+4401	H524	SIM	1
+4402	G160	SIM	1
+4403	H620	SIM	3
+4404	H263	SIM	2
+4405	H652	SIM	1
+4406	H155	SIM	1
+4407	H400	SIM	1
+4408	H452	SIM	1
+4409	H420	SIM	3
+4410	H100	SIM	2
+4411	H613	SIM	3
+4412	E620	SIM	2
+4413	H230	SIM	21
+4414	K000	SIM	11
+4415	H235	SIM	1
+4416	H220	SIM	1
+4417	C450	SIM	1
+4418	H342	SIM	1
+4419	H516	SIM	3
+4420	H325	SIM	1
+4421	I420	SIM	1
+4422	I516	SIM	1
+4423	I526	SIM	3
+4424	I610	SIM	1
+4425	I212	SIM	1
+4426	I200	SIM	1
+4427	I120	SIM	1
+4428	J240	SIM	10
+4429	T500	SIM	15
+4430	J250	SIM	1
+4431	J212	SIM	1
+4432	J232	SIM	1
+4433	J525	SIM	9
+4434	J532	SIM	1
+4435	H600	SIM	1
+4436	J155	SIM	1
+4437	J620	SIM	2
+4438	S300	SIM	8
+4439	J523	SIM	5
+4440	J560	SIM	1
+4441	J635	SIM	11
+4442	J526	SIM	1
+4443	L240	SIM	5
+4444	P200	SIM	9
+4445	K414	SIM	19
+4446	K415	SIM	1
+4447	K145	SIM	5
+4448	G540	SIM	1
+4449	K426	SIM	1
+4450	K320	SIM	7
+4451	K540	SIM	1
+4452	T200	SIM	8
+4453	K520	SIM	15
+4454	K200	SIM	8
+4455	K536	SIM	3
+4456	R500	SIM	7
+4457	K642	SIM	2
+4458	K210	SIM	2
+4459	K325	SIM	1
+4460	K630	SIM	2
+4461	K460	SIM	5
+4462	K465	SIM	1
+4463	K420	SIM	1
+4464	K400	SIM	3
+4465	K616	SIM	2
+4466	Y210	SIM	1
+4467	K656	SIM	1
+4468	K326	SIM	7
+4469	K514	SIM	1
+4470	K621	SIM	1
+4471	J200	SIM	1
+4472	K655	SIM	1
+4473	K456	SIM	2
+4474	K423	SIM	1
+4475	K410	SIM	2
+4476	D150	SIM	1
+4477	K435	SIM	12
+4478	J530	SIM	2
+4479	K533	SIM	3
+4480	K262	SIM	14
+4481	K620	SIM	3
+4482	K635	SIM	1
+4483	K626	SIM	1
+4484	K162	SIM	6
+4485	K560	SIM	5
+4486	K522	SIM	2
+4487	K612	SIM	2
+4488	K645	SIM	1
+4489	K342	SIM	2
+4490	K160	SIM	1
+4491	L260	SIM	13
+4492	L325	SIM	3
+4493	L600	SIM	5
+4494	L120	SIM	5
+4495	A650	SIM	1
+4496	L340	SIM	1
+4497	L630	SIM	3
+4498	L536	SIM	2
+4499	L530	SIM	1
+4500	L524	SIM	6
+4501	L532	SIM	1
+4502	L520	SIM	21
+4503	L526	SIM	1
+4504	L625	SIM	2
+4505	Y230	SIM	5
+4506	L220	SIM	6
+4507	L351	SIM	2
+4508	L640	SIM	4
+4509	L160	SIM	1
+4510	L200	SIM	14
+4511	L246	SIM	1
+4512	L250	SIM	2
+4513	L230	SIM	1
+4514	L563	SIM	2
+4515	L262	SIM	1
+4516	L525	SIM	4
+4517	Y500	SIM	4
+4518	N400	SIM	2
+4519	L320	SIM	4
+4520	L100	SIM	10
+4521	L150	SIM	1
+4522	L152	SIM	1
+4523	L165	SIM	2
+4524	L531	SIM	1
+4525	L510	SIM	5
+4526	L535	SIM	2
+4527	L355	SIM	18
+4528	L521	SIM	2
+4529	L300	SIM	1
+4530	Q	SIM	5
+4531	L252	SIM	4
+4532	E652	SIM	1
+4533	M235	SIM	2
+4534	M253	SIM	8
+4535	D242	SIM	1
+4536	M200	SIM	38
+4537	M263	SIM	7
+4538	M245	SIM	22
+4539	M350	SIM	2
+4540	M325	SIM	1
+4541	P300	SIM	9
+4542	M315	SIM	28
+4543	S636	SIM	3
+4544	M600	SIM	43
+4545	M412	SIM	1
+4546	M522	SIM	10
+4547	O400	SIM	3
+4548	M500	SIM	3
+4549	M534	SIM	2
+4550	M622	SIM	1
+4551	M625	SIM	1
+4552	M630	SIM	9
+4553	E450	SIM	2
+4554	M650	SIM	7
+4555	V350	SIM	4
+4556	M241	SIM	1
+4557	M236	SIM	4
+4558	M362	SIM	1
+4559	M322	SIM	1
+4560	M660	SIM	2
+4561	J300	SIM	10
+4562	M000	SIM	1
+4563	M262	SIM	3
+4564	M244	SIM	4
+4565	M250	SIM	3
+4566	M260	SIM	1
+4567	D543	SIM	2
+4568	M242	SIM	3
+4569	M450	SIM	5
+4570	M265	SIM	2
+4571	M226	SIM	1
+4572	M256	SIM	1
+4573	M324	SIM	7
+4574	M364	SIM	8
+4575	R230	SIM	3
+4576	M420	SIM	1
+4577	M460	SIM	1
+4578	M452	SIM	2
+4579	M615	SIM	1
+4580	M535	SIM	16
+4581	M154	SIM	1
+4582	U200	SIM	1
+4583	M663	SIM	6
+4584	M220	SIM	1
+4585	M330	SIM	1
+4586	M251	SIM	3
+4587	N340	SIM	1
+4588	N300	SIM	20
+4589	N240	SIM	1
+4590	N253	SIM	1
+4591	N256	SIM	1
+4592	N250	SIM	2
+4593	N655	SIM	1
+4594	N160	SIM	1
+4595	N100	SIM	1
+4596	N500	SIM	1
+4597	N600	SIM	7
+4598	N530	SIM	1
+4599	N143	SIM	1
+4600	N140	SIM	9
+4601	N220	SIM	7
+4602	N615	SIM	1
+4603	M552	SIM	2
+4604	N550	SIM	1
+4605	N163	SIM	2
+4606	S531	SIM	26
+4607	N200	SIM	5
+4608	N242	SIM	3
+4609	N261	SIM	1
+4610	N213	SIM	3
+4611	N230	SIM	1
+4612	S200	SIM	15
+4613	N120	SIM	1
+4614	J162	SIM	1
+4615	O130	SIM	2
+4616	O262	SIM	1
+4617	O600	SIM	3
+4618	O412	SIM	4
+4619	S345	SIM	2
+4620	O425	SIM	1
+4621	O553	SIM	2
+4622	O520	SIM	2
+4623	O165	SIM	4
+4624	O635	SIM	1
+4625	O640	SIM	1
+4626	O612	SIM	1
+4627	O263	SIM	1
+4628	O340	SIM	2
+4629	P316	SIM	1
+4630	P250	SIM	4
+4631	P453	SIM	1
+4632	P456	SIM	1
+4633	P552	SIM	1
+4634	P520	SIM	4
+4635	P340	SIM	14
+4636	S536	SIM	13
+4637	P362	SIM	3
+4638	P420	SIM	11
+4639	Z322	SIM	1
+4640	P500	SIM	2
+4641	P640	SIM	27
+4642	E350	SIM	4
+4643	P354	SIM	8
+4644	P620	SIM	3
+4645	P516	SIM	5
+4646	P536	SIM	2
+4647	P534	SIM	6
+4648	P660	SIM	1
+4649	P642	SIM	3
+4650	Y523	SIM	1
+4651	P651	SIM	1
+4652	P654	SIM	1
+4653	P650	SIM	3
+4654	P630	SIM	8
+4655	P600	SIM	2
+4656	P625	SIM	5
+4657	P412	SIM	5
+4658	P240	SIM	1
+4659	P230	SIM	1
+4660	E562	SIM	1
+4661	P430	SIM	1
+4662	P265	SIM	1
+4663	P636	SIM	1
+4664	P425	SIM	1
+4665	P626	SIM	8
+4666	L650	SIM	5
+4667	P615	SIM	1
+4668	P652	SIM	4
+4669	P632	SIM	1
+4670	P243	SIM	1
+4671	P455	SIM	1
+4672	Q000	SIM	1
+4673	Q532	SIM	1
+4674	Q545	SIM	3
+4675	R153	SIM	2
+4676	R100	SIM	1
+4677	R550	SIM	5
+4678	R221	SIM	1
+4679	R213	SIM	1
+4680	R451	SIM	1
+4681	R410	SIM	3
+4682	R525	SIM	1
+4683	R526	SIM	3
+4684	R534	SIM	3
+4685	R220	SIM	1
+4686	R324	SIM	1
+4687	R200	SIM	16
+4688	Y400	SIM	3
+4689	R560	SIM	3
+4690	R355	SIM	1
+4691	R250	SIM	1
+4692	A425	SIM	2
+4693	R514	SIM	2
+4694	R212	SIM	9
+4695	R553	SIM	1
+4696	R360	SIM	3
+4697	R536	SIM	1
+4698	R264	SIM	1
+4699	R400	SIM	2
+4700	R243	SIM	2
+4701	R236	SIM	1
+4702	R240	SIM	9
+4703	R563	SIM	1
+4704	R123	SIM	2
+4705	R152	SIM	2
+4706	R262	SIM	2
+4707	R620	SIM	1
+4708	R552	SIM	1
+4709	R251	SIM	2
+4710	R252	SIM	3
+4711	R246	SIM	1
+4712	R430	SIM	1
+4713	R546	SIM	1
+4714	S450	SIM	4
+4715	S455	SIM	4
+4716	S516	SIM	1
+4717	S522	SIM	1
+4718	S534	SIM	1
+4719	S526	SIM	4
+4720	S535	SIM	4
+4721	S623	SIM	3
+4722	A134	SIM	2
+4723	S360	SIM	3
+4724	S635	SIM	2
+4725	S520	SIM	29
+4726	S000	SIM	2
+4727	S146	SIM	1
+4728	S452	SIM	1
+4729	S124	SIM	1
+4730	S620	SIM	1
+4731	S600	SIM	1
+4732	S650	SIM	1
+4733	S634	SIM	6
+4734	S163	SIM	1
+4735	S550	SIM	6
+4736	S632	SIM	10
+4737	S320	SIM	8
+4738	S162	SIM	1
+4739	S340	SIM	1
+4740	S252	SIM	4
+4741	T652	SIM	3
+4742	S260	SIM	1
+4743	S500	SIM	9
+4744	S341	SIM	1
+4745	S160	SIM	5
+4746	S560	SIM	1
+4747	S363	SIM	1
+4748	U153	SIM	1
+4749	S630	SIM	1
+4750	S660	SIM	1
+4751	S236	SIM	3
+4752	S142	SIM	8
+4753	S255	SIM	2
+4754	S416	SIM	3
+4755	S552	SIM	9
+4756	S532	SIM	2
+4757	S353	SIM	5
+4758	S145	SIM	1
+4759	S420	SIM	1
+4760	S430	SIM	1
+4761	S545	SIM	4
+4762	G630	SIM	1
+4763	S542	SIM	2
+4764	S364	SIM	2
+4765	S400	SIM	2
+4766	S164	SIM	1
+4767	S613	SIM	1
+4768	S351	SIM	21
+4769	S354	SIM	1
+4770	S362	SIM	3
+4771	S316	SIM	1
+4772	S312	SIM	2
+4773	S326	SIM	1
+4774	S332	SIM	2
+4775	S165	SIM	1
+4776	S216	SIM	2
+4777	S141	SIM	1
+4778	S220	SIM	1
+4779	S525	SIM	1
+4780	S121	SIM	4
+4781	T314	SIM	1
+4782	T260	SIM	1
+4783	F421	SIM	1
+4784	T300	SIM	1
+4785	E300	SIM	1
+4786	T220	SIM	1
+4787	T551	SIM	1
+4788	T632	SIM	14
+4789	T635	SIM	5
+4790	T460	SIM	2
+4791	T263	SIM	1
+4792	T545	SIM	1
+4793	T651	SIM	1
+4794	T610	SIM	1
+4795	S123	SIM	2
+4796	T650	SIM	11
+4797	T320	SIM	3
+4798	T550	SIM	1
+4799	T620	SIM	8
+4800	T600	SIM	2
+4801	T253	SIM	2
+4802	T615	SIM	2
+4803	T612	SIM	1
+4804	T646	SIM	1
+4805	T252	SIM	1
+4806	T625	SIM	1
+4807	T656	SIM	1
+4808	T162	SIM	2
+4809	U210	SIM	9
+4810	E200	SIM	3
+4811	U455	SIM	2
+4812	U612	SIM	5
+4813	U321	SIM	10
+4814	V400	SIM	2
+4815	V453	SIM	2
+4816	K600	SIM	1
+4817	V425	SIM	1
+4818	V520	SIM	1
+4819	V430	SIM	2
+4820	N630	SIM	1
+4821	O161	SIM	1
+4822	V625	SIM	1
+4823	V420	SIM	2
+4824	V616	SIM	1
+4825	V614	SIM	2
+4826	V650	SIM	1
+4827	V600	SIM	2
+4828	V634	SIM	1
+4829	V340	SIM	1
+4830	V450	SIM	4
+4831	V423	SIM	2
+4832	V426	SIM	2
+4833	W656	SIM	1
+4834	V242	SIM	1
+4835	V000	SIM	1
+4836	A360	SIM	1
+4837	V345	SIM	1
+4838	W253	SIM	5
+4839	W300	SIM	3
+4840	W256	SIM	1
+4841	W100	SIM	1
+4842	W140	SIM	2
+4843	W426	SIM	2
+4844	W420	SIM	6
+4845	W432	SIM	26
+4846	W520	SIM	4
+4847	X	SIM	2
+4848	W630	SIM	3
+4849	W650	SIM	1
+4850	W210	SIM	7
+4851	W255	SIM	2
+4852	W600	SIM	2
+4853	W160	SIM	1
+4854	W143	SIM	4
+4855	W000	SIM	7
+4856	W200	SIM	5
+4857	W430	SIM	33
+4858	W612	SIM	2
+4859	W235	SIM	1
+4860	W330	SIM	23
+4861	W340	SIM	8
+4862	W245	SIM	1
+4863	W364	SIM	1
+4864	W652	SIM	2
+4865	W452	SIM	20
+4866	W422	SIM	1
+4867	W425	SIM	2
+4868	W524	SIM	2
+4869	W521	SIM	1
+4870	W523	SIM	2
+4871	W536	SIM	1
+4872	W252	SIM	1
+4873	W325	SIM	2
+4874	W350	SIM	2
+4875	L516	SIM	2
+4876	W250	SIM	3
+4877	W416	SIM	4
+4878	Y530	SIM	1
+4879	Y534	SIM	1
+4880	Y520	SIM	4
+4881	Y524	SIM	1
+4882	Y100	SIM	1
+4883	C300	SIM	2
+4884	Y220	SIM	5
+4885	Y000	SIM	1
+4886	Z100	SIM	1
+4887	Z120	SIM	1
+4888	Z362	SIM	1
+4889	Z222	SIM	1
+4890	Z540	SIM	1
+4891	Z520	SIM	11
+4892	Z000	SIM	10
+4893	Z416	SIM	1
+4894	Z565	SIM	3
+4895	Z432	SIM	1
+4896	Z623	SIM	1
+4897	Z320	SIM	1
+4898	al	NCK	8
+4899	alan	NCK	6
+4900	alexander	NCK	10
+4901	alfred	NCK	6
+4902	allen	NCK	8
+4903	william	NCK	6
+4904	daniel	NCK	11
+4905	donald	NCK	3
+4906	franklin	NCK	5
+4907	james	NCK	6
+4908	joseph	NCK	2
+4909	jon	NCK	10
+4910	jonathan	NCK	14
+4911	leroy	NCK	4
+4912	levi	NCK	10
+4913	marcus	NCK	8
+4914	roger	NCK	7
+4915	ronald	NCK	2
+4916	thomas	NCK	10
+4917	timothy	NCK	2
+4918	A	ABR	411
+4919	L	ABR	423
+4920	M	ABR	650
+4921	R	ABR	462
+4922	H	ABR	287
+4923	S	ABR	633
+4924	D	ABR	437
+4925	W	ABR	304
+4926	T	ABR	213
+4927	N	ABR	104
+4928	V	ABR	99
+4929	J	ABR	466
+4930	P	ABR	385
+4931	B	ABR	379
+4932	F	ABR	132
+4933	K	ABR	302
+4934	C	ABR	353
+4935	Y	ABR	62
+4936	E	ABR	207
+4937	G	ABR	275
+4938	O	ABR	83
+4939	U	ABR	41
+4940	Z	ABR	46
+4941	I	ABR	38
+4942	Q	ABR	11
+4943	X	ABR	2

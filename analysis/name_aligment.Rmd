@@ -1,0 +1,114 @@
+---
+title: "بخش اول) تطبیق اسامی"
+author: "محسن"
+date: "اسفند ۱۳۹۶  "
+output: html_notebook
+params:
+  IS.WRITE.OBJECT.CSV.OUTPUT: TRUE
+  IS.WRITE.NEO4J.OUTPUT: TRUE
+  
+---
+<style>
+
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRTitr, tahoma;
+}
+p, ol, li, ul, table {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRNazanin, tahoma;
+  text-align: justify;
+  text-justify: kashida;
+}
+td, th, header {
+  text-align: center !important;
+  vertical-align: middle;
+}
+
+tr:nth-child(odd) {
+   background-color: #f2f2f2
+}
+
+</style>
+ 
+ 
+یکی از بخش هایی که خیلی می تواند دقت ریزالو را بالا ببرد، این است که برای هر نام بفهمیم قسمت های آن چیست؟ یعنی مثلا این که نام کجاست، نام خانوادگی کجاست و ...
+حتی اگر دقیقا ساختار نام را نفهمیم ولی بتوانیم یک هم ترازی بین دو نام ایجاد کنیم هم می توانیم دقت تطبیق را افزایش دهیم.
+چرا که اگر تطبیق بین دو بخش متفاوت انجام شود (مثلا اشتباها نام یک نفر را با نام خانوادگی دیگری تطبیق دهیم) در این صورت دقت به شدت کاهش میابد
+
+# 1- منابع شناسایی ساختار نام
+اطلاعاتی که می توان از آن برای شناسایی ساختار نام استفاده کرد عبارت اند از:
+
+1. رتبه توکن در نام
+2. تعداد توکن های نام
+3. 
+
+
+
+##1- ورود داده به برنامه
+در ابتدا دیتا تیبلی از توکن ها و نام هایی که در آن بوده اند ایجاد می کنیم.
+```{r message=FALSE, warning=FALSE}
+library(data.table)
+source("helper_functions.R")
+set.seed(45L)
+
+tokens <- merge(node_dt[label=='REF'], edge_dt[type=='REF_TOKEN'], by.x = 'id', by.y = 'from_id')
+tokens <- merge(tokens, node_dt[label=='TOKEN'], by.x = 'to_id', by.y = 'id')
+tokens <- merge(tokens,  tokens[, .(ref_len = max(weight.y)), by=id], by='id')
+
+tokens <- tokens[, .(from_val, ref_len, weight.x, to_val, weight, weight.y, id, to_id)] [order(id)]
+names(tokens) <- c('ref', 'ref_t', 'ref_w', 'token', 'token_w', 'seq', 'ref_id', 'token_id')
+
+# View(tokens)
+```
+
+
+
+##2- بررسی توزیع جایگاه توکن ها در نام
+در زیر توزیع طول توکن ها آمده است. 
+```{r}
+tokens[, .(ref_len = max(seq)), by=ref_id] [,.(cnt = .N) , by=ref_len] [order(ref_len)]
+```
+
+آن نام هایی که تنها یک توکن دارند عبارتند از:
+```{r}
+tokens[, .(ref_len = max(seq)), by=ref] [ref_len == 1] [['ref']]
+```
+چند نام هم دارای 6 توکن مجزی هستند:
+```{r}
+tokens[, .(ref_len = max(seq)), by=ref] [ref_len == 6] [['ref']]
+
+```
+
+افرادی که نام آن ها بیش از 4 توکن دارد و نام آن ها به بیش از یک شیوه تکرار شده است.
+بدین وسیله می خواهیم بفهمیم که ارتباط آن ها با دیگر نام هاشون چیه؟
+```{r}
+long_refs <- tokens[, .(ref_len = max(seq)), by=ref_id] [ref_len >= 5]
+long_refs_res_ids <- merge(long_refs, edge_dt[type=='RESID_REF'], by.x = 'ref_id', by.y = 'to_id') [['from_id']]
+
+long_multi_res_ids <- edge_dt[type=='RESID_REF' & from_id %in% long_refs_res_ids, .(cnt = .N), by=from_id] [cnt>1]
+long_multi_edge_dt <- merge(edge_dt, long_multi_res_ids, by='from_id') [order(-cnt, from_id, -weight)]
+
+remove(long_refs, long_refs_res_ids, long_multi_res_ids)
+
+```
+
+### توزیع حضور در sequenceهای مختلف
+
+```{r}
+tmp <- tokens[, .(cnt = .N, sum_w = sum(ref_w)), by = .(token, seq, token_w)] [order(token, seq)]
+tmp[, sum_w := round(sum_w/token_w,  digits = 2)]
+token_seq_dist <- dcast(tmp, token + token_w ~ seq, value.var='sum_w', fun=sum, drop=TRUE)
+
+tmp <- tokens[, .(cnt = .N, sum_w = sum(ref_w * seq/ ref_t)), by = .(token, token_w)] [order(token)]
+tmp[, position_mean := sum_w/token_w]
+token_seq_dist <- merge(token_seq_dist, tmp[, .(token, position_mean)], by = 'token')
+
+remove(tmp)
+```
+
+
+
+
+والسلام
+

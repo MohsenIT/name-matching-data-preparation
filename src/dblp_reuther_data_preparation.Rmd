@@ -1,0 +1,66 @@
+---
+title: "DBLP_SUB data preparation"
+author: "Mohsen"
+date: "2018_09_23"
+output: html_notebook
+---
+
+Read xml data and extract author names from it. Write names in the proper format.
+
+```{r}
+library(xml2)
+library(data.table)
+data_name = 'dblp'
+out_csv_nodes_path <- sprintf('../out/%s_node_list.csv', data_name)
+out_csv_gold_path <- sprintf('../out/%s_gold_pairs.csv', data_name)
+data_csv_train_path <- sprintf('../data/%s_input.csv', data_name)
+
+dblp_data <- read_xml("../data/dblp_reuther/DBLP-SUB-D01.xml", options = c('DTDLOAD'))
+names <- xml_text(xml_find_all(dblp_data,"/dblp/article/author"))
+
+names <- iconv(names, "UTF-8", "ASCII//TRANSLIT") # unaccent
+train <- data.table(id = seq(length(names)), name=names, resolved_id = "")
+fwrite(train, data_csv_train_path)
+
+length(unique(names)) # [1] 21688
+```
+
+Read Gold standards
+
+```{r}
+
+gold_data <- read_xml("../data/dblp_reuther/DBLP-SUB-D01.groundtruth.xml", options = c('DTDLOAD'))
+author_name_1 <- xml_text(xml_find_all(gold_data,"/duplicates/DuplicatePair/author[1]"))
+author_name_2 <- xml_text(xml_find_all(gold_data,"/duplicates/DuplicatePair/author[2]"))
+author_name_1 <- iconv(author_name_1, "UTF-8", "ASCII//TRANSLIT") # unaccent
+author_name_2 <- iconv(author_name_2, "UTF-8", "ASCII//TRANSLIT") # unaccent
+author_name_1 <- gsub('[`\'\\{\\}]', '', tolower(author_name_1))
+author_name_2 <- gsub('[`\'\\{\\}]', '', tolower(author_name_2))
+
+
+gold_dt <- data.table(author_name_1, author_name_2)
+fwrite(gold_dt, out_csv_gold_path, sep = "\t")
+
+```
+
+# Adding RefId to GoldStandard
+
+Add RefV id to the gold standards after generation of "xxx_node_list.csv"
+
+Please run above code. Afterward run extract_name_hin.Rmd notebook and then run following code.
+
+```{r}
+gold_dt <- fread(out_csv_gold_path, sep = "\t")
+nodes_dt <- fread(out_csv_nodes_path, sep = "\t")
+refs_dt <- nodes_dt[which(nodes_dt[, 3] == 'REF'), c(1,2)]
+names(ref_dt) <- c('id', 'name')
+
+gold_dt <- merge(gold_dt, ref_dt, by.x = "author_name_1", by.y = "name")
+gold_dt <- merge(gold_dt, ref_dt, by.x = "author_name_2", by.y = "name")
+
+gold_dt <- gold_dt[, c(3,4,1,2)]
+names(gold_dt) <- c("author_id_1", "author_id_2", "author_name_1", "author_name_2")
+fwrite(gold_dt, out_csv_gold_path, sep = "\t")
+
+```
+
