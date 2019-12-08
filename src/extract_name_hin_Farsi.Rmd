@@ -1,7 +1,7 @@
 ---
-title: "Swash Data Modeling"
-author: "Mohsen Raeesi"
-date: '2019, June'
+title: "بخش اول) تطبیق اسامی"
+author: "محسن"
+date: 'اسفند ۱۳۹۶  '
 output:
   html_document:
     df_print: paged
@@ -9,81 +9,65 @@ output:
 params:
   IS.WRITE.NEO4J.OUTPUT: yes
 ---
-
 <style>
-  p, ol, li, ul, table {
-    text-align: justify;
-  }
 
-  td, th, header {
-    vertical-align: middle;
-  }
-  
-  tr:nth-child(even) {
-     background-color: #f2f2f2
-  }
-  
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .caption {
-    text-align: center;
-  }
+h1, h2, h3, h4, h5, h6 {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRTitr, tahoma;
+}
+p, ol, li, ul, table {
+  direction: rtl;
+  font-family: IRANSans, "Iranian Sans", IRNazanin, tahoma;
+  text-align: justify;
+  text-justify: kashida;
+}
+td, th, header {
+  text-align: center !important;
+  vertical-align: middle;
+}
+
+div.ltr p, div.ltr ol, div.ltr li, div.ltr ul, div.ltr table, div.ltr h1, div.ltr h2, div.ltr h3{ 
+  direction: ltr; 
+}
+
+tr:nth-child(odd) {
+   background-color: #f2f2f2
+}
+
 </style>
  
  
-The Swash framework consists of two major phases: data modeling and matching. The names corpus is transformed into a rich Heterogeneous Information Network (HIN) during the first phase. The matching phase exploits this HIN for measuring meta-path similarity and clustering. The following document dedicates to Data Modeling phase.
+در این بخش ما بنا داریم تا مجموعه داده اسامی را بخوانیم و آن را به گرافی ناهمگون تبدیل کنیم که در آن تمامی اطلاعات توزیع اسامی و همچنین توالی هر یک از بخش های نام کد شده است. در ادامه باید الگوریتمی ارائه دهیم که بتواند از این گراف به گونه ای بهره برداری نماید که 
 
-# 1- Network schema of the Swash layered HIN
+* در گام اول، روی اسامی خوشه بندی انجام دهد.
+* در گام دوم بتواند ساختار سلسله مراتبی اسامی (چه نامی می تواند با دیگری یکی باشد؟) را استخراج کند.
 
-The proposed layered network consists of three main segments:
+# 1- ساختار گراف تطبیق اسامی
+گراف تطبیق اسامی یک گراف ناهمگون اطلاعات است و دارای انواع مختلفی از گره و یال می باشد. لازم به ذکر است که این گراف یک MultiGraph نبوده و بین هر دو گره تنها یک یال وجود دارد.
 
-1. references
-2. clusters
-3. elements
+## 1-1- گره های گراف
+گراف مد نظر شامل انواع گره زیر است:
 
-![Network schema of Swash HIN](../img/Name_Matching_Graph_Schema_svg_fixed.svg)
+1. نام کامل
+2. توکن های نام
+3. شناسه های ریزالو شده
 
+هر کدام از این گره ها شامل وزنی هستند که نشان دهنده تعداد رخداد آن است.
 
-The references segment (layer 0, REF vertices) contains unique name references that contain in the input data. These references should be clustered to identify their underlying entities. The clusters segment consists of the vertices of layer -1 (CLS and RID types), which points to the same entity references of layer 0. The positive layers of the proposed network (layer 1 to 3: TKN, SIM, and ABR) form elements segment, which is used to compute the similarity between references. These layers contain the tokens of references and the more abstract forms of these tokens. Applying a similarity hash-based function (like Soundex) on layer 1 forms layer 2, and abbreviating (first character) layer 2 forms layer 3. Every similarity hash-based function, which increases abstraction, can be utilized for layer 2, such as phonetic coding, nicknames prior knowledge, and token's n-grams.
+## 2-1- یال های گراف
+یال های گراف می تواند انواع متفاوتی داشته باشد. در حال حاضر انواع متصور برای گراف شامل موارد زیر است.
 
-## 1-1- Node Types
+| سطح     | نوع                 | گره مبداء        | گره مقصد               | برچسب    | وزن             |
+| ------- | ------------------- | ---------------- | ---------------------- | -------- | --------------- |
+| R-->0 | شناسه ریزالو هر نام | شناسه ریزالو شده | نام                    | RID_REF  | تعداد تکرار نام |
+| 0-->1 | رتبه هر توکن در نام | نام              | قطعه نام               | REF_TKN  | رتبه در نام     |
+| 1-->1 | توالی توکن ها       | قطعه نام         | قطعه بعدی در توالی نام | TKN_TKN  | تعداد تکرار     |
+| 1-->2 | شباهت توکن ها       | قطعه نام         | هش های شبیه            | TKN_SIM  | تعداد تکرار     |
+| 2-->3 | شباهت توکن ها       | هش               | مخفف یا همان حرف اول   | SIM_ABR  | تعداد تکرار     |
+|         |                     |                  |                        |          |                 |
 
-The following table describes the various types of nodes in Swash HIN.
-
-| label | layer | description                                                                          | segment   | properties                        |
-|-------|-------|--------------------------------------------------------------------------------------|-----------|-----------------------------------|
-| CLS   | -1    | Identified clusters                                                                  | cluster   | Frequency                         |
-| RID   | -1    | Resolved IDs (if gold standard exists)                                               | cluster   | Frequency                         |
-| REF   | 0     | References of names                                                                  | reference | Frequency, value                  |
-| TKN   | 1     | Tokens of names' references                                                          | element   | Frequency, value, no. of clusters |
-| SIM   | 2     | The representative of similar tokens such as the same phonetic hash code or nickname | element   | Frequency, value, no. of clusters |
-| ABR   | 3     | Abbreviated of tokens (the first character)                                          | element   | Frequency, value, no. of clusters |
-
-
-## 1-2- Edge Types
-
-The Swash graph consists of different types of edges, as follows:
-
-| label           | out-l | in-l | description                                                                     | properties                                        | 
-|-----------------|-------|------|---------------------------------------------------------------------------------|---------------------------------------------------| 
-| RID_REF         | -1    | 0    | Reference names belonging to the same person                                    |                                                   | 
-| CLS_REF         | -1    | 0    | Reference names in the same cluster                                             |                                                   | 
-| CLS_TKN, CLS_SIM | -1    | 1, 2  | Cluster profile that presents the names' elements of the cluster representative | Token's order, PON tag (prefix, first name, etc.) | 
-| REF_REF         | 0     | 0    | The similarity between reference pair according to blocking the result          | similarity                                        | 
-| REF_TKN         | 0     | 1    | Tokens of the reference name                                                    | Token's order, PON tag                            | 
-| TKN_TKN         | 1     | 1    | Consecutive tokens' pairs                                                       | Frequency                                         | 
-| TKN_SIM         | 1     | 2    | Similarity representative of the token vertex                                   |                                                   | 
-| SIM_ABR         | 2     | 3    | Abbreviated form of the SIM vertex                                              |                                                   | 
-
-
-# 2- Construct the Swash HIN
-
-In this section, we implement the Swash data modeling phase in several steps.
-
-## 2-1- Input Arguments
+<div class = "ltr">
+### 0- Input Arguments
 
 In this section address of external files and some info about them is manualy defined.
 
@@ -103,7 +87,7 @@ out_csv_nodes_path <- sprintf('../out/%s_node_list.csv', data_name)
 ```
 
 
-## 2-2- Read raw input data
+### 1- Read raw input data
 
 Read 3 column from input excel data:
 
@@ -139,14 +123,14 @@ remove(errata_dt, input_xlsx_path, input_xlsx_columns, input_xlsx_probable_errat
 
 
 
-## 2-3- create datatable from explicit relations
+### 2- create datatable from explicit relations
 Adding explicit relations of dataset, including the following vertices and edges between them:
 
 1. resolved id of each reference, if exist.
 2. name references (unique names)
 3. tokens of each references
 
-![a toy example of Swash HIN](../img/name_matching_HIN_instance_das_svg_fixed.svg)
+![a toy example of Swash HIN](../img/Name_Matching_Graph_Schema.png)
 
 ```{r}
 node_dt <- data.table(id=integer(), val=character(), label=character(), weight=integer())
@@ -189,7 +173,7 @@ edge_dt <- dt.append(edge_dt, add.id.columns(unique(rt), node_dt[label=='REF'], 
 remove(names, name_tokens, t, rt, tokens, rt_types)
 ```
 
-## 2-4- Adding token sequence edges
+### 3- Adding token sequence edges
 each consecutive tokens represents as an edge in this phase.
 
 CAUTION: CURRENTLY, IT IS NOT RUNNED BY DEFAULT DUE TO `eval=FALSE`
@@ -214,7 +198,7 @@ edge_dt <- dt.append(edge_dt, add.id.columns(ts, node_dt[label=='TKN'], node_dt[
 remove(tmp_head, tmp_head_lead, ts, tmp_tokens)
 ```
 
-## 2-5- Adding 2nd level: similarity level
+### 4- Adding 2nd level: similarity level
 The phonic hash of 1st level tokens make 2nd level nodes. Edges between 1st and 2nd level can be generated by two citeria:
 
 1. **Exact match**: each 1st level token nodes only connect to each hash in 2nd level
@@ -262,7 +246,7 @@ remove(nck, nck.nodes, nck.edges, ids, col.order)
 
 
 
-## 2-6- Adding 3rd level: abbreviated level
+### 5- Adding 3rd level: abbreviated level
 The abbreviated form of 2nd level tokens make 3rd level nodes.
 
 ```{r message=FALSE, warning=FALSE}
@@ -285,7 +269,7 @@ remove(a, sa, sim, sim_weight)
 ```
 
 
-## 2-7- Write the result to a file
+### 5- Output result on file
 
 Modifying columns name according to standard of Neo4j import tool and write node and edge datatables to CSV files.
 
@@ -295,4 +279,8 @@ names(edge_dt) <- c('fr_id:START_ID', 'to_id:END_ID', 'fr_val:string', 'to_val:s
 fwrite(node_dt, file = out_csv_nodes_path, sep = "\t")
 fwrite(edge_dt, file = out_csv_edges_path, sep = "\t")
 ```
+</div>
+
+
+والسلام
 

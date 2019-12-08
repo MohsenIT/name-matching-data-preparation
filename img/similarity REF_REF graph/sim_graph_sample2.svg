@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="text/ecmascript"
+   width="1979.8679"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-118 -168.05539 1979.8679 358.95544"
+   height="358.95544"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg186"
+   sodipodi:docname="sim_graph_sample2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs190" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     id="namedview188"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.38912021"
+     inkscape:cx="1094.1817"
+     inkscape:cy="321.90592"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg186" />
+  <g
+     id="edges"
+     transform="translate(62.269669,-22.564762)">
+    <path
+       d="M 110.5649,168.38258 C 98.252899,157.34143 96.346626,122.31173 107.38777,109.99972"
+       class="id_19689 id_19690"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#c5c4a5;stroke-width:10;stroke-opacity:1" />
+    <path
+       d="M 110.5649,168.38258 C 182.2278,50.251701 466.91852,-19.450279 585.04938,52.212616"
+       class="id_19689 id_19692"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#bfaf52;stroke-width:1.13389587;stroke-opacity:1" />
+    <path
+       d="M 110.5649,168.38258 C 71.015663,154.78925 32.081818,75.075371 45.675156,35.526131"
+       class="id_19689 id_19691"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#629677;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="M 45.675156,35.526131 C 156.88728,-69.011414 480.51184,-58.999519 585.04938,52.212616"
+       class="id_19691 id_19692"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#5d8225;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="M 563.11304,124.05527 C 441.91962,209.83702 131.45691,156.71954 45.675156,35.526131"
+       class="id_19688 id_19691"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3e554a;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="M 306.87619,-79.648834 C 277.67099,-4.373631 120.95036,64.731354 45.675156,35.526131"
+       class="id_11533 id_19691"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#777ba4;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="M 107.38777,109.99972 C 80.150528,107.44753 43.122959,62.763374 45.675156,35.526131"
+       class="id_19690 id_19691"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#629677;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="M 351.76062,-31.524689 C 303.95367,43.102566 120.30241,83.333054 45.675156,35.526131"
+       class="id_11532 id_19691"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#777ba4;stroke-width:1.13059771;stroke-opacity:1" />
+    <path
+       d="m 563.11304,124.05527 c -9.98127,-18.7558 3.18054,-61.861392 21.93634,-71.842654"
+       class="id_19688 id_19692"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#9b6e25;stroke-width:1;stroke-opacity:1" />
+    <path
+       d="m 306.87619,-79.648834 c 82.00693,-29.262346 248.91086,49.854519 278.17319,131.86145"
+       class="id_11533 id_19692"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#d4947f;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="m 351.76062,-31.524689 c 63.40521,-29.910286 203.37842,20.332096 233.28876,83.737305"
+       class="id_11532 id_19692"
+       id="path22"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#d4947f;stroke-width:1.11744046;stroke-opacity:1" />
+    <path
+       d="M 107.38777,109.99972 C 191.36269,2.909981 477.95963,-31.762287 585.04938,52.212616"
+       class="id_19690 id_19692"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#bfaf52;stroke-width:1.13389587;stroke-opacity:1" />
+    <path
+       d="M 351.76062,-31.524689 C 333.1589,-32.17263 306.22827,-61.047115 306.87619,-79.648834"
+       class="id_11532 id_11533"
+       id="path26"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ee8dff;stroke-width:9.98352718;stroke-opacity:1" />
+    <path
+       d="m 1262.155,-86.331268 c 14.7278,23.853225 1.0396,81.724656 -22.8137,96.452389"
+       class="id_19213 id_19215"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.38965535;stroke-opacity:1" />
+    <path
+       d="M 1262.155,-86.331268 C 1247.6459,-17.175606 1122.1484,64.794037 1052.9928,50.284805"
+       class="id_19213 id_19214"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.35397816;stroke-opacity:1" />
+    <path
+       d="M 841.85504,-20.842243 C 912.81726,-118.00005 1164.9972,-157.29346 1262.155,-86.331268"
+       class="id_19211 id_19213"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.36559272;stroke-opacity:1" />
+    <path
+       d="m 843.6571,-76.453972 c 81.72413,-85.675038 332.8229,-91.601418 418.4979,-9.877296"
+       class="id_19212 id_19213"
+       id="path34"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.36559272;stroke-opacity:1" />
+    <path
+       d="m 1052.9928,50.284805 c 29.2369,-45.30244 141.0461,-69.40065 186.3485,-40.163684"
+       class="id_19214 id_19215"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.35397816;stroke-opacity:1" />
+    <path
+       d="m 843.6571,-76.453972 c 67.21491,-16.519386 192.8163,59.523884 209.3357,126.738777"
+       class="id_19212 id_19214"
+       id="path38"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.32991552;stroke-opacity:1" />
+    <path
+       d="m 841.85504,-20.842243 c 56.45294,-28.00214 183.13566,14.674087 211.13776,71.127048"
+       class="id_19211 id_19214"
+       id="path40"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.32991552;stroke-opacity:1" />
+    <path
+       d="M 841.85504,-20.842243 C 927.54498,-94.146835 1166.0366,-75.56881 1239.3413,10.121121"
+       class="id_19211 id_19215"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.36559272;stroke-opacity:1" />
+    <path
+       d="m 843.6571,-76.453972 c 96.45185,-61.821818 333.8624,-9.87677 395.6842,86.575093"
+       class="id_19212 id_19215"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.36559272;stroke-opacity:1" />
+    <path
+       d="m 841.85504,-20.842243 c -10.76196,-11.482758 -9.68072,-44.849796 1.80206,-55.611729"
+       class="id_19211 id_19212"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00d7e9;stroke-width:2.36559272;stroke-opacity:1" />
+    <path
+       d="m 1298.468,144.64322 c -55.4241,69.32875 -242.5532,90.18574 -311.88206,34.76166"
+       class="id_14006 id_14007"
+       id="path48"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff7433;stroke-width:4.69420433;stroke-opacity:1" />
+    <path
+       d="M 955.18835,123.58417 C 1028.0562,59.140038 1234.0239,71.775475 1298.468,144.64322"
+       class="id_14005 id_14006"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff7433;stroke-width:4.89122677;stroke-opacity:1" />
+    <path
+       d="m 955.18835,123.58417 c 17.44367,4.88463 36.28217,38.37706 31.39759,55.82071"
+       class="id_14005 id_14007"
+       id="path52"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff7433;stroke-width:4.95497417;stroke-opacity:1" />
+    <path
+       d="m 1533.9318,-41.536911 c 49.2074,-22.325371 156.5067,17.997726 178.832,67.205162"
+       class="id_14353 id_14354"
+       id="path54"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#29d233;stroke-width:4.85216284;stroke-opacity:1" />
+    <path
+       d="M 1587.5273,123.26322 C 1543.8481,101.02231 1511.6908,2.142235 1533.9318,-41.536911"
+       class="id_14340 id_14353"
+       id="path56"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#949c6d;stroke-width:2.63563657;stroke-opacity:1" />
+    <path
+       d="m 1587.5273,123.26322 c 5.5282,-44.56629 80.6702,-103.123263 125.2365,-97.594969"
+       class="id_14340 id_14354"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#949c6d;stroke-width:2.63563657;stroke-opacity:1" />
+    <path
+       d="M -112.28627,-28.278931 C -94.461823,-68.38237 -7.569978,-101.80084 32.533463,-83.976395"
+       class="id_20917 id_20918"
+       id="path60"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00aaf9;stroke-width:7.70715475;stroke-opacity:1" />
+  </g>
+  <g
+     id="nodes"
+     transform="translate(62.269669,-22.564762)">
+    <circle
+       r="11"
+       cx="110.5649"
+       class="id_19689"
+       cy="168.38258"
+       id="circle63"
+       style="fill:#c5c4a5;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="20"
+       cx="45.675156"
+       class="id_19691"
+       cy="35.526131"
+       id="circle65"
+       style="fill:#00694a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="20"
+       cx="585.04938"
+       class="id_19692"
+       cy="52.212616"
+       id="circle67"
+       style="fill:#ba9b00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="563.11304"
+       class="id_19688"
+       cy="124.05527"
+       id="circle69"
+       style="fill:#7d424b;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="11"
+       cx="107.38777"
+       class="id_19690"
+       cy="109.99973"
+       id="circle71"
+       style="fill:#c5c4a5;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="11"
+       cx="351.76062"
+       class="id_11532"
+       cy="-31.524689"
+       id="circle73"
+       style="fill:#ee8dff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="11"
+       cx="306.87619"
+       class="id_11533"
+       cy="-79.648834"
+       id="circle75"
+       style="fill:#ee8dff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14"
+       cx="1262.155"
+       class="id_19213"
+       cy="-86.331268"
+       id="circle77"
+       style="fill:#00d7e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14"
+       cx="1052.9928"
+       class="id_19214"
+       cy="50.284805"
+       id="circle79"
+       style="fill:#00d7e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14"
+       cx="1239.3413"
+       class="id_19215"
+       cy="10.121121"
+       id="circle81"
+       style="fill:#00d7e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14"
+       cx="843.6571"
+       class="id_19212"
+       cy="-76.453972"
+       id="circle83"
+       style="fill:#00d7e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="14"
+       cx="841.85504"
+       class="id_19211"
+       cy="-20.842243"
+       id="circle85"
+       style="fill:#00d7e9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="1298.468"
+       class="id_14006"
+       cy="144.64322"
+       id="circle87"
+       style="fill:#ff7433;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="955.18835"
+       class="id_14005"
+       cy="123.58417"
+       id="circle89"
+       style="fill:#ff7433;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="986.58594"
+       class="id_14007"
+       cy="179.40488"
+       id="circle91"
+       style="fill:#ff7433;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="1533.9318"
+       class="id_14353"
+       cy="-41.536911"
+       id="circle93"
+       style="fill:#29d233;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="1712.7638"
+       class="id_14354"
+       cy="25.668251"
+       id="circle95"
+       style="fill:#29d233;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="8"
+       cx="1587.5273"
+       class="id_14340"
+       cy="123.26322"
+       id="circle97"
+       style="fill:#ff66a7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="5"
+       cx="-112.28627"
+       class="id_20917"
+       cy="-28.278931"
+       id="circle99"
+       style="fill:#00aaf9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+    <circle
+       r="5"
+       cx="32.533463"
+       class="id_20918"
+       cy="-83.976395"
+       id="circle101"
+       style="fill:#00aaf9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+  </g>
+  <g
+     id="node-labels-outline"
+     transform="translate(62.269669,-22.564762)">
+    <text
+       font-size="45"
+       x="110.5649"
+       y="176.14259"
+       style="font-size:45px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:4.21875px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19689"
+       id="text104">manoelito m.de souza</text>
+    <text
+       font-size="78"
+       x="45.675156"
+       y="52.233162"
+       style="font-size:78px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:7.3125px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19691"
+       id="text106">q.a.g.de souza</text>
+    <text
+       font-size="79"
+       x="585.04938"
+       y="65.797173"
+       style="font-size:79px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:7.40625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19692"
+       id="text108">s.m.de souza</text>
+    <text
+       font-size="31"
+       x="563.11304"
+       y="129.40105"
+       style="font-size:31px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:2.90625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19688"
+       id="text110">luiz eduardo silva souza</text>
+    <text
+       font-size="44"
+       x="107.38777"
+       y="117.5873"
+       style="font-size:44px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:4.125px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19690"
+       id="text112">manoelito m de souza</text>
+    <text
+       font-size="45"
+       x="351.76062"
+       y="-23.786652"
+       style="font-size:45px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:4.21875px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_11532"
+       id="text114">a.de souza dutra</text>
+    <text
+       font-size="44"
+       x="306.87619"
+       y="-72.061264"
+       style="font-size:44px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:4.125px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_11533"
+       id="text116">alvaro de souza dutra</text>
+    <text
+       font-size="55"
+       x="1262.155"
+       y="-76.846817"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:5.15625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19213"
+       id="text118">s.v.shabanov</text>
+    <text
+       font-size="55"
+       x="1052.9928"
+       y="59.769264"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:5.15625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19214"
+       id="text120">s.shabanov</text>
+    <text
+       font-size="55"
+       x="1239.3413"
+       y="19.605579"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:5.15625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19215"
+       id="text122">s v shabanov</text>
+    <text
+       font-size="57"
+       x="843.6571"
+       y="-64.217155"
+       style="font-size:57px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:5.34375px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19212"
+       id="text124">sergei v.shabanov</text>
+    <text
+       font-size="56"
+       x="841.85504"
+       y="-8.8201084"
+       style="font-size:56px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:5.25px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_19211"
+       id="text126">sergey v.shabanov</text>
+    <text
+       font-size="32"
+       x="1298.468"
+       y="151.5078"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14006"
+       id="text128">a.yu.kamenshchik</text>
+    <text
+       font-size="33"
+       x="955.18835"
+       y="130.66327"
+       style="font-size:33px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:3.09375px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14005"
+       id="text130">alexander yu.kamenshchik</text>
+    <text
+       font-size="31"
+       x="986.58594"
+       y="184.75067"
+       style="font-size:31px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:2.90625px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14007"
+       id="text132">alexander kamenshchik</text>
+    <text
+       font-size="32"
+       x="1533.9318"
+       y="-34.667122"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14353"
+       id="text134">jae-kwan kim</text>
+    <text
+       font-size="33"
+       x="1712.7638"
+       y="32.752724"
+       style="font-size:33px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:3.09375px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14354"
+       id="text136">jae kwan kim</text>
+    <text
+       font-size="32"
+       x="1587.5273"
+       y="128.78145"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_14340"
+       id="text138">dae kwan kim</text>
+    <text
+       font-size="20"
+       x="-112.28627"
+       y="-24.830038"
+       style="font-size:20px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:1.875px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_20917"
+       id="text140">t.walhout</text>
+    <text
+       font-size="20"
+       x="32.533463"
+       y="-80.527496"
+       style="font-size:20px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:1.875px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8"
+       class="id_20918"
+       id="text142">t.s.walhout</text>
+  </g>
+  <g
+     id="node-labels"
+     transform="translate(62.269669,-22.564762)">
+    <text
+       font-size="45"
+       x="110.5649"
+       y="176.14259"
+       style="font-size:45px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19689"
+       id="text145">manoelito m.de souza</text>
+    <text
+       font-size="78"
+       x="45.675156"
+       y="52.233162"
+       style="font-size:78px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19691"
+       id="text147">q.a.g.de souza</text>
+    <text
+       font-size="79"
+       x="585.04938"
+       y="65.797173"
+       style="font-size:79px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19692"
+       id="text149">s.m.de souza</text>
+    <text
+       font-size="31"
+       x="563.11304"
+       y="129.40105"
+       style="font-size:31px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19688"
+       id="text151">luiz eduardo silva souza</text>
+    <text
+       font-size="44"
+       x="107.38777"
+       y="117.5873"
+       style="font-size:44px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19690"
+       id="text153">manoelito m de souza</text>
+    <text
+       font-size="45"
+       x="351.76062"
+       y="-23.786652"
+       style="font-size:45px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_11532"
+       id="text155">a.de souza dutra</text>
+    <text
+       font-size="44"
+       x="306.87619"
+       y="-72.061264"
+       style="font-size:44px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_11533"
+       id="text157">alvaro de souza dutra</text>
+    <text
+       font-size="55"
+       x="1262.155"
+       y="-76.846817"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19213"
+       id="text159">s.v.shabanov</text>
+    <text
+       font-size="55"
+       x="1052.9928"
+       y="59.769264"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19214"
+       id="text161">s.shabanov</text>
+    <text
+       font-size="55"
+       x="1239.3413"
+       y="19.605579"
+       style="font-size:55px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19215"
+       id="text163">s v shabanov</text>
+    <text
+       font-size="57"
+       x="843.6571"
+       y="-64.217155"
+       style="font-size:57px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19212"
+       id="text165">sergei v.shabanov</text>
+    <text
+       font-size="56"
+       x="841.85504"
+       y="-8.8201084"
+       style="font-size:56px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_19211"
+       id="text167">sergey v.shabanov</text>
+    <text
+       font-size="32"
+       x="1298.468"
+       y="151.5078"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14006"
+       id="text169">a.yu.kamenshchik</text>
+    <text
+       font-size="33"
+       x="955.18835"
+       y="130.66327"
+       style="font-size:33px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14005"
+       id="text171">alexander yu.kamenshchik</text>
+    <text
+       font-size="31"
+       x="986.58594"
+       y="184.75067"
+       style="font-size:31px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14007"
+       id="text173">alexander kamenshchik</text>
+    <text
+       font-size="32"
+       x="1533.9318"
+       y="-34.667122"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14353"
+       id="text175">jae-kwan kim</text>
+    <text
+       font-size="33"
+       x="1712.7638"
+       y="32.752724"
+       style="font-size:33px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14354"
+       id="text177">jae kwan kim</text>
+    <text
+       font-size="32"
+       x="1587.5273"
+       y="128.78145"
+       style="font-size:32px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_14340"
+       id="text179">dae kwan kim</text>
+    <text
+       font-size="20"
+       x="-112.28627"
+       y="-24.830038"
+       style="font-size:20px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_20917"
+       id="text181">t.walhout</text>
+    <text
+       font-size="20"
+       x="32.533463"
+       y="-80.527496"
+       style="font-size:20px;font-family:Calibri;dominant-baseline:central;text-anchor:middle;fill:#000000"
+       class="id_20918"
+       id="text183">t.s.walhout</text>
+  </g>
+</svg>
