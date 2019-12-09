@@ -1,39 +1,6 @@
----
-title: "Swash Data Modeling"
-author: "Mohsen Raeesi"
-date: '2019, June'
-output:
-  html_document:
-    keep_md: true
-    df_print: paged
-  pdf_document: default
-params:
-  IS.WRITE.NEO4J.OUTPUT: yes
----
-
-<style>
-  p, ol, li, ul, table {
-    text-align: justify;
-  }
-
-  td, th, header {
-    vertical-align: middle;
-  }
-  
-  tr:nth-child(even) {
-     background-color: #f2f2f2
-  }
-  
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .caption {
-    text-align: center;
-  }
-</style>
- 
+# Swash Data Modeling
+## Mohsen Raeesi
+## 2019, June
  
 The Swash framework consists of two major phases: data modeling and matching. The names corpus is transformed into a rich Heterogeneous Information Network (HIN) during the first phase. The matching phase exploits this HIN for measuring meta-path similarity and clustering. The following document dedicates to Data Modeling phase.
 
