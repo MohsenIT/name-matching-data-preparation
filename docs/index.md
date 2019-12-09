@@ -88,7 +88,8 @@ In this section, we implement the Swash data modeling phase in several steps.
 
 In this section address of external files and some info about them is manualy defined.
 
-```{r}
+
+```r
 data_name = 'arxiv'
 # data_name = 'citeseer'
 # data_name = 'dblp'
@@ -114,7 +115,8 @@ Read 3 column from input excel data:
 
 Afterward, the errata in the resolved_id are fixed.
 
-```{r message=FALSE, warning=FALSE}
+
+```r
 library(data.table)
 library(readxl)
 source("helper_functions.R")
@@ -149,7 +151,8 @@ Adding explicit relations of dataset, including the following vertices and edges
 
 ![a toy example of Swash HIN](../img/name_matching_HIN_instance_das_svg_fixed.svg)
 
-```{r}
+
+```r
 node_dt <- data.table(id=integer(), val=character(), label=character(), weight=integer())
 edge_dt <- data.table(from_id=integer(),to_id=integer(), from_val=character(), to_val=character(), type=character(), weight=numeric())
 
@@ -195,7 +198,8 @@ each consecutive tokens represents as an edge in this phase.
 
 CAUTION: CURRENTLY, IT IS NOT RUNNED BY DEFAULT DUE TO `eval=FALSE`
 
-```{r, eval=FALSE}
+
+```r
 # add reference freq to the REF_TKN edges
 tmp_tokens <- merge(edge_dt[type=='REF_TKN'], node_dt[label=='REF'], by.x='from_id', by.y='id') [, .(from_val, to_val, to_id, weight.x, weight.y)][order(from_val, weight.x)]
 tmp_head <- c('ref', 'token', 'from_id', 'seq', 'freq')
@@ -223,7 +227,8 @@ The phonic hash of 1st level tokens make 2nd level nodes. Edges between 1st and 
 
 First we start with the first criterion, but we plan to extend it to the second one.
 
-```{r message=FALSE, warning=FALSE}
+
+```r
 library(phonics)
 s <- node_dt[label=='TKN']
 s[, `:=`(id=0, val=tolower(soundex(val)), label='SIM')]
@@ -242,7 +247,8 @@ remove(s, ts, tkn, tkn_weight)
 ```
 
 Add similarity token to nicknames node:
-```{r message=FALSE, warning=FALSE}
+
+```r
 nck <- fread(input_csv_nicknames_path, col.names = c('to_val', 'val'))
 nck <- merge(node_dt[label=='TKN'], nck, by="val") # filter nicknames available in tokens
 
@@ -266,7 +272,8 @@ remove(nck, nck.nodes, nck.edges, ids, col.order)
 ## 2-6- Adding 3rd level: abbreviated level
 The abbreviated form of 2nd level tokens make 3rd level nodes.
 
-```{r message=FALSE, warning=FALSE}
+
+```r
 # add 'ABR' nodes
 a <- node_dt[label=='SIM']
 a[, `:=`(id=0, val=tolower(substr(val, 1, 1)), label='ABR')]
@@ -290,7 +297,8 @@ remove(a, sa, sim, sim_weight)
 
 Modifying columns name according to standard of Neo4j import tool and write node and edge datatables to CSV files.
 
-```{r message=FALSE, warning=FALSE}
+
+```r
 names(node_dt) <- c('id:ID', 'val:string','label:LABEL', 'weight:int')
 names(edge_dt) <- c('fr_id:START_ID', 'to_id:END_ID', 'fr_val:string', 'to_val:string', 'type:TYPE', 'val:int')
 fwrite(node_dt, file = out_csv_nodes_path, sep = "\t")
