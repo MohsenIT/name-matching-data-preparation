@@ -22,4 +22,4 @@ According to our investigation, there are many errors in the orginal labels of a
 ## Files description
 The excel files with _\_input.xlsx_ suffix are the the name corpus. Their errors are beside them with _\_probable\_errata.xlsx_ suffix. The data modeling algorithm reads erreta files and corrects labels of the corresponding name corpus.
 
-+Also a corpus of nicknames are available in this folder. It is an auxiliary data,  which is used to create the the level 2 of proposed matching HIN.
++Also a corpus of nicknames are available in this folder. It is an auxiliary data,  which is used to create the the level 2 of the proposed matching HIN.
