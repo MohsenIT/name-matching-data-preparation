@@ -17,7 +17,7 @@ Swash is a personal name matching framework which inspired by the human thinking
   <em>The general process of Swash name matching framework</em>
 </p>
 
-The rest of this markdown is dedicated to **Data Modeling** phase. For more information read [the related journal paper](https://www.sciencedirect.com/science/article/pii/S0957417419308322) .
+The rest of this markdown is dedicated to **Data Modeling** phase. This phase reads [raw dataset](https://github.com/MohsenIT/swash-data-modeling/tree/master/data). and constructs a reach HIN. For more information read [the related journal paper](https://www.sciencedirect.com/science/article/pii/S0957417419308322) .
 
 # 1- Network schema of the Swash layered HIN
 
