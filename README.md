@@ -5,7 +5,19 @@
 
  
  
-The Swash framework consists of two major phases: data modeling and matching. The names corpus is transformed into a rich Heterogeneous Information Network (HIN) during the first phase. The matching phase exploits this HIN for measuring meta-path similarity and clustering. The following document dedicates to Data Modeling phase.
+Swash is a personal name matching framework which inspired by the human thinking. It consists of two major phases: 
+
+1. **Data modeling**: Names are transformed into a rich HIN (Heterogeneous Information Network). This phase is implemented using R language, which is publicly available in [the current repository](https://github.com/MohsenIT/swash-data-modeling) .
+2. **Matching**: This phase alternates between the blocking stage, which finds possible candidate names, and clustering stage, which clusters the candidates. This phase is implemented with Java, and it is available on [link](https://github.com/MohsenIT/swash-matching).
+
+<p align="center">
+  <img src="img/swash_phases.PNG" height="120">
+</p>
+<p align="center">
+  <em>The general process of Swash name matching framework</em>
+</p>
+
+The rest of this markdown is dedicated to **Data Modeling** phase. For more information read [the related journal paper](https://www.sciencedirect.com/science/article/pii/S0957417419308322) .
 
 # 1- Network schema of the Swash layered HIN
 
